@@ -1,0 +1,29 @@
+Key,Description,en,fr
+cloudDiagnostics_title,UI Text,Cloud Diagnostics,Diagnostics Cloud
+cloudDiagnostics_descript,UI Text,"Would you like to opt-in to enable cloud diagnostics? Anonymous information such as error messages, system specifications, and game version will be sent to the developer to help track down bugs and provide a smoother game experience. It would be a huge help! This setting can be changed at any time in the game settings menu.","Souhaitez-vous vous inscrire pour activer les diagnostics cloud ? Des informations anonymes telles que les messages d'erreur, les spécifications du système et la version du jeu seront envoyées au développeur pour aider à détecter les bogues et offrir une expérience de jeu plus fluide. Ce serait d'une grande aide ! Ce paramètre peut être modifié à tout moment dans le menu des paramètres du jeu."
+Text (2)_761854,UI Text,Accept,J'accepte
+Text (2)_757242,UI Text,Deny,Refuser
+news_workshop,Workshop notification window,"Download, play, and rate community-made missions and campaigns without leaving VR!
+
+Upload custom missions and maps in VTEditor!","Téléchargez, jouez et notez des missions et des campagnes créées par la communauté sans quitter la réalité virtuelle !
+
+Téléchargez des missions et des cartes personnalisées dans VEditor !"
+quitButton_709596,VR Interactable,Quit Game,Quitter le jeu
+quitButtonText_711462,UI Text,Quit,Quitter
+acceptEulaToPlay_655458,UI Text,Accept EULA to play,Acceptez le CLUF pour jouer
+startGameButton_714120,VR Interactable,Start Game,Demarrer jeu
+startGameLabel_705546,UI Text,Start Game,Demarrer jeu
+disclaimerText_707784,UI Text,"Motion Sickness Warning:
+This game may induce motion sickness.  
+It may take some time to get used to, but the feeling of nausea will diminish with practice. 
+
+If at any point you feel nauseous, please remove the HMD and take a break.","Avertissement contre le mal des transports :
+Ce jeu peut provoquer le mal des transports.
+Cela peut prendre un certain temps pour s'y habituer, mais la sensation de nausée diminuera avec la pratique.
+
+Si, à un moment donné, vous vous sentez nauséeux, veuillez retirer le HMD et faire une pause."
+Title_764004,UI Text,Language,Langue
+AcceptButton_766562,VR Interactable,Accept,J'accepte
+DenyButton_760444,VR Interactable,Deny,Refuser
+SelectLangButton_2211708,VR Interactable,Select Language,Choisir la langue
+Handle_759118,VR Interactable,Scroll,Faire defiler

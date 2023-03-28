@@ -1,0 +1,461 @@
+Key,Description,en,fr
+ejectInteractable_911648,VR Interactable,Eject,Ejecter
+neckPTT_2582164,VR Interactable,Radio PTT,
+ButtonText_952188,UI Text,"Recenter
+seat","Recentrer
+siege"
+ButtonText_954842,UI Text,"exit
+mission","sortir
+mission"
+ButtonText_915708,UI Text,"Recenter
+seat","Recentrer
+siege"
+ButtonText_913026,UI Text,Restart,Redemarrer
+ButtonText_913894,UI Text,"exit
+mission","sortir
+mission"
+ButtonText_913940,UI Text,"Quick
+save","Rapide
+sauvegarde"
+ButtonText_915630,UI Text,Load,Charge
+ButtonText_913374,UI Text,Save,Sauvegarder
+Label_280922,HUD Unit label (mach),M,
+Label_280582,HUD Unit label (g-force),G,
+helmVisorInteractable_913784,VR Interactable,Visor,Visiere
+helmNVGInteractable_916002,VR Interactable,NVG,LVN
+PendingText_912704,UI Text,in progress...,en cours...
+CompleteText_915034,UI Text,COMPLETE,ACHEVEE
+MissionText_913392,UI Text,"MISSION
+",MISSION
+FailedText_916378,UI Text,FAILED,ECHOUE
+Handle_395644,VR Interactable,Scroll,Faire défiler
+Text_913356,UI Text,Restart Mission,Recommencer la mission
+ReturnButton_915862,VR Interactable,Return to Main,Retour à l'accueil
+Text_916314,UI Text,Finish Mission,Terminer la mission
+ToggleLogButton_915924,VR Interactable,Toggle Flight Log,Basculer le journal de vol
+Text_915514,UI Text,Show/Hide Flight Log,Afficher/masquer le journal de vol
+ContinueFlightButton_914390,VR Interactable,Continue Flight,Continuer le vol
+Quickload_414134,VR Interactable,Quickload,Chargement rapide
+Text_913888,UI Text,Flight log,Journal de vol
+UpIcon_915836,VR Interactable,Scroll Up,Defiler vers le haut
+DnIcon_916128,VR Interactable,Scroll Down,Defiler vers le bas
+BottomIcon_913766,VR Interactable,To Bottom,Vers le bas
+SaveToDiskText_912244,VR Interactable,Save Flight Log,enregistrer le journal de vol
+completionTimeLabel_-10687514,UI Text,Completion Time:,Temps d'achevement:
+joyInteractable_915260,VR Interactable,Joystick,Joystick
+joyAdjustInteractable_916106,VR Interactable,Adjust Joystick,
+AdjLeftButton_916408,VR Interactable,Adjust Left,
+AdjRightButton_913538,VR Interactable,Adjust Right,
+AdjFwdButton_915546,VR Interactable,Adjust Forward,
+AdjBackButton_916410,VR Interactable,Adjust Back,
+AdjUpButton_912256,VR Interactable,Adjust Up,
+AdjDownButton_915128,VR Interactable,Adjust Down,
+ToggleAdjustJoyInteractable_911908,VR Interactable,Toggle Auto Adjust,Basculer le reglage automatique
+Text_915188,VT Text,AUTO,AUTO
+releaseLabel_912934,UI Text,RELEASE,LIBERER
+loalText_299878,HUD when lock-on-after-launch AGM mode is active,LOAL,
+Label_915698,UI Text,SPEED,VITESSE
+Label_916182,UI Text,HULL,COQUE
+Label_913628,UI Text,VERT,
+ASLText_915472,UI Text,ASL,
+RDRAltText_911650,UI Text,RDR,
+Text_912910,UI Text,[ COLLISION      WARNING ],[ AVERTISSEMENT DE COLLISION ]
+Text_915452,UI Text,[ STALL          WARNING ],[ AVERTISSEMENT DE DECROCHAGE ]
+Label_914952,UI Text,HDG,
+HudBrakeLock_912300,UI Text,[ BRAKE LOCK ],[ VERROUILLAGE DU FREIN ]
+Text_913428,UI Text,-[ CHECK GEAR ]-,-[ VERIFIER LE MATERIEL ]-
+Label_913926,UI Text,"HVR
+ALT",
+Label_912198,UI Text,BRAKE,FREIN
+Label_916010,UI Text,"RDR
+BORESIGHT",
+HudWingFold_914040,UI Text,[ WING FOLD ],[ PLIAGE D'AILE ]
+Label_912968,UI Text,TILT,INCLINAISON
+Text_409944,UI Text,PULL UP!,REMONTER!
+PresetsLabel_912374,UI Text,LAYOUT SET,ENSEMBLE DE MISE EN PAGE
+PortalPresetButton1_913502,VR Interactable,Preset 1,Prereglage 1
+PortalPresetButton2_914226,VR Interactable,Preset 2,Prereglage 2
+PortalPresetButton3_913676,VR Interactable,Preset 3,Prereglage 3
+PortalPresetButton4_912162,VR Interactable,Preset 4,Prereglage 4
+Saved_911584,UI Text,SAVED,ENREGISTRÉ
+Text_914576,UI Text,"LAUNCH
+WARNING",LANCEMENT
+Text_412452,UI Text,MWS,MWS
+MastCautFlash_915446,VR Interactable,Dismiss,Rejeter
+Text_912896,UI Text,"MASTER
+CAUTION","MAITRE
+AVERTIR"
+Text_930208,UI Text,AB,AB
+Text_410182,UI Text,SHOOT,TIRER
+ClrWptButton_911890,VR Interactable,Clear Waypoint,Effacer le point de cheminement
+txt_914312,UI Text,CLR WPT,CLR WPT
+AltModeButton_914516,VR Interactable,Altitude Mode,Mode altitude
+txt_914352,UI Text,ALT MODE,MODE ALTERNATIVE
+ChaffLabel_410848,UI Text,CHAFF,BALLE
+FlareLabel_412694,UI Text,FLARE,FUSEES ECLAIRANTES
+FuelInfoButton_413878,VR Interactable,Show Fuel,Afficher le carburant
+txt_411628,UI Text,FUEL,CARBURANT
+AutoPilotDisplayButton_409942,VR Interactable,Show Autopilot,Afficher le pilote automatique
+txt_412918,UI Text,AUTOPILOT,PILOTE AUTOMATIQUE
+AltAPButton_411832,VR Interactable,Altitude AP,Altitude PA
+txt_413182,UI Text,ALT,ALT
+HeadingAPButton_414054,VR Interactable,Heading AP,En-tete AP
+NavAPButton_411372,VR Interactable,Nav Waypoint AP,Point de cheminement de navigation AP
+txt_410280,UI Text,NAV,VNI
+APOffButton_413514,VR Interactable,AP Off,AP desactive
+txt_413324,UI Text,OFF,DESACTIVE
+HeadingRight_415110,VR Interactable,Heading Right,Cap à droite
+HeadingLeft_411474,VR Interactable,Heading Left,Cap à gauche
+AltUp_410754,VR Interactable,Alt +,Alt +
+AltDown_413378,VR Interactable,Alt -,Alt -
+Text (1)_395816,UI Text,FUEL,CARBURANT
+Text_914572,Internal fuel,INTERNAL,INTERNE
+Text_912264,External Fuel,EXTERNAL,EXTERNE
+fuelDrainLabel_916118,UI Text,FUEL DRAIN,VIDANGE DE CARBURANT
+estTimeLabel_913460,UI Text,EST TIME,HEURE EST
+estDistLabel_913976,UI Text,"EST DIST
+",DIST EST
+twrLabel_914716,UI Text,MAX TWR,
+SwapButton_916316,VR Interactable,Swap Displays,Permuter les Ecrans
+Text_911674,UI Text,SWAP,PERMUTER
+MenuButton_911602,VR Interactable,Open Menu,Ouvrir le menu
+Text_913308,UI Text,MENU,MENU
+HideSubsButton_915178,TSD window config,Hide Subportals,Masquer les sous-portails
+ShowSubsButton_916154,TSD window config,Show Subportals,Afficher les sous-portails
+MaximizeButton_915918,TSD window config,Maximize,Maximiser
+UnMaximizeButton_911968,TSD window config,Return,Retour
+SubButtonLeft_912568,VR Interactable,Interactable,Interactif
+RadarPwrButton_911576,VR Interactable,Radar Power,Puissance radar
+txt_3677856,UI Text,RDR PWR,
+SOI Button_915502,VR Interactable,Toggle SOI,Basculer le SOI
+txt_913014,UI Text,SOI,
+ResetButton_912504,VR Interactable,Reset View,Reinitialiser la vue
+txt_914802,UI Text,RESET,REINITIALISER
+ZoomInButton_915158,VR Interactable,Zoom +,Zoomer +
+ZoomOutButton_914052,VR Interactable,Zoom -,Zoom -
+txt_911592,UI Text,"Z
+O
+O
+M",
+AltUpButton_915856,VR Interactable,Target Altitude Up,Altitude cible vers le haut
+AltDownButton_915176,VR Interactable,Target Altitude Down,Altitude cible vers le bas
+GPS-S Button_912284,VR Interactable,Send GPS Target,Envoyer une cible GPS
+txt_913488,UI Text,GPS-S,GPS-S
+FuelWPButton_913116,VR Interactable,Set Fuel Waypoint,Definir le point de cheminement du carburant
+txt_394682,UI Text,FUEL,LE CARBURANT
+RTBWPButton_915740,VR Interactable,Set RTB Waypoint,Definir le point de cheminement RTB
+txt_911618,UI Text,RTB,RTB
+ObjWpButton_915190,VR Interactable,Set Objective Waypoint,Definir un point de cheminement objectif
+txt_912214,UI Text,OBJ,OBJ
+ModeButton_931214,VR Interactable,Toggle Rotation Mode,Basculer le mode de rotation
+tgpMode (1)_912938,UI Text,MODE,MODE
+Subsized_393072,UI Text,NAV,VNI
+PrevButton_911806,VR Interactable,Previous Objective,Objectif precedent
+txt_915846,UI Text,PREV,PRECEDENT
+NextButton_912640,VR Interactable,Next Objective,Objectif suivant
+txt_911854,UI Text,NEXT,SUIVANT
+WptButton_915876,VR Interactable,Set Waypoint,Definir le point de cheminement
+txt_912902,UI Text,SET WPT,SET WPT
+MissionText_913922,UI Text,OBJECTIVES,OBJECTIFS
+Title_915150,UI Text,Spectator Camera,Camera Spectateur
+PreviewBtn_912556,VR Interactable,Toggle Preview,Basculer l'apercu
+txt_914652,UI Text,PREVIEW,APERCU
+AutoFOVText_913340,UI Text,AutoFOV,Champ de vision automatique
+StartButton_912580,VR Interactable,Start,Demarrer
+txt_929168,UI Text,START,DeMARRER
+StopButton_916412,VR Interactable,Stop,Arreter
+txt_391880,UI Text,STOP,ARRETER
+ModeButton_912112,VR Interactable,Switch Modes,Changer de mode
+RandBtn_913264,VR Interactable,Random Modes,Modes aleatoires
+txt_912466,UI Text,RAND,RAND
+FovBtn_915130,VR Interactable,Change FOV,Changer le champ de vision
+txt_916254,UI Text,FOV,Champ de vision
+AudioBtn_913514,VR Interactable,Toggle Audio,Basculer le son
+LookModeBtn_911888,VR Interactable,Toggle Look Mode,Basculer le mode de visualisation
+txt_913042,UI Text,LOOK,REGARDER
+AutoResetBtn_914756,VR Interactable,Toggle Auto Reset,Basculer la reinitialisation automatique
+AutoResetTimeBtn_915938,VR Interactable,Cycle Reset Time,Temps de reinitialisation du cycle
+SSBtn_911784,VR Interactable,4k Screenshot,Capture d'ecran 4k
+txt_915184,UI Text,SS,SS
+Subsized_911678,UI Text,SPEC CAM,CAM SPEC
+ToggleCMSModeButton_317010,VR Interactable,Toggle Mode,Basculer le mode
+eqNameText_930458,UI Text,VEHICLE OPTIONS,OPTIONS DE VEHICULE
+JoyModeText_916046,VR Interactable,Joystick Mode,Mode manette
+JoyModeText_txt_-2288018,UI Text,JOYSTICK MODE,MODE JOYSTICK
+JoySensText_-6385166,VR Interactable,Joystick Sensitivity,Sensibilite du joystick
+JoySensText_txt_-2287244,UI Text,JOY SENS,JOIE SENS
+UnitsButton_2553924,VR Interactable,Unit Options,Options d'unite
+UnitsButton_txt_-3699322,UI Text,UNITS,UNITES
+AltWarnButton_265846,VR Interactable,Altitude Warning Options,Options d'avertissement d'altitude
+AltWarnButton_txt_-3700084,UI Text,ALT WARNING,AVERTISSEMENT ALT
+eqNameText_412380,UI Text,UNIT OPTIONS,OPTIONS D'UNITE
+UnitsButton_270412,VR Interactable,Altitude Units,Unites d'altitude
+AltModeLabel_txt_-2237336,UI Text,Alt Units,Unites alternatives
+DistModeLabel_913734,VR Interactable,Distance Units,Unites de distance
+DistModeLabel_txt_-2238442,UI Text,Dist Units,Unites de distance
+SpeedModeLabel_913492,VR Interactable,Speed Units,Unites de vitesse
+SpeedModeLabel_txt_-2239208,UI Text,Speed Units,Unites de vitesse
+BackButton_929148,VR Interactable,Return to SMS,Retour au SMS
+txt_916098,UI Text,RETURN,REVENIR
+eqNameText_415092,UI Text,ALTITUDE WARNINGS,AVERTISSEMENTS D'ALTITUDE
+title_414582,UI Text,MIN ALTITUDE,ALTITUDE MIN
+up_403726,VR Interactable,Min Alt +,Alt min +
+down_403970,VR Interactable,Min Alt -,Alt min -
+title_412346,UI Text,MAX ALTITUDE,ALTITUDE MAX
+up_404106,VR Interactable,Max Alt +,Alt max +
+down_403400,VR Interactable,Max Alt -,Alt max -
+ToggleModeButton_400002,VR Interactable,Toggle Altitude Mode,Basculer en mode altitude
+Subsized_914204,UI Text,OPTION,OPTION
+wpnInfoInteractable_913170,VR Interactable,Config,Configuration
+txt_916366,UI Text,MASTER SAFE,COFFRE-FORT
+BayOverridesButton_930920,VR Interactable,Weapon Bay Door Overrides,Contournements de la porte de la baie d'armes
+txt_930770,UI Text,"BAY DOOR
+OVERRIDES",PORTE EN BAIE
+FuelConfigButton_-387262,VR Interactable,Fuel Configuration,Configuration du carburant
+txt_413290,Fuel Config Button,"FUEL
+CONFIG","CARBURANT
+CONFIG"
+ModeButton_-387576,VR Interactable,Action Mode,Mode d'action
+CMSConfigButton_414354,VR Interactable,CMS Configuration,Configuration du CMS
+txt_409780,CMS Config Button,CMS,CMS
+armedInteractable_-50098,SMS equip arming button,Toggle Arming,Basculer l'armement
+jettisonText_152168,SMS equip jettison button,JETTISON,ABANDONNER
+jettisonInteractable_-49280,SMS equip jettison button,Toggle Jettison,Basculer largage
+eqNameText_413016,UI Text,"WEAPON BAY DOOR
+OVERRIDES",PORTE DE LA BAIE D'ARMES
+SideBayLeftOverride_930680,VR Interactable,Toggle Bay Override,Basculer le remplacement de la baie
+optionLabel_929256,UI Text,SIDE BAY LEFT,BAIE LATERALE GAUCHE
+optionLabel_930046,UI Text,SIDE BAY RIGHT,SIDE BAY DROITE
+optionLabel_930498,UI Text,MAIN BAY LEFT,BAIE PRINCIPALE GAUCHE
+optionLabel_929734,UI Text,MAIN BAY RIGHT,BAIE PRINCIPALE DROITE
+optionLabel_930724,UI Text,ALL BAYS,TOUTES LES BAIES
+eqNameText_414772,UI Text,FUEL CONFIG,CONFIG CARBURANT
+BingoAdjustTitle_-439040,UI Text,BINGO LEVEL,NIVEAU BINGO
+BingoUp_-438640,VR Interactable,Bingo +,Bingo +
+BingoDown_-438642,VR Interactable,Bingo -,Bingo -
+FuelDumpTitle_414318,UI Text,FUEL DUMP,VIDANGE DE CARBURANT
+StartDumpButton_409584,Start Fuel Dump,Start Dump,Demarrer le vidage
+txt_414010,Start Fuel Dump,START,DeMARRER
+StopDumpButton_409644,Stop Fuel Dump,Stop Dump,Arreter le vidage
+txt_414948,Stop Fuel Dump,STOP,ARRETER
+cmsUINameText_319304,UI Text,COUNTERMEASURE SYSTEM,SYSTEME DE CONTRE-MESURE
+Chaff_396040,VR Interactable,Toggle Chaff,Basculer la paille
+titleText_412036,UI Text,CHAFF,BALLE
+Flares_395820,VR Interactable,Toggle Flares,Basculer les fusees eclairantes
+titleText_319618,UI Text,FLARES,FLECHES
+txt_413196,CMS Release Mode,RELEASE MODE,MODE DE LIBERATION
+RateAdjustTitle_321828,UI Text,RELEASE RATE,TAUX DE LIBERATION
+RateUp_318734,VR Interactable,Rate +,Tarif +
+RateDown_317472,VR Interactable,Rate -,Taux -
+Subsized_912990,UI Text,SMS,SMS
+Subsized_dumpTxt_410998,UI Text,FUEL DUMP,VIDANGE DE CARBURANT
+title_911810,UI Text,"LOCK
+B
+R
+A","SERRURE
+B
+R
+A"
+OffObj_913268,UI Text,RADAR OFF,RADAR DESACTIVE
+FOVText_916096,UI Text,BORESIGHT,BORESIGHT
+txt_914320,UI Text,POWER,PUISSANCE
+Text_916224,UI Text,RADAR,RADAR
+FOVText ButtonLabel_912576,VR Interactable,Toggle Scan Angle,Basculer l'angle de balayage
+FOVText ButtonLabel_txt_-99372,UI Text,SCAN ANGLE,ANGLE DE BALAYAGE
+RangePlusButton_914332,VR Interactable,Range +,Portee +
+RangeMinusButton_912506,VR Interactable,Range -,Varier -
+TgtsTitle_916300,UI Text,TARGETS,CIBLES
+UpIcon_912786,VR Interactable,Prev Target,Cible precedente
+DnIcon_914006,VR Interactable,Next Target,Cible suivante
+MoveDnIcon_912108,VR Interactable,Move Down,Descendre
+MoveUpIcon_911912,VR Interactable,Move Up,Deplacer vers le haut
+GroupsTitle_914306,UI Text,GROUPS,GROUPES
+GroupsDown_912348,VR Interactable,Next Group,Groupe suivant
+GroupsUp_915390,VR Interactable,Prev Group,Groupe precedent
+DelTgt_913348,delete gps target interactable tooltip,Delete Target,Supprimer la cible
+DelTgt_txt_-102726,delete gps target button label,"DELETE
+TARGET","SUPPRIMER
+CIBLE"
+DelGrp_915250,delete gps group button tooltip,Delete Group,Supprimer le groupe
+DelGrp_txt_-103580,delete gps group button label,"DELETE
+GROUP","SUPPRIMER
+GROUPE"
+NewGrp_911746,new gps group button tooltip,New Group,Nouveau groupe
+NewGrp_txt_-104494,new gps group button label,"NEW
+GROUP","NOUVEAU
+GROUPE"
+pathLabel_915232,gps group path mode tooltip,Toggle Path Mode,Basculer en mode chemin
+gpsWptButton_txt_-106506,set gps point waypoint label,SET WPT,SET WPT
+SendData_-6646600,Send GPS group to friendlies in multiplayer,Send Data,Envoyer des donnees
+SendData_txt_-6646598,delete gps target button label,"SEND
+DATA","Envoyer
+Donnees"
+Subsized_911596,UI Text,"GPS
+TARGETS","GPS
+CIBLES"
+NoSignalText_913810,UI Text,NO SIGNAL,PAS DE SIGNAL
+Text_915098,UI Text,AREA,ZONE
+Text_915864,UI Text,POINT,INDIQUER
+Text_915242,UI Text,IFF:FRIEND,IFF:AMI
+Text_914872,UI Text,IFF:FOE,
+HeadModeText_915908,UI Text,"USE HELMET VISOR/HMCS
+
+AUGMENTED VIEW ENABLED","UTILISER LA VISIERE DE CASQUE/NCSM
+VUE AUGMENTEE ACTIVEE"
+gimbalLimit_913148,UI Text,GIMBAL LIMIT,LIMITE DE CARDIAQUE
+ModeButton_914818,VR Interactable,Targeting Mode,Mode de ciblage
+SensButton_914330,VR Interactable,Sensor Mode,Mode capteur
+txt_912372,UI Text,SENS,SENS
+HeadButton_914894,VR Interactable,HMD Mode,Mode HMD
+tgpMode_914458,UI Text,HEAD,DIRIGER
+FwdButton_912778,VR Interactable,Reset Forward,Reinitialiser En avant
+txt_916362,UI Text,FWD,FWD
+GPS-S Button_915296,VR Interactable,GPS Send,Envoi GPS
+GPS-A Button_915520,VR Interactable,GPS Acquire,Acquisition GPS
+txt_913352,UI Text,GPS-A,GPS-A
+ToWptButton_914462,VR Interactable,To Waypoint,Au point de cheminement
+txt_914632,UI Text,TO WPT,
+LIM Button_-7676696,VR Interactable,Toggle Limits Overlay,Basculer la superposition des limites
+txt_409782,UI Text,LIM,LIM
+MarkerButton_5516312,VR Interactable,Laser Marker,Marqueur laser
+txt_5601166,Laser marker button text,MARK,MARQUER
+PrevPageButton_912958,VR Interactable,Prev Page,Page precedente
+NextPageButton_915536,VR Interactable,Next Page,Page suivante
+BackButton_393686,VR Interactable,Back,Reculer
+txt_912290,UI Text,CANCEL,ANNULER
+Title_915426,UI Text,COMMS,COMMS
+Text_914552,UI Text,GAME MENU,MENU DU JEU
+Play Area Text_399346,UI Text,PLAY AREA,AIRE DE JEUX
+RecenterButton_913736,VR Interactable,Recenter Seat,Siege plus recent
+txt_913580,UI Text,RECENTER,RECENTER
+txt_911972,UI Text,MISSION,MISSION
+txt_913088,UI Text,RESTART,REDEMARRER
+RestartButton_911636,VR Interactable,Quicksave Menu,Menu d'enregistrement rapide
+txt_410560,UI Text,QUICKSAVE,SAUVEGARDE RAPIDE
+ExitButton_912780,VR Interactable,Exit Mission,Quitter Mission
+txt_916092,UI Text,EXIT,SORTIR
+FlightLog Button_414124,VR Interactable,Flight Log,Journal de vol
+txt_409254,UI Text,LOG,JOURNAL
+PlayersButton_-29308950,VR Interactable,View Players,Voir joueurs
+playerstxt_-29308946,UI Text,PLAYERS,JOUEURS
+NetworkButton_-29379578,VR Interactable,Network Analytics,Analyse du reseau
+txt_527716,UI Text,NETWORK,RESEAU
+Text_916022,UI Text,"Sit comfortably
+and press
+[menu]
+to recenter","Asseyez-vous confortablement
+et appuyez sur
+[menu]
+pour recentrer"
+txt_410172,UI Text,Save to disk,Enregistrer sur disque
+saveText_-13568996,VR Interactable,Quicksave,Sauvegarde rapide
+saveText_txt_-100236,quicksave button label,SAVE,SAUVEGARDER
+availableLabel_956208,UI Text,"SAVES
+AVAILABLE:","SAUVEGARDES
+DISPONIBLE:"
+NoQsText_955496,UI Text,"QUICKSAVE
+NOT AVAILABLE","SAUVEGARDE RAPIDE
+PAS DISPONIBLE"
+lastSaveLabel_954396,UI Text,Last Save:,Derniere sauvegardee:
+loadText_-13568992,VR Interactable,Quickload,Chargement rapide
+loadText_txt_-101050,quickload button label,LOAD,CHARGE
+PlayersReturnButton_520924,VR Interactable,Return,Retour
+txt_525336,UI Text,RETURN,RETOUR
+ManagePlayersButton_521164,VR Interactable,Manage Players,Gerer joueurs
+txt_526582,UI Text,MANAGE,GERER
+upArrow_527248,VR Interactable,Scroll Up,Defiler vers le haut
+downArrow_521412,VR Interactable,Scroll Down,Defiler vers le bas
+netAnalyticsTtle_-29380092,UI Text,vt net analytics,
+NetworkReturnButton_521328,VR Interactable,Return,Retour
+txt_523966,UI Text,RETURN,RETOUR
+ScaleButton_393616,VR Interactable,Zoom +,Zoomer +
+ScaleButton (1)_410406,VR Interactable,Zoom -,Zoom -
+braLabel_916212,UI Text,"B
+R
+A",B
+MHLabel_911876,UI Text,"M
+H",M
+SlewTGPButton_912226,VR Interactable,Slew EOTS,Slew EOTS
+txt_916166,UI Text,EOTS,EOTS
+RadarAngleButton_913540,VR Interactable,Sweep Angle,Angle de balayage
+txt_912826,Radar angle label,ANGLE,ANGLE
+RadarPointButton_5515842,VR Interactable,Toggle Point Track,Basculer le suivi des points
+txt_5602762,Radar point lock label,POINT,INDIQUER
+RadarSettingsButton_914450,VR Interactable,Radar Settings,Parametres du radar
+RadarPowerButton_911976,VR Interactable,Show Allies,Afficher les allies
+txt_914476,UI Text,ALLY,ALLIE
+HUDFoeButton_411098,VR Interactable,Show Foes,Afficher les ennemis
+txt_414072,TSD HUD filter,FOE,ENNEMI
+HUDAirButton_411548,VR Interactable,Show Air,Afficher l'air
+txt_410524,TSD HUD filter,AIR,AIR
+HUDGroundButton_411390,VR Interactable,Show Ground,Afficher le sol
+txt_412394,TSD HUD filter,GRND,TERRE
+HUDMissileButton_414516,VR Interactable,Show Missiles,Afficher les missiles
+txt_412204,TSD HUD filter,MSSL,MSSL
+HUDSettingsButton_414214,VR Interactable,HUD Settings,Parametres HUD
+txt_915874,UI Text,HUD,ATH
+typeText_913752,UI Text,GPS,GPS
+braLabel_912824,UI Text,"B
+R","B
+R"
+ResetViewButton_-34018362,VR Interactable,Reset View,Reinitialiser la vue
+txt_222022,UI Text,RESET,REINITIALISER
+Subsized_915030,UI Text,TSD,TSD
+MFD1PowerInteractable_912850,VR Interactable,MFD Power,Puissance MFD
+MFDBrightnessKnob_916384,VR Interactable,MFD Brightness,Luminosite MFD
+HMCSPowerInteractable_914036,VR Interactable,HMD Power,Puissance HMD
+HUDBrightKnob_915916,VR Interactable,HUD Brightness,Luminosite du HUD
+masterArmSwitchInteractable_912532,VR Interactable,Master Arm Switch,Commutateur de bras principal
+coverSwitchInteractable_masterArm_915432,VR Interactable,Switch Cover,Couvercle du commutateur
+raiseSeatInter_915664,VR Interactable,Raise Seat,Relever le siege
+lowerSeatInter_915488,VR Interactable,Lower Seat,Siege inferieur
+visorButtonInteractable_-7865812,VR Interactable,Toggle Visor,Basculer la visiere
+nvgButtonInteractable_-7865816,VR Interactable,Toggle NVG,Basculer NVG
+clearButton_4853888,Clear joined/left notifications,Clear,
+info_userLeft,UI Text,has left!,est parti !
+membersTitle_6548730,UI Text,Invite Friends,Inviter des amis
+ToggleMute_-118434,VR Interactable,Toggle Mute,Basculer en sourdine
+Kick_-113880,VR Interactable,Kick,
+kickText_-113882,UI Text,Kick,
+Ban_-116098,VR Interactable,Block,
+banText_-116094,UI Text,Block,
+ScrollInteractable_-645206,VR Interactable,Scroll,Defilement
+ErrorOKButton_-8378960,VR Interactable,Okay,D'accord
+okText_-8378962,UI Text,Cancel,Annuler
+Deny_1950982,VR Interactable,Cancel,Annuler
+Invite_-47166,VR Interactable,Invite,Inviter
+inviteText_-47202,UI Text,Invite,Inviter
+invitedText_-48900,UI Text,Invited,
+GearInteractable_911944,VR Interactable,Landing Gear,Train d'atterrissage
+WingSwitchInteractable_915584,VR Interactable,Wing Fold,Pli d'aile
+JettisonSwitchInteractable_916390,VR Interactable,Jettison Switch,Interrupteur de largage
+vtAPButton_916132,VR Interactable,Vertical Control AP Mode,Mode de controle vertical AP
+parkingBrakeInteractable_913796,VR Interactable,Parking Brake,Frein a main
+LandingLightInteractable_916204,VR Interactable,Landing Lights,Phares d'atterrissage
+StrobLightInteractable_914704,VR Interactable,Strobe Lights,Lumieres stroboscopiques
+NavLightInteractable_913426,VR Interactable,Nav Lights,Feux de navigation
+FormationGlowInteractable_915506,VR Interactable,Formation Lights,Lumieres de formation
+InsturmentLightInteractable_930484,VR Interactable,Interior Lights,Lumieres interieures
+LabelBrightnessKnob_929958,VR Interactable,Instrument Brightness,Luminosite de l'instrument
+RadioVolumeKnob_912288,VR Interactable,Radio Volume,Volume de la radio
+PrevButton_912222,VR Interactable,Prev Song,Chanson precedente
+NextButton_915694,VR Interactable,Next Song,Prochaine chanson
+radioPlayPauseInteractable_914658,VR Interactable,Play/Pause,Jouer/pause
+CatHookInteractable_914178,VR Interactable,Launch Bar,Barre de lancement
+FuelPort_916140,VR Interactable,Fuel Port,Port de carburant
+HookInteractable_914364,VR Interactable,Arrestor Hook,Crochet d'arret
+engineSwitchInteractable_914400,VR Interactable,Engine,Moteur
+mainBattSwitchInteractable_916302,VR Interactable,Main Battery,Batterie principale
+apuSwitchInteractable_916246,VR Interactable,Auxilliary Power,Alimentation auxiliaire
+CommsVolumeKnob_953158,VR Interactable,Comm Radio Volume,Volume de la radio de communication
+Text_95182,UI Text,"GAME WINDOW
+NOT IN FOCUS","FENeTRE DE JEU
+PAS DANS L'OBJECTIF"
+RadioInteractable_2581494,VR Interactable,Radio Mode,Mode radio
+RadioChannelInteractable_2581172,VR Interactable,Radio Channel,Chaine radio
+CommsVolumeKnobMP_-18677120,VR Interactable,Team Radio Volume,Volume radio de l'equipe
+CanopyInteractable_914266,VR Interactable,Canopy Switch,Commutateur d'auvent
+CamcorderObj_385876,VR Interactable,Move Camera,Deplacer la camera
+throttleInteractable_915500,VR Interactable,Throttle,Manette de Gaz
+Label (1)_956422,UI Text,QUICK START,DEMARRAGE RAPIDE
+Label (1)_954266,UI Text,QUICK FLY,VOL RAPIDE
