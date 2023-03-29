@@ -1,11 +1,11 @@
 Key,Description,en,fr
-Icon_734792,VR Interactable,Show Info,Afficher les informations
+Icon_734792,VR Interactable,Show Info,Afficher les Informations
 Text_734764,UI Text,Info,Info
-ButtonUp_734786,VR Interactable,Vote Up,Votez
-ButtonDown_734790,VR Interactable,Vote Down,Voter contre
+ButtonUp_734786,VR Interactable,Vote Up,Voter Pour
+ButtonDown_734790,VR Interactable,Vote Down,Voter Contre
 Button_734788,VR Interactable,Favorite,Favoris
-ButtonActive_734758,VR Interactable,Unfavorite,Defavorise
-Button_734784,VR Interactable,Subscribe & Download,Abonnez-vous et telechargez
+ButtonActive_734758,VR Interactable,Unfavorite,Retirer des Favoris
+Button_734784,VR Interactable,Subscribe & Download,Abonnez-vous & Telechargez
 Text_734748,UI Text,ADD,AJOUTER
 ButtonActive_734798,VR Interactable,Remove Subscription,Supprimer l'abonnement
 Text (1)_734794,UI Text,REMOVE,SUPPRIMER
