@@ -12,7 +12,7 @@ quitButton_709596,VR Interactable,Quit Game,Quitter le Jeu
 quitButtonText_711462,UI Text,Quit,Quitter
 acceptEulaToPlay_655458,UI Text,Accept EULA to play,Acceptez le CLUF pour jouer
 startGameButton_714120,VR Interactable,Start Game,Démarrer le Jeu
-startGameLabel_705546,UI Text,Start Game,Démarrer le Jeu
+startGameLabel_705546,UI Text,Start Game,DÉMARRRER LE JEU
 disclaimerText_707784,UI Text,"Motion Sickness Warning:
 This game may induce motion sickness.  
 It may take some time to get used to, but the feeling of nausea will diminish with practice. 
