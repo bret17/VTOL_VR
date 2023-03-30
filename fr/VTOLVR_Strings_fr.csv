@@ -1,7 +1,7 @@
 Key,Description,en,fr
 AIM-120 Advanced Radar Missile_fullName,Full equip name of: AIM-120 Advanced Radar Missile,AIM-120 Advanced Radar Missile,Missile radar avance AIM-120
 AIM-120 Advanced Radar Missile_description,Item description of: AIM-120 Advanced Radar Missile,"Radar guided medium range air to air missile.
-",Missile air-air a moyenne portee a guidage radar.
+",Missile air-air à moyenne portée à guidage radar.
 eqSublabel_RADAR-AAM,HUD sub-label of an equip,RADAR AAM,AAM RADAR
 AGM-89 Anti-ship Cruise Missile x2_fullName,Full equip name of: AGM-89 Anti-ship Cruise Missile x2,AGM-89 Anti-ship Cruise Missile x2,Missile de croisiere anti-navire AGM-89 x2
 AGM-89 Anti-ship Cruise Missile x2_description,Item description of: AGM-89 Anti-ship Cruise Missile x2,"Air-launched anti-ship cruise missile.  Equipped with waypoint following, radar target acquisition, and terminal maneuvering technology."," radar target acquisition"
@@ -222,72 +222,73 @@ tutDesc_Getting Started,Description of a legacy tutorial,Complete the intro tuto
 tut:Getting Started:Intro10,A tutorial label,Welcome to the AV-42C,Bienvenue sur l'AV-42C
 tut:Getting Started:Intro21,A tutorial label,"First, let's keep the bird from rolling away.","D'abord, empêchons l'oiseau de rouler."
 tut:Getting Started:Brake Lock2,A tutorial label,Enable Brake Lock,Activer le verrouillage des freins
-tut:Getting Started:Startup3,A tutorial label,Now lets move on to the start-up sequence.,Passons maintenant a la sequence de demarrage.
+tut:Getting Started:Startup3,A tutorial label,Now lets move on to the start-up sequence.,Passons maintenant à la séquence de démarrage.
 tut:Getting Started:Enable battery4,A tutorial label,Enable Battery,Activer la batterie
-tut:Getting Started:start up apu5,A tutorial label,Start APU,Demarrer l'APU
-tut:Getting Started:wait spool apu6,A tutorial label,Let the APU spool up a bit.,Laissez l'APU s'enrouler un peu.
-tut:Getting Started:StartLeftEngine7,A tutorial label,Start Left Engine,Demarrer le moteur gauche
-tut:Getting Started:StartRightEngine8,A tutorial label,Start Right Engine,Demarrer le bon moteur
-tut:Getting Started:WaitSpool9,A tutorial label,Wait for the engines to spool up.,Attendez que les moteurs demarrent.
-tut:Getting Started:NoNeedAPU10,A tutorial label,The engines are now supplying power.  We can turn off the APU.,Les moteurs fournissent maintenant de l'energie. Nous pouvons desactiver l'APU.
-tut:Getting Started:TurnOffAPU11,A tutorial label,Turn off APU.,Desactivez l'APU.
+tut:Getting Started:start up apu5,A tutorial label,Start APU,Démarrer l'APU
+tut:Getting Started:wait spool apu6,A tutorial label,Let the APU spool up a bit.,Laissez l'APU tourner un peu.
+tut:Getting Started:StartLeftEngine7,A tutorial label,Start Left Engine,Démarrer le moteur gauche
+tut:Getting Started:StartRightEngine8,A tutorial label,Start Right Engine,Démarrer le moteur droit
+tut:Getting Started:WaitSpool9,A tutorial label,Wait for the engines to spool up.,Attendez que les moteurs démarrent.
+tut:Getting Started:NoNeedAPU10,A tutorial label,The engines are now supplying power.  We can turn off the APU.,Les moteurs fournissent maintenant de l'énergie. Nous pouvons désactiver l'APU.
+tut:Getting Started:TurnOffAPU11,A tutorial label,Turn off APU.,Désactivez l'APU.
 tut:Getting Started:EnableHUD12,A tutorial label,Turn on the HUD,Allumez le HUD
-tut:Getting Started:HUDInfo13,A tutorial label,"The HUD (Heads-Up Display) shows you attitude, altitude, velocity, targeting reticles, and other important flight data at a glance.","Le HUD (affichage tete haute) vous montre l'altitude, la vitesse, les reticules de ciblage et d'autres donnees de vol importantes en un coup d'œil."
-tut:Getting Started:EnableMFD114,A tutorial label,Turn on the MFD 1,Allumez le MFD 1
-tut:Getting Started:EnableMFD215,A tutorial label,Turn on the MFD 2,Allumez le MFD 2
-tut:Getting Started:EnableMFD316,A tutorial label,Turn on the MFD 3,Allumez le MFD 3
-tut:Getting Started:MFD info17,A tutorial label,The MFDs (Multi-Function Displays) give you access to,Les MFD (Multi-Function Displays) vous donnent acces a
-tut:Getting Started:MFD info 218,A tutorial label,"aircraft features such as weapon configuration, navigation maps,","caracteristiques de l'avion telles que la configuration des armes, les cartes de navigation,"
-tut:Getting Started:MFD info 319,A tutorial label,"sensors, etc.  You can access these features by pressing the corresponding buttons around the edge of the monitor.","capteurs, etc. Vous pouvez acceder à ces fonctionnalites en appuyant sur les boutons correspondants sur le bord du moniteur."
-tut:Getting Started:ReadyToFly20,A tutorial label,The vehicle is now ready to fly.  Up next: Basic Flight,Le vehicule est maintenant pret a voler. Suivant: Vol de base
+tut:Getting Started:HUDInfo13,A tutorial label,"The HUD (Heads-Up Display) shows you attitude, altitude, velocity, targeting reticles, and other important flight data at a glance.","Le HUD ( Heads-Up Display / Affichage tête haute) vous montre l'altitude, la vitesse, les réticules de ciblage et d'autres données de vol importantes en un coup d'œil."
+tut:Getting Started:EnableMFD114,A tutorial label,Turn on the MFD 1,Allumez le MFD ( Multi-Function Display /Affichage multifonction ) 1
+tut:Getting Started:EnableMFD215,A tutorial label,Turn on the MFD 2,Allumez le MFD ( Multi-Function Display / Affichage multifonction ) 2
+tut:Getting Started:EnableMFD316,A tutorial label,Turn on the MFD 3,Allumez le MFD ( Multi-Function Display / Affichage multifonction ) 3
+tut:Getting Started:MFD info17,A tutorial label,The MFDs (Multi-Function Displays) give you access to,Les MFD (Multi-Function Displays / Affichage multifonction) vous donnent accès a
+tut:Getting Started:MFD info 218,A tutorial label,"aircraft features such as weapon configuration, navigation maps,","des caractéristiques de l'avion telles que la configuration des armes, les cartes de navigation"
+tut:Getting Started:MFD info 319,A tutorial label,"sensors, etc.  You can access these features by pressing the corresponding buttons around the edge of the monitor.","capteurs, etc. Vous pouvez accéder à ces fonctionnalités en appuyant sur les boutons correspondants sur le bord du moniteur."
+tut:Getting Started:ReadyToFly20,A tutorial label,The vehicle is now ready to fly.  Up next: Basic Flight,Le véhicule est maintenant prêt à voler. Suivant: Vol de base
 s_endMission_quickload,Label for quickload button in end-mission display 'Quick Load (x mins ago)',Quick Load,Chargement rapide
 s_endMission_dumpedLog,Label for end-mission entry when flight log is saved to disk.,Dumped flight log,Journal de vol largue
 vpdt_ContinueFlightText,[xxx] tags will be replaced by platform specific controls. Keep them.,"Continue Flight
-(Press [menu] to return to this screen)",Continuer le vol
+(Press [menu] to return to this screen)","Continuer le vol
+(Appuyez sur [menu] pour revenir à cet écran)"
 hud_noArm,A short HUD label when no weapons are armed.,NO ARM,PAS DE BRAS
 s_newObj,Objective popup message in HUD,NEW OBJECTIVE,NOUVEL OBJECTIF
 s_objComplete,Objective popup message in HUD,OBJECTIVE COMPLETE,OBJECTIF COMPLET
-s_objFailed,Objective popup message in HUD,OBJECTIVE FAILED,OBJECTIF eCHEC
-commReply_s_comm_reply,A text reply in the communications menu.,REPLY:,REPONSE:
-commReply_s_noHostilesFound,A text reply in the communications menu.,No hostiles found.,Aucun hostile trouve.
-commReply_s_awacsNotReady,A text reply in the communications menu.,AWACS is not ready to report.,L'AWACS n'est pas pret a faire rapport.
+s_objFailed,Objective popup message in HUD,OBJECTIVE FAILED,OBJECTIF ÉCHOUÉ
+commReply_s_comm_reply,A text reply in the communications menu.,REPLY:,RÉPONSE
+commReply_s_noHostilesFound,A text reply in the communications menu.,No hostiles found.,Aucun hostile trouvé.
+commReply_s_awacsNotReady,A text reply in the communications menu.,AWACS is not ready to report.,L'AWACS n'est pas prêt à faire rapport.
 commReply_s_noAwacsAvailable,A text reply in the communications menu.,No AWACS available,Aucun AWACS disponible
-commReply_s_awacsPicRequested,A text reply in the communications menu.,AWACS picture requested,Photo AWACS demandee
+commReply_s_awacsPicRequested,A text reply in the communications menu.,AWACS picture requested,Photo AWACS demandée
 commReply_s_awacsRequestedRTB,A text reply in the communications menu.,Requested RTB vector from AWACS,Vecteur RTB demande par AWACS
 s_hostile,Prefix for AWACS bogey dope response,Hostile,Hostile
-commReply_s_rearmingNotAvailable,A text reply in the communications menu.,Rearming not available.,Rearmement non disponible.
-commReply_s_notAtRearmingStation,A text reply in the communications menu.,Not at a rearming station. Return to base.,Pas dans une station de rearmement. Retourner a la base.
-commReply_s_turnOffEngines,A text reply in the communications menu.,Please turn off your engines.,Veuillez eteindre vos moteurs.
-commReply_s_disarmWeapons,A text reply in the communications menu.,Please disarm your weapon system.,Veuillez desarmer votre systeme d'arme.
-commReply_s_unhookTailhook,A text reply in the communications menu.,Please disengage your arrestor hook.,Veuillez desengager votre crochet d'arret.
-commReply_s_rearmPointOccupied,A text reply in the communications menu.,This station is occupied!,Cette gare est occupee !
-commReply_s_taxiToRearm,A text reply in the communications menu.,Please taxi to a rearming station.,Veuillez vous rendre jusqu'a une station de rearmement.
-commReply_s_wingmenBusy,A text reply in the communications menu.,Your wingmen are busy.,Vos ailiers sont occupes.
-commReply_s_someWingmenBusy,A text reply in the communications menu.,Some of your wingmen are busy.,Certains de vos ailiers sont occupes.
+commReply_s_rearmingNotAvailable,A text reply in the communications menu.,Rearming not available.,Réarmement non disponible.
+commReply_s_notAtRearmingStation,A text reply in the communications menu.,Not at a rearming station. Return to base.,Pas dans une station de réarmement. Retourner à la base.
+commReply_s_turnOffEngines,A text reply in the communications menu.,Please turn off your engines.,Veuillez éteindre vos moteurs.
+commReply_s_disarmWeapons,A text reply in the communications menu.,Please disarm your weapon system.,Veuillez désarmer votre système d'arme.
+commReply_s_unhookTailhook,A text reply in the communications menu.,Please disengage your arrestor hook.,Veuillez désengager votre crochet d'arrêt.
+commReply_s_rearmPointOccupied,A text reply in the communications menu.,This station is occupied!,Cette gare est occupée !
+commReply_s_taxiToRearm,A text reply in the communications menu.,Please taxi to a rearming station.,Veuillez vous rendre jusqu'à une station de réarmement.
+commReply_s_wingmenBusy,A text reply in the communications menu.,Your wingmen are busy.,Vos ailiers sont occupés.
+commReply_s_someWingmenBusy,A text reply in the communications menu.,Some of your wingmen are busy.,Certains de vos ailiers sont occupés.
 commReply_s_noWingmen,A text reply in the communications menu.,You have no wingmen.,Vous n'avez pas d'ailier.
 commReply_s_wingmenOrbiting,A text reply in the communications menu.,Wingmen orbiting here.,Des ailiers en orbite ici.
-commReply_s_wingmenEngaging,A text reply in the communications menu.,Wingmen engaging targets at will!,Des ailiers engageant des cibles a volonte !
-commReply_s_wingmenDisengaging,A text reply in the communications menu.,Wingmen disengaging from combat!,Ailiers se desengageant du combat!
-commReply_s_wingmenFormationSpread,A text reply in the communications menu.,Wingmen setting formation spread.,La formation des ailiers se repandit.
+commReply_s_wingmenEngaging,A text reply in the communications menu.,Wingmen engaging targets at will!,Des ailiers engageant des cibles à volonté !
+commReply_s_wingmenDisengaging,A text reply in the communications menu.,Wingmen disengaging from combat!,Ailiers se désengageant du combat !
+commReply_s_wingmenFormationSpread,A text reply in the communications menu.,Wingmen setting formation spread.,La formation des ailiers se répandit.
 commReply_s_wingman,A text reply in the communications menu.,Wingman,Ailier
 commReply_s_attackingTSD,A text reply in the communications menu.,attacking your TSD target!,attaquer votre cible TSD�!
 commReply_s_attackingRadar,A text reply in the communications menu.,attacking your radar target!,attaquer votre cible radar�!
 commReply_s_attackingTGP,A text reply in the communications menu.,attacking your TGP target!,attaquer votre cible TGP�!
 commReply_s_attackingARAD,A text reply in the communications menu.,attacking your ARAD target!,attaquer votre cible ARAD�!
 commReply_s_noWingmenForAttack,A text reply in the communications menu.,No wingmen available for attack.,Aucun ailier disponible pour l'attaque.
-commReply_s_noTarget,A text reply in the communications menu.,No target selected.,Aucune cible selectionnee.
-commReply_s_noAirfield,A text reply in the communications menu.,No airfield available.,Pas d'aerodrome disponible.
+commReply_s_noTarget,A text reply in the communications menu.,No target selected.,Aucune cible sélectionnée.
+commReply_s_noAirfield,A text reply in the communications menu.,No airfield available.,Pas d'aérodrome disponible.
 commReply_s_cancellingATC,A text reply in the communications menu.,Cancelling ATC request.,Annulation de la demande ATC.
 commReply_s_acknowledged,A text reply in the communications menu.,Acknowledged,Reconnu
 commReply_s_wingmenRTB,A text reply in the communications menu.,Your wingmen will RTB!,Vos ailiers feront du RTB !
-commReply_s_clearedVerticalLanding,A text reply in the communications menu.,Cleared for vertical landing!,Autorise pour l'atterrissage vertical�!
-commReply_s_clearedVerticalTakeoff,A text reply in the communications menu.,Cleared for vertical take off!,Autorise pour le decollage vertical�!
-commReply_s_landingDenied,A text reply in the communications menu.,Landing denied!,Atterrissage refuse !
-commReply_s_takeoffDenied,A text reply in the communications menu.,Take off denied!,Decollage refuse !
-commReply_s_reply_noPrevAtc,A text reply in the communications menu.,No previously contacted ATC available.,Aucun ATC precedemment contacte n'est disponible.
+commReply_s_clearedVerticalLanding,A text reply in the communications menu.,Cleared for vertical landing!,Autorisé pour l'atterrissage vertical !
+commReply_s_clearedVerticalTakeoff,A text reply in the communications menu.,Cleared for vertical take off!,Autorisé pour le decollage vertical !
+commReply_s_landingDenied,A text reply in the communications menu.,Landing denied!,Atterrissage refusé !
+commReply_s_takeoffDenied,A text reply in the communications menu.,Take off denied!,Decollage refusé !
+commReply_s_reply_noPrevAtc,A text reply in the communications menu.,No previously contacted ATC available.,Aucun ATC précédemment contacté n'est disponible.
 MFDOptionPage:Wingmen / Combat,Title of an MFD option page,Wingmen / Combat,Ailiers / Combat
 MFDOption:Attack Target,Label of an MFD option,Attack Target,Cible d'attaque
-MFDOption:Disengage,Label of an MFD option,Disengage,Se degager
+MFDOption:Disengage,Label of an MFD option,Disengage,Se dégager
 MFDOption:Engage,Label of an MFD option,Engage,Engager
 MFDOptionPage:Wingmen / Flight,Title of an MFD option page,Wingmen / Flight,Ailiers / Vol
 MFDOption:Orbit Here,Label of an MFD option,Orbit Here,Orbiter ici
@@ -329,10 +330,10 @@ prev,,Prev,Precedent
 ripple_single,Label when a rapid-fire weapon is set to only fire one shot at a time.,SINGLE,CeLIBATAIRE
 wmui_ripple,Option title for selecting a rocket/missile's ripple (rapid fire) rate.,RIPPLE,ONDULATION
 wmui_rippleTooltip,Tooltip for button to cycle a weapon's ripple (rapid fire) rate.,Cycle Ripple Rates,Taux d'ondulation du cycle
-s_masterArmed,Master armed label in EQUIP MFD page,MASTER ARMED,MA�TRE ARMe
-s_masterDisarmed,Master disarmed label in EQUIP MFD page,MASTER DISARMED,MA�TRE DeSARMe
-s_eq_armed,Armed label for single equip in EQUIP MFD page,ARMED,ARMe
-s_eq_disarmed,Disarmed label for single equip in EQUIP MFD page,DISARMED,DeSARMe
+s_masterArmed,Master armed label in EQUIP MFD page,MASTER ARMED,MAITRE ARMÉ
+s_masterDisarmed,Master disarmed label in EQUIP MFD page,MASTER DISARMED,MAITRE dÉSARMÉ
+s_eq_armed,Armed label for single equip in EQUIP MFD page,ARMED,ARMÉ
+s_eq_disarmed,Disarmed label for single equip in EQUIP MFD page,DISARMED,DÉSARMÉ
 s_eq_jettison,Jettison label for single equip in EQUIP MFD page,JETTISON,ABANDONNER
 s_eqMode_0,Equip MFD page mode label,CONFIG,CONFIGURER
 s_eqMode_1,Equip MFD page mode label,ARMING,ARMEMENT
@@ -356,14 +357,14 @@ AV-42C_mfd_home:B4,Label for an MFD button (short!).,TGP,TGP
 AV-42C_mfd_home:B4_tooltip,Tooltip for an MFD button.,Targeting,Ciblage
 AV-42C_mfd_home:B5,Label for an MFD button (short!).,GPS,GPS
 AV-42C_mfd_home:B5_tooltip,Tooltip for an MFD button.,GPS Targets,Cibles GPS
-AV-42C_mfd_home:R2,Label for an MFD button (short!).,S-CAM,ESCROQUER
+AV-42C_mfd_home:R2,Label for an MFD button (short!).,S-CAM,
 AV-42C_mfd_home:R2_tooltip,Tooltip for an MFD button.,Spectator Camera,Camera spectateur
 AV-42C_mfd_home:R3,Label for an MFD button (short!).,GAME,JEU
 AV-42C_mfd_home:R3_tooltip,Tooltip for an MFD button.,Game Menu,Menu du jeu
 AV-42C_mfd_home:R4,Label for an MFD button (short!).,LOG,JOURNAL
 AV-42C_mfd_home:R4_tooltip,Tooltip for an MFD button.,Flight Log,Journal de vol
-AV-42C_mfd_home:L2,Label for an MFD button (short!).,EQUIP,eQUIPER
-AV-42C_mfd_home:L2_tooltip,Tooltip for an MFD button.,Mounted Equipment,equipement monte
+AV-42C_mfd_home:L2,Label for an MFD button (short!).,EQUIP,ÉQUIPER
+AV-42C_mfd_home:L2_tooltip,Tooltip for an MFD button.,Mounted Equipment,Équipement monté
 AV-42C_mfd_home:L3,Label for an MFD button (short!).,OPTION,OPTION
 AV-42C_mfd_home:L3_tooltip,Tooltip for an MFD button.,Options,Options
 AV-42C_mfd_home:L4,Label for an MFD button (short!).,COMMS,COMM
@@ -376,7 +377,7 @@ AV-42C_mfd_flightLog:R2_tooltip,Tooltip for an MFD button.,Scroll Up,Faites defi
 AV-42C_mfd_flightLog:R4_tooltip,Tooltip for an MFD button.,Scroll Down,Defiler vers le bas
 AV-42C_mfd_flightLog:R5_tooltip,Tooltip for an MFD button.,Scroll Bottom,Faites defiler vers le bas
 AV-42C_mfd_flightLog:B3_tooltip,Tooltip for an MFD button.,Dump log to file.,Vider le journal dans un fichier.
-AV-42C_mfd_flyCam:B2,Label for an MFD button (short!).,START,DeMARRER
+AV-42C_mfd_flyCam:B2,Label for an MFD button (short!).,START,DÉMARRER
 AV-42C_mfd_flyCam:B2_tooltip,Tooltip for an MFD button.,Start Camera,Demarrer la camera
 AV-42C_mfd_flyCam:B3,Label for an MFD button (short!).,END,FINIR
 AV-42C_mfd_flyCam:B3_tooltip,Tooltip for an MFD button.,End Camera,Camera de fin
@@ -420,9 +421,9 @@ AV-42C_mfd_antiRad:R4_tooltip,Tooltip for an MFD button.,HUD Mode,Mode HUD
 AV-42C_mfd_antiRad:R5_tooltip,Tooltip for an MFD button.,Declutter,Desencombrer
 AV-42C_mfd_cmsPage:L4_tooltip,Tooltip for an MFD button.,Release Mode,Mode de sortie
 AV-42C_mfd_cmsPage:B2,Label for an MFD button (short!).,-,-
-AV-42C_mfd_cmsPage:B2_tooltip,Tooltip for an MFD button.,- Release Rate,Erreur�:�509
+AV-42C_mfd_cmsPage:B2_tooltip,Tooltip for an MFD button.,- Release Rate,- Taux de sortie
 AV-42C_mfd_cmsPage:B4,Label for an MFD button (short!).,+,+
-AV-42C_mfd_cmsPage:B4_tooltip,Tooltip for an MFD button.,+ Release Rate,Erreur�:�509
+AV-42C_mfd_cmsPage:B4_tooltip,Tooltip for an MFD button.,+ Release Rate,+ Taux de sortie
 AV-42C_mfd_map:T2,Label for an MFD button (short!).,GPS,GPS
 AV-42C_mfd_map:T2_tooltip,Tooltip for an MFD button.,GPS Targets,Cibles GPS
 AV-42C_mfd_map:R2,Label for an MFD button (short!).,ZOOM+,ZOOM+
@@ -456,13 +457,13 @@ AV-42C_mfd_options:R3_tooltip,Tooltip for an MFD button.,Joystick Sensitivity,Se
 AV-42C_mfd_unitOptions:L2_tooltip,Tooltip for an MFD button.,Altitude Units,Unites d'altitude
 AV-42C_mfd_unitOptions:L3_tooltip,Tooltip for an MFD button.,Distance Units,Unites de distance
 AV-42C_mfd_unitOptions:L4_tooltip,Tooltip for an MFD button.,Speed Units,Unites de vitesse
-AV-42C_mfd_unitOptions:T5_tooltip,Tooltip for an MFD button.,Back,Dos
-AV-42C_mfd_fuelConfig:T5_tooltip,Tooltip for an MFD button.,Back,Dos
+AV-42C_mfd_unitOptions:T5_tooltip,Tooltip for an MFD button.,Back,Retour
+AV-42C_mfd_fuelConfig:T5_tooltip,Tooltip for an MFD button.,Back,Retour
 AV-42C_mfd_fuelConfig:L4_tooltip,Tooltip for an MFD button.,Bingo Fuel +,Carburant de bingo +
 AV-42C_mfd_fuelConfig:L5_tooltip,Tooltip for an MFD button.,Bingo Fuel -,Carburant de bingo -
 altWarn_mode_radar,Radar altimeter mode for altitude warning settings.,RADAR,RADAR
 altWarn_mode_asl,Sea level/barometric altimeter mode for altitude warning settings.,ASL,ASL
-AV-42C_mfd_altitudeSettings:T5_tooltip,Tooltip for an MFD button.,Back,Dos
+AV-42C_mfd_altitudeSettings:T5_tooltip,Tooltip for an MFD button.,Back,Retour
 AV-42C_mfd_altitudeSettings:L3_tooltip,Tooltip for an MFD button.,Min Alt +,Alt min +
 AV-42C_mfd_altitudeSettings:L4_tooltip,Tooltip for an MFD button.,Min Alt -,Alt min -
 AV-42C_mfd_altitudeSettings:R3_tooltip,Tooltip for an MFD button.,Max Alt +,Alt max +
@@ -489,7 +490,7 @@ AV-42C_mfd_target:B3,Label for an MFD button (short!).,HEAD,DIRIGER
 AV-42C_mfd_target:B3_tooltip,Tooltip for an MFD button.,Head-track Mode,Mode Head-track
 AV-42C_mfd_target:B2,Label for an MFD button (short!).,FWD,FWD
 AV-42C_mfd_target:B2_tooltip,Tooltip for an MFD button.,Forward Mode,Mode avant
-AV-42C_mfd_target:B5,Label for an MFD button (short!).,PWR,REP
+AV-42C_mfd_target:B5,Label for an MFD button (short!).,PWR,
 AV-42C_mfd_target:B5_tooltip,Tooltip for an MFD button.,Toggle TGP Power,Basculer l'alimentation TGP
 AV-42C_mfd_target:R2,Label for an MFD button (short!).,ZOOM+,ZOOM+
 AV-42C_mfd_target:R2_tooltip,Tooltip for an MFD button.,Zoom In,Agrandir
@@ -501,7 +502,7 @@ AV-42C_mfd_target:R5,Label for an MFD button (short!).,GPS-A,GPS-A
 AV-42C_mfd_target:R5_tooltip,Tooltip for an MFD button.,GPS Acquire,Acquisition GPS
 AV-42C_mfd_target:L2,Label for an MFD button (short!).,MODE,MODE
 AV-42C_mfd_target:L2_tooltip,Tooltip for an MFD button.,Cycle Modes,Modes de cycle
-AV-42C_mfd_target:L3,Label for an MFD button (short!).,SENS,SENS
+AV-42C_mfd_target:L3,Label for an MFD button (short!).,SENS,
 AV-42C_mfd_target:L3_tooltip,Tooltip for an MFD button.,Sensor Mode,Mode capteur
 AV-42C_mfd_target:T3,Label for an MFD button (short!).,WPT,WPT
 AV-42C_mfd_target:T3_tooltip,Tooltip for an MFD button.,To Waypoint,Vers le point de cheminement
@@ -524,30 +525,30 @@ s_tgpMode_3,TGP mode label,FWD,FWD
 tgp_sensorMode_0,TGP sensor mode label,DAY,JOURNeE
 tgp_sensorMode_1,TGP sensor mode label,NIGHT,NUIT
 tgp_sensorMode_2,TGP sensor mode label,COLOR,COULEUR
-AV-42C_mfd_gameMenu:B2,Label for an MFD button (short!).,RESTART,REDeMARRER
-AV-42C_mfd_gameMenu:B2_tooltip,Tooltip for an MFD button.,Restart Mission,Redemarrer la mission
+AV-42C_mfd_gameMenu:B2,Label for an MFD button (short!).,RESTART,REDÉMARRER
+AV-42C_mfd_gameMenu:B2_tooltip,Tooltip for an MFD button.,Restart Mission,Redémarrer la mission
 AV-42C_mfd_gameMenu:B4,Label for an MFD button (short!).,EXIT,SORTIR
-AV-42C_mfd_gameMenu:B4_tooltip,Tooltip for an MFD button.,Return to Briefing Room,Retour a l'accueil
+AV-42C_mfd_gameMenu:B4_tooltip,Tooltip for an MFD button.,Return to Briefing Room,Retour à l'accueil
 AV-42C_mfd_gameMenu:R2,Label for an MFD button (short!).,CENTER,CENTRE
 AV-42C_mfd_gameMenu:R2_tooltip,Tooltip for an MFD button.,Recenter Seat Position,Position du siege plus recente
-AV-42C_mfd_gameMenu:L3,Label for an MFD button (short!).,QSAVE,QENREGISTRER
+AV-42C_mfd_gameMenu:L3,Label for an MFD button (short!).,QSAVE,ENREGISTRER RAPID
 AV-42C_mfd_gameMenu:L3_tooltip,Tooltip for an MFD button.,Quick Save Menu,Menu d'enregistrement rapide
-AV-42C_mfd_gameMenu:R4,Label for an MFD button (short!).,PLAYERS,
-AV-42C_mfd_gameMenu:R4_tooltip,Tooltip for an MFD button.,View Players,
-AV-42C_mfd_gameMenu:R5,Label for an MFD button (short!).,NETWORK,
-AV-42C_mfd_gameMenu:R5_tooltip,Tooltip for an MFD button.,NetworkAnalytics,
+AV-42C_mfd_gameMenu:R4,Label for an MFD button (short!).,PLAYERS,JOUEURS
+AV-42C_mfd_gameMenu:R4_tooltip,Tooltip for an MFD button.,View Players,Vues Joueurs
+AV-42C_mfd_gameMenu:R5,Label for an MFD button (short!).,NETWORK,RÉSEAU
+AV-42C_mfd_gameMenu:R5_tooltip,Tooltip for an MFD button.,NetworkAnalytics,Analyse de réseau
 vpdt_MFDRecenterText,[xxx] tags will be replaced by platform specific controls. Keep them.,"Sit comfortably
 and press
 [menu]
 to recenter",Asseyez-vous confortablement
 AV-42C_mfd_quicksave:L3_tooltip,Tooltip for an MFD button.,Save,Sauvegarder
-AV-42C_mfd_quicksave:B4_tooltip,Tooltip for an MFD button.,Load,Charge
-AV-42C_mfd_quicksave:T5,Label for an MFD button (short!).,BACK,DOS
-AV-42C_mfd_quicksave:T5_tooltip,Tooltip for an MFD button.,Back,Dos
-AV-42C_mfd_mpPlayers:B1,Label for an MFD button (short!).,BACK,
-AV-42C_mfd_mpPlayers:B1_tooltip,Tooltip for an MFD button.,Back,
-AV-42C_mfd_mpPlayers:T5,Label for an MFD button (short!).,MANAGE,
-AV-42C_mfd_mpPlayers:T5_tooltip,Tooltip for an MFD button.,Manage Players,
+AV-42C_mfd_quicksave:B4_tooltip,Tooltip for an MFD button.,Load,Chargé
+AV-42C_mfd_quicksave:T5,Label for an MFD button (short!).,BACK,RETOUR
+AV-42C_mfd_quicksave:T5_tooltip,Tooltip for an MFD button.,Back,Retour
+AV-42C_mfd_mpPlayers:B1,Label for an MFD button (short!).,BACK,RETOUR
+AV-42C_mfd_mpPlayers:B1_tooltip,Tooltip for an MFD button.,Back,Retour
+AV-42C_mfd_mpPlayers:T5,Label for an MFD button (short!).,MANAGE,GÉRER
+AV-42C_mfd_mpPlayers:T5_tooltip,Tooltip for an MFD button.,Manage Players,Gérer Joueurs
 AV-42C_mfd_mpPlayers:R4_tooltip,Tooltip for an MFD button.,Scroll Up,
 AV-42C_mfd_mpPlayers:R5_tooltip,Tooltip for an MFD button.,Scroll Down,
 mpPlayers_teamA,Team A title in players MFD page,Team a,
@@ -557,20 +558,20 @@ AV-42C_mfd_netAnalytics:B1,Label for an MFD button (short!).,BACK,
 AV-42C_mfd_netAnalytics:B1_tooltip,Tooltip for an MFD button.,Back,
 rwrMode_0,RWR mode,On,Au
 rwrMode_1,RWR mode,Silent,Silencieux
-rwrMode_2,RWR mode,Off,Desactive
+rwrMode_2,RWR mode,Off,Desactivé
 arad_DECL,ARAD declutter button label,DECL,DECL
-sCam_autoReset,S-Cam auto reset view label.,Auto-Reset,Reinitialisation automatique
+sCam_autoReset,S-Cam auto reset view label.,Auto-Reset,Réinitialisation automatique
 sCam_autoZoomPrefix,"S-Cam auto zoom prefix (Auto 40, etc)",Auto,Auto
 sCam_audio,S-Cam audio on/off label,AUDIO,L'AUDIO
 sCam_tgtMode_0,S-Cam target mode,SELF,SOI
 sCam_tgtMode_1,S-Cam target mode,MSSL,MSSL
 sCam_tgtMode_2,S-Cam target mode,TGT,TGT
-sCam_random,S-Cam random view mode,Random,Aleatoire
+sCam_random,S-Cam random view mode,Random,Aléatoire
 sCam_behavior_0,S-Cam behavior,Stationary,Stationnaire
 sCam_behavior_1,S-Cam behavior,FlyAlong,FlyAlong
 sCam_behavior_2,S-Cam behavior,Fixed,Fixe
 sCam_behavior_3,S-Cam behavior,Chase,chasser
-sCam_behavior_4,S-Cam behavior,PresetViews,Vues predefinies
+sCam_behavior_4,S-Cam behavior,PresetViews,Vues prédéfinies
 sCam_behavior_5,S-Cam behavior,SmoothLook,Lissage
 sCam_behavior_6,S-Cam behavior,Camcorder,Camescope
 Mk.82 Bomb x1_fullName,Full equip name of: Mk.82 Bomb x1,Mk.82 Bomb x1,Bombe Mk.82 x1
@@ -825,48 +826,48 @@ AH-94_mfd_altitudeSettings:L2_tooltip,Tooltip for an MFD button.,Toggle Alt Mode
 870L Fuel Drop Tank_fullName,Full equip name of: 870L Fuel Drop Tank,870L Fuel Drop Tank,
 870L Fuel Drop Tank_description,Item description of: 870L Fuel Drop Tank,870 liter external fuel tank.,
 AGM-126 SideARM II x1_fullName,Full equip name of: AGM-126 SideARM II x1,AGM-126 SideARM II x1,AGM-126 SideARM II x1
-AGM-126 SideARM II x1_description,Item description of: AGM-126 SideARM II x1,Compact short range anti-radiation missile based on the AIM-9x.,Missile anti-rayonnement compact a courte portee base sur l'AIM-9x.
+AGM-126 SideARM II x1_description,Item description of: AGM-126 SideARM II x1,Compact short range anti-radiation missile based on the AIM-9x.,Missile anti-rayonnement compact a courte portée base sur l'AIM-9x.
 GBU-39 SD Bomb x3_fullName,Full equip name of: GBU-39 SD Bomb x3,GBU-39 SD Bomb x3,Bombe SD GBU-39 x3
-GBU-39 SD Bomb x3_description,Item description of: GBU-39 SD Bomb x3,GPS guided small diameter bomb. It has built-in folding wings that allow it to glide for long distances and hit targets with precision.,Bombe de petit diametre guidee par GPS.�Il a des ailes repliables integrees qui lui permettent de planer sur de longues distances et d'atteindre des cibles avec precision.
+GBU-39 SD Bomb x3_description,Item description of: GBU-39 SD Bomb x3,GPS guided small diameter bomb. It has built-in folding wings that allow it to glide for long distances and hit targets with precision.,Bombe de petit diamètre guidée par GPS. Il a des ailes repliables intégrées qui lui permettent de planer sur de longues distances et d'atteindre des cibles avec précision.
 tutName_Vertical Flight,Name of a legacy tutorial objective,Vertical Flight,Vol vertical
 tutDesc_Vertical Flight,Description of a legacy tutorial,Complete the Vertical Flight tutorial.,Terminez le didacticiel Vol vertical.
-tut:Vertical Flight:Intro10,A tutorial label,Welcome to the Vertical Flight autopilot training.,Bienvenue a la formation de pilote automatique Vertical Flight.
-tut:Vertical Flight:Intro21,A tutorial label,"Vertical flight can be tricky, but by using the AP, you will be a master in no time."," but by using the AP"
-tut:Vertical Flight:CheckTilt2,A tutorial label,"First, make sure the engines are tilted at 90 degrees."," make sure the engines are tilted at 90 degrees."
-tut:Vertical Flight:CheckTilt3,A tutorial label,"First, make sure the engines are tilted at 90 degrees."," make sure the engines are tilted at 90 degrees."
+tut:Vertical Flight:Intro10,A tutorial label,Welcome to the Vertical Flight autopilot training.,Bienvenue à la formation de pilote automatique Vertical Flight.
+tut:Vertical Flight:Intro21,A tutorial label,"Vertical flight can be tricky, but by using the AP, you will be a master in no time.","Le vol vertical peut être délicat, mais en utilisant l'AP, vous serez un maître en un rien de temps."
+tut:Vertical Flight:CheckTilt2,A tutorial label,"First, make sure the engines are tilted at 90 degrees.","Tout d'abord, assurez-vous que les moteurs sont carrelés à 90 degrés."
+tut:Vertical Flight:CheckTilt3,A tutorial label,"First, make sure the engines are tilted at 90 degrees.","Tout d'abord, assurez-vous que les moteurs sont carrelés à 90 degrés."
 tut:Vertical Flight:EnableHVR4,A tutorial label,Enable HVR mode.,Activez le mode HVR.
 tut:Vertical Flight:EnableALT5,A tutorial label,Enable ALT mode.,Activez le mode ALT.
-tut:Vertical Flight:HVRInfo6,A tutorial label,The HVR mode will assist you in staying upright and keeping your horizontal velocity under control.,Le mode HVR vous aidera a rester debout et a garder votre vitesse horizontale sous contr�le.
-tut:Vertical Flight:ALTInfo7,A tutorial label,The ALT mode will take control of the engines and convert inputs into climb or descent rates.,Le mode ALT prendra le contr�le des moteurs et convertira les entrees en taux de montee ou de descente.
-tut:Vertical Flight:ALTInfo28,A tutorial label,Keeping your throttle centered will hold a hover,Garder votre manette des gaz centree tiendra un vol stationnaire
+tut:Vertical Flight:HVRInfo6,A tutorial label,The HVR mode will assist you in staying upright and keeping your horizontal velocity under control.,Le mode HVR vous aidera à rester debout et à garder votre vitesse horizontale sous contrôle.
+tut:Vertical Flight:ALTInfo7,A tutorial label,The ALT mode will take control of the engines and convert inputs into climb or descent rates.,Le mode ALT prendra le contrôle des moteurs et convertira les entrées en taux de montée ou de descente.
+tut:Vertical Flight:ALTInfo28,A tutorial label,Keeping your throttle centered will hold a hover,Garder votre manette des gaz centrée tiendra un vol stationnaire
 tut:Vertical Flight:ALTInfo39,A tutorial label,Raise or lower the throttle to climb or descend,Augmenter ou abaisser la manette des gaz pour monter ou descendre
-tut:Vertical Flight:AltThrottleInfo10,A tutorial label,Altitude Control Status,etat du contr�le d'altitude
-tut:Vertical Flight:DontTilt11,A tutorial label,Keep your left thumb away from the tilt control.,eloignez votre pouce gauche de la commande d'inclinaison.
-tut:Vertical Flight:DontTilt212,A tutorial label,Any engine tilt less than 90 will disengage HVR AP,Toute inclinaison du moteur inferieure a 90 desengagera le HVR AP
-tut:Vertical Flight:TakeOffNow13,A tutorial label,Lift throttle now.  Climb to {50} altitude.,Soulevez l'accelerateur maintenant.�Monter a {50} altitude.
-tut:Vertical Flight:HoldAltitude14,A tutorial label,Now set your throttle lever to the midpoint to hover.,Maintenant
-tut:Vertical Flight:HoverInfo15,A tutorial label,You should now be in a stable hover,Vous devriez maintenant etre en vol stationnaire stable
-tut:Vertical Flight:HoverInfo216,A tutorial label,You can make adjustments to the throttle to climb or descend as needed.,Vous pouvez faire des ajustements a la manette des gaz pour monter ou descendre selon vos besoins.
-tut:Vertical Flight:LatMovementInfo17,A tutorial label,Now you can use the joystick to move around,Vous pouvez maintenant utiliser le joystick pour vous deplacer
-tut:Vertical Flight:LatMovementInfo218,A tutorial label,The HVR autopilot will handle attitude control,Le pilote automatique HVR gerera le contr�le d'attitude
-tut:Vertical Flight:LatMovementInfo319,A tutorial label,You just have to tilt the joystick in the direction you want to go,Il vous suffit d'incliner le joystick dans la direction o� vous voulez aller
-tut:Vertical Flight:LatMovementInfo420,A tutorial label,You can also twist the joystick to yaw,Vous pouvez egalement tordre le joystick pour lacet
+tut:Vertical Flight:AltThrottleInfo10,A tutorial label,Altitude Control Status,état du contrôle d'altitude
+tut:Vertical Flight:DontTilt11,A tutorial label,Keep your left thumb away from the tilt control.,Éloignez votre pouce gauche de la commande d'inclinaison.
+tut:Vertical Flight:DontTilt212,A tutorial label,Any engine tilt less than 90 will disengage HVR AP,Toute inclinaison du moteur inférieure à 90 désengagera le HVR AP
+tut:Vertical Flight:TakeOffNow13,A tutorial label,Lift throttle now.  Climb to {50} altitude.,Levez la manette des gaz maintenant. Montez à {50} altitude.
+tut:Vertical Flight:HoldAltitude14,A tutorial label,Now set your throttle lever to the midpoint to hover.,"Maintenant, réglez votre manette des gaz au point médian pour planer."
+tut:Vertical Flight:HoverInfo15,A tutorial label,You should now be in a stable hover,Vous devriez maintenant être en vol stationnaire stable
+tut:Vertical Flight:HoverInfo216,A tutorial label,You can make adjustments to the throttle to climb or descend as needed.,Vous pouvez faire des ajustements à la manette des gaz pour monter ou descendre selon vos besoins.
+tut:Vertical Flight:LatMovementInfo17,A tutorial label,Now you can use the joystick to move around,Vous pouvez maintenant utiliser le joystick pour vous déplacer
+tut:Vertical Flight:LatMovementInfo218,A tutorial label,The HVR autopilot will handle attitude control,Le pilote automatique HVR gèrera le contrôle d'attitude
+tut:Vertical Flight:LatMovementInfo319,A tutorial label,You just have to tilt the joystick in the direction you want to go,Il vous suffit d'incliner le joystick dans la direction où vous voulez aller
+tut:Vertical Flight:LatMovementInfo420,A tutorial label,You can also twist the joystick to yaw,Vous pouvez également tordre le joystick pour lacet
 tut:Vertical Flight:LatMovementHUD21,A tutorial label,Horizontal Velocity Indicator,Indicateur de vitesse horizontale
-tut:Vertical Flight:StudyMovement22,A tutorial label,"As you move around, study how the AP handles the vehicle"," study how the AP handles the vehicle"
+tut:Vertical Flight:StudyMovement22,A tutorial label,"As you move around, study how the AP handles the vehicle","Pendant que vous vous déplacez, étudiez comment l'AP gère le véhicule"
 tut:Vertical Flight:StartTargets23,A tutorial label,Let's try flying into some targets.,Essayons de voler dans certaines cibles.
-tut:Vertical Flight:HoverWaypoint024,A tutorial label,Hover here!,Survolez ici�!
-tut:Vertical Flight:HoverWaypoint125,A tutorial label,Hover here!,Survolez ici�!
-tut:Vertical Flight:HoverWaypoint226,A tutorial label,Hover here!,Survolez ici�!
-tut:Vertical Flight:HoverWaypoint327,A tutorial label,Hover here!,Survolez ici�!
-tut:Vertical Flight:GoodJob28,A tutorial label,Great! Now lets try to land back on the helipad.,Genial!�Essayons maintenant d'atterrir sur l'heliport.
-tut:Vertical Flight:StopBeforeLand29,A tutorial label,"Bring yourself to a stop by centering the throttle, and steering the stick in the opposite direction as your horizontal velocity indicator."," and steering the stick in the opposite direction as your horizontal velocity indicator."
-tut:Vertical Flight:FaceLanding30,A tutorial label,Rotate to face towards the helipads.,Tournez pour faire face aux heliports.
-tut:Vertical Flight:HeadTowardPad31,A tutorial label,Begin to move towards the pad.  Adjust your altitude control and steer so your velocity vector is pointed just above the pad.,Commencez a vous deplacer vers le pad.�Ajustez votre contr�le d'altitude et dirigez de sorte que votre vecteur de vitesse soit pointe juste au-dessus du pad.
+tut:Vertical Flight:HoverWaypoint024,A tutorial label,Hover here!,Survolez ici !
+tut:Vertical Flight:HoverWaypoint125,A tutorial label,Hover here!,Survolez ici !
+tut:Vertical Flight:HoverWaypoint226,A tutorial label,Hover here!,Survolez ici !
+tut:Vertical Flight:HoverWaypoint327,A tutorial label,Hover here!,Survolez ici !
+tut:Vertical Flight:GoodJob28,A tutorial label,Great! Now lets try to land back on the helipad.,Genial ! Essayons maintenant d'atterrir sur l'héliport.
+tut:Vertical Flight:StopBeforeLand29,A tutorial label,"Bring yourself to a stop by centering the throttle, and steering the stick in the opposite direction as your horizontal velocity indicator.",Arrêtez-vous en centrant la manette des gaz et en dirigeant le manche dans la direction opposée à celle de votre indicateur de vitesse horizontale
+tut:Vertical Flight:FaceLanding30,A tutorial label,Rotate to face towards the helipads.,Tournez pour faire face aux héliports.
+tut:Vertical Flight:HeadTowardPad31,A tutorial label,Begin to move towards the pad.  Adjust your altitude control and steer so your velocity vector is pointed just above the pad.,Commencez à vous déplacer vers le pad. Ajustez votre contrôle d'altitude et dirigez de sorte que votre vecteur de vitesse soit pointé juste au-dessus du pad.
 tut:Vertical Flight:AlmostLand32,A tutorial label,Slow your forward speed and rate of descent.,Ralentissez votre vitesse d'avancement et votre taux de descente.
 tut:Vertical Flight:Land33,A tutorial label,Adjust rate of descent to bring it down gently.,Ajustez le taux de descente pour le faire descendre doucement.
-tut:Vertical Flight:Touchdown34,A tutorial label,Touch down!  Throttle down and enable brake locks.,Atterrir!�Reduisez les gaz et activez le verrouillage des freins.
+tut:Vertical Flight:Touchdown34,A tutorial label,Touch down!  Throttle down and enable brake locks.,Atterrir ! Réduisez les gaz et activez le verrouillage des freins.
 tut:Vertical Flight:Brake Locks35,A tutorial label,Enable brake lock.,Activer le verrouillage des freins.
-tut:Vertical Flight:Congrats36,A tutorial label,Congratulations!  Next time: Manual vertical flight and transitioning.,Toutes nos felicitations!�La prochaine fois : Vol vertical manuel et transition.
+tut:Vertical Flight:Congrats36,A tutorial label,Congratulations!  Next time: Manual vertical flight and transitioning.,Toutes nos félicitations ! La prochaine fois : Vol vertical manuel et transition.
 PGM-27 x19_fullName,Full equip name of: PGM-27 x19,PGM-27 x19,
 PGM-27 x19_description,Item description of: PGM-27 x19,"A rack of 2.75 inch rockets which have been fitted with a laser guidance package, turning them into precision guided munitions.
 Requires continuous lock for guidance (not fire-and-forget).",
