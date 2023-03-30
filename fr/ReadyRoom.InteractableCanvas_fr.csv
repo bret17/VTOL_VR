@@ -6,7 +6,7 @@ NewPilotButton_745346,VR Interactable,Create New Pilot,Créer pilote
 Text_742072,UI Text,New Pilot,Nouveau pilote
 QuitButton_740624,VR Interactable,Quit Game,Quitter le jeu
 Text_742474,UI Text,QUIT,QUITTER
-SettingsButton_747456,VR Interactable,Settings,Paramètres
+SettingsButton_747456,VR Interactable,Settings,PARAMÈTRES
 Text_740102,UI Text,"Settings
 ",PARAMÈTRES
 CreditsButton_-102322,VR Interactable,Game Credits,
@@ -85,7 +85,7 @@ missions","Chargement
 steam workshop
 missions"
 Name_742760,UI Text,Error,Erreur
-ErrorOkayButton_976098,VR Interactable,Okay,D'accord
+ErrorOkayButton_976098,VR Interactable,Okay,OK
 Title_-645276,UI Text,"Select Campaign
 ",Sélection campagne
 NextButton_-645330,VR Interactable,Next Campaign,Campagne suivante
