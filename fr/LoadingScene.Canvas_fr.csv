@@ -2,8 +2,6 @@ Key,Description,en,fr
 MissionText_776118,UI Text,"Align your seat with the virtual chair.
 
 Equip helmet when ready.",Alignez votre siège avec la chaise virtuelle.
-
-Équipez le casque lorsque vous êtes prêts.
 Ready_776022,UI Text,READY,PRET
 LoadingText_775290,UI Text,LOADING,CHARGEMENT EN COURS
 loading_helmet,VR Interactable,Equip when ready.,Équipez-vous lorsque vous êtes prêts.

@@ -1,14 +1,14 @@
 Key,Description,en,fr
 DemoText_746066,UI Text,DEMO,DEMO
-SelectPilotButton_745718,VR Interactable,Select Existing Pilot,Selectionnez un pilote existant
-Text_742314,UI Text,Select Pilot,Selectionnez le pilote
-NewPilotButton_745346,VR Interactable,Create New Pilot,Creer un nouveau pilote
+SelectPilotButton_745718,VR Interactable,Select Existing Pilot,"Pilote existant "
+Text_742314,UI Text,Select Pilot,Selection du pilote
+NewPilotButton_745346,VR Interactable,Create New Pilot,Créer pilote
 Text_742072,UI Text,New Pilot,Nouveau pilote
 QuitButton_740624,VR Interactable,Quit Game,Quitter le jeu
 Text_742474,UI Text,QUIT,QUITTER
-SettingsButton_747456,VR Interactable,Settings,Parametres
+SettingsButton_747456,VR Interactable,Settings,Paramètres
 Text_740102,UI Text,"Settings
-",Parametres
+",PARAMÈTRES
 CreditsButton_-102322,VR Interactable,Game Credits,
 Text_726044,UI Text,Credits,Credits
 VTOL VR (1)_747232,UI Text,VTEDIT,VTEDIT
@@ -16,8 +16,8 @@ EditorButton_743918,VR Interactable,Mission Editor,"Editeur mission "
 MapEditorButton_747578,VR Interactable,Map Editor,Editeur de carte
 VTEDIT (1)_729932,UI Text,VT,
 VTOL VR_744834,UI Text,VTOL VR,VTOL VR
-Text_ACReadyToFly,UI Text,Ready to fly?,Pret a voler ?
-Text_AC_SelectVehicle,UI Text,Select Vehicle,Sélectionnez vehicule
+Text_ACReadyToFly,UI Text,Ready to fly?,Prêt a voler ?
+Text_AC_SelectVehicle,UI Text,Select Vehicle,Sélection véhicule
 Text_ACNewPilot,UI Text,New Pilot?,Nouveau Pilote
 Tutorials Button_-4966024,VR Interactable,Tutorials,Didacticiel
 Text_ACTutorial,UI Text,Tutorial,Didacticiel
@@ -26,32 +26,32 @@ EditNameButton_745868,VR Interactable,Edit Name,Modifier le nom
 Text_743158,UI Text,Edit name,Modifier le nom
 BackButton_744184,VR Interactable,Back To Main,Retour a l'accueil
 Text_742734,UI Text,Back,Retour
-StartButton_745400,VR Interactable,Start New Pilot,Cree un nouveau pilote
+StartButton_745400,VR Interactable,Start New Pilot,Crée un pilote
 Text_744692,UI Text,Start,Commencer
 InvalidName_740436,UI Text,[ Invalid Name ],[ Nom incorrect  ]
-DeleteButton_740016,VR Interactable,Delete Pilot,Supprimer le pilote
+DeleteButton_740016,VR Interactable,Delete Pilot,Supprimer pilote
 PILOTS_745628,UI Text,Pilots,Pilotes
 NextPilotButton_747706,VR Interactable,Next Pilot,Prochain pilote
 PrevPilotButton_741810,VR Interactable,Previous Pilot,Pilote precedent
 AreYouSure_743668,UI Text,Are you sure you want to delete?,Etes-vous sûr que vous voulez supprimer ?
-Text_740860,UI Text,"Yes, Delete","Oui, supprimer"
+Text_740860,UI Text,"Yes, Delete","Oui, Supprimer"
 NoDeleteButton_743870,VR Interactable,Cancel Delete,Annuler Supprimer
 Text_745554,UI Text,"No, keep","Non, gardez"
 PILOTS_740912,UI Text,NO PILOTS,PAS DE PILOTES
 PilotName_742564,UI Text,BDynamics,
 Pilot name_744616,UI Text,Pilot name,Nom du pilote
-EditPilotColorsButton_741944,VR Interactable,Edit Colors,Modifier les couleurs
+EditPilotColorsButton_741944,VR Interactable,Edit Colors,Modifier couleurs
 WorkshopBrowserButton_747088,VR Interactable,Steam Workshop Browser,Steam Workshop navigation
 Text_509830,UI Text,Steam Workshop,
-VEHICLES_747786,UI Text,VEHICLES,VEHICULE
-Text_743784,UI Text,SELECT VEHICLE,SELECTIONNER LE VEHICULE
-NextVehButton_747140,VR Interactable,Next Vehicle,Vehicule suivant
-PrevVehButton_746350,VR Interactable,Previous Vehicle,Vehicule precedent
-NO VEHICLES_740194,UI Text,NO VEHICLES,PAS DE VEHICULES
+VEHICLES_747786,UI Text,VEHICLES,VÉHICULE
+Text_743784,UI Text,SELECT VEHICLE,SELECTION VÉHICULE
+NextVehButton_747140,VR Interactable,Next Vehicle,Véhicule suivant
+PrevVehButton_746350,VR Interactable,Previous Vehicle,Véhicule precedent
+NO VEHICLES_740194,UI Text,NO VEHICLES,PAS DE VÉHICULE
 Title_731538,UI Text,TUTORIALS,DIDACTICIELS
 NextButton_-4973280,VR Interactable,Next Tutorial,Didacticiel suivant
-PrevButton_-4973282,VR Interactable,Previous Tutorial,Didacticiel precedent
-SelectButton_-645320,VR Interactable,Select Tutorial,Selectionnez le didacticiel
+PrevButton_-4973282,VR Interactable,Previous Tutorial,Didacticiel précédent
+SelectButton_-645320,VR Interactable,Select Tutorial,Selection du didacticiel
 Text_-645448,UI Text,Select,Selectionner
 Text_-645234,UI Text,Radar,Radar
 Text_-645284,UI Text,F/A-26B,F/A-26B
@@ -64,19 +64,19 @@ Name (1)_747156,UI Text,STEAM WORKSHOP,
 Placeholder_742056,UI Text,search...,rechercher...
 ButtonSearch_745798,VR Interactable,Search,Rechercher
 SortOrderDropdown_742490,VR Interactable,Sort Dropdown,Liste deroulante de tri
-Text_743832,UI Text,Entry Button,Bouton d'entree
-AnyVehicleButton_741020,VR Interactable,Any Vehicle,Tout vehicule
+Text_743832,UI Text,Entry Button,Bouton d'entrée
+AnyVehicleButton_741020,VR Interactable,Any Vehicle,Tout véhicule
 AV42Button_746716,VR Interactable,AV-42C,AV-42C
 Text_744672,UI Text,AV-42C,AV-42C
-missionTypeText (1)_742360,UI Text,Select vehicle,Selectionnez le vehicule
+missionTypeText (1)_742360,UI Text,Select vehicle,Selection véhicule
 F-45AButton_744238,VR Interactable,F-45A,F-45A
 VotesTab_743458,VR Interactable,Votes,Votes
 FavesTab_744050,VR Interactable,Favorited,Favoris
 VotesTxt_747534,UI Text,Faves,Favoris
 SubsTab_746936,VR Interactable,Subscriptions,Abonnements
-VotesTxt_740374,UI Text,Subs,Abonnements
+VotesTxt_740374,UI Text,Subs,Abonnés
 NewTab_744656,VR Interactable,New,Nouveau
-VotesTxt_740444,UI Text,Newest,Le plus recent
+VotesTxt_740444,UI Text,Newest,Le plus récent
 ButtonPrevious_746534,VR Interactable,Previous Page,Page precedente
 ButtonNext_743488,VR Interactable,Next Page,Page suivante
 Title (1)_741416,UI Text,"Loading 
@@ -87,39 +87,39 @@ missions"
 Name_742760,UI Text,Error,Erreur
 ErrorOkayButton_976098,VR Interactable,Okay,D'accord
 Title_-645276,UI Text,"Select Campaign
-",Selectionnez la campagne
+",Sélection campagne
 NextButton_-645330,VR Interactable,Next Campaign,Campagne suivante
 PrevButton_-645328,VR Interactable,Previous Campaign,Campagne precedente
-SelectButton_516578,VR Interactable,Select Campaign,Selectionnez la campagne
-BackButton_-645324,VR Interactable,Back to Vehicles,Retour aux vehicules
+SelectButton_516578,VR Interactable,Select Campaign,Sélection de la campagne
+BackButton_-645324,VR Interactable,Back to Vehicles,Retour aux véhicules
 Text_732522,UI Text,"The Island
 ",L'Ile
-Text_732678,UI Text,Custom Campaigns,Campagnes personnalisees
+Text_732678,UI Text,Custom Campaigns,Campagnes personnalisées
 ResetButton_-645338,VR Interactable,Reset Campaign,Reinitialiser la campagne
 Text_-645444,UI Text,"Reset
-Progress","Reinitialiser
+Progress","Réinitialiser
 Progression"
-description_-645446,UI Text,Are you sure you want to reset progress on this campaign?,Voulez-vous vraiment reinitialiser la progression de cette campagnee?
-Text_-645584,UI Text,Reset,Reinitialiser
+description_-645446,UI Text,Are you sure you want to reset progress on this campaign?,Voulez-vous vraiment réinitialiser la progression de cette campagne?
+Text_-645584,UI Text,Reset,Réinitialiser
 Text_-645592,UI Text,Cancel,Annuler
 Title (1)_740090,UI Text,"Loading 
 Campaigns & missions...",Chargement
-Text_-645730,UI Text,No missions found,Aucune mission trouvee
-Title_-645562,UI Text,Select mission,Selectionnez la mission
+Text_-645730,UI Text,No missions found,Aucune mission trouvée
+Title_-645562,UI Text,Select mission,Selection mission
 CompletedObject_-645176,UI Text,Completed,complete
-GrantedBudget_-645910,UI Text,Granted Budget: $500,Budget accordee: 500$
-RTrainingTitle_-645174,UI Text,"Recommended Training: ",Formation recommandee:
-Text_-645912,UI Text,FULL VERSION ONLY,VERSION COMPLETE SEULEMENT
+GrantedBudget_-645910,UI Text,Granted Budget: $500,Budget accordée: 500$
+RTrainingTitle_-645174,UI Text,"Recommended Training: ",Formation recommandée:
+Text_-645912,UI Text,FULL VERSION ONLY,VERSION COMPLÈTE SEULEMENT
 Text_-645908,UI Text,UNDER CONSTRUCTION,EN CONSTRUCTION
-Text_-645892,UI Text,CUSTOM MAP MISSING,CARTE PERSONNALISEE MANQUANTE
+Text_-645892,UI Text,CUSTOM MAP MISSING,CARTE PERSONNALISÉE MANQUANTE
 NextButton_-645564,VR Interactable,Next Mission,Prochaine mission
 PrevButton_-645598,VR Interactable,Previous Mission,Mission precedente
-SelectButton_-645578,VR Interactable,Select Mission,Selectionnez la mission
+SelectButton_-645578,VR Interactable,Select Mission,Selection de mission
 MissionsButton_-645568,VR Interactable,Missions,Missions
 Text_732526,UI Text,MISSIONS,MISSIONS
 TrainingButton_-645594,VR Interactable,Training,Formation
 Text_-645732,UI Text,TRAINING,FORMATION
-BackButton_-645608,VR Interactable,Back to Campaigns,Retour a la campagne
+BackButton_-645608,VR Interactable,Back to Campaigns,Retour à la campagne
 triggerToSkip_-645838,UI Text,hold trigger to skip,maintenez la gachette pour sauter
 titleText_-645888,UI Text,"New Training Mission: ",Nouvelle mission d'entrainement:
 MISSION BRIEFING_744042,UI Text,MISSION BRIEFING,BRIEFING DE MISSION
@@ -131,15 +131,15 @@ FlyButton_740588,VR Interactable,Fly Mission,Mission de vol
 Text_743562,UI Text,Configure,Configurer
 Text_746416,UI Text,Customize Pilot,Personnaliser le pilote
 Label_740562,UI Text,suit,costume
-HueUpButton_742114,VR Interactable,Hue Right,Teinte a droite
+HueUpButton_742114,VR Interactable,Hue Right,Teinte droite
 HueDownButton_744534,VR Interactable,Hue Left,Teinte Gauche
 Label (1)_740254,UI Text,Hue,Teinte
-SatUpButton_745496,VR Interactable,Saturation Up,Saturation en hausse
-SatDownButton_741692,VR Interactable,Saturation Down,Saturation vers le bas
+SatUpButton_745496,VR Interactable,Saturation Up,Saturation haut
+SatDownButton_741692,VR Interactable,Saturation Down,Saturation bas
 Label (2)_741270,UI Text,Saturation,Saturation
-ValUpButton_747676,VR Interactable,Value Up,Valeur en hausse
-ValDownButton_747772,VR Interactable,Value Down,Valeur vers le bas
-Label (3)_740798,UI Text,Brightness,Luminosite
+ValUpButton_747676,VR Interactable,Value Up,Valeur haute
+ValDownButton_747772,VR Interactable,Value Down,Valeur base
+Label (3)_740798,UI Text,Brightness,Luminosité
 Label_741936,UI Text,vest,gilet
 Label_740984,UI Text,G-Suit,G-Suit
 Label_746928,UI Text,Straps,Les bretelles
@@ -149,9 +149,9 @@ Text_740032,UI Text,Accept,J'accepte
 Button_740788,VR Interactable,Interactable,Interactif
 DecrButton_746112,VR Interactable,Decrease,Diminuer
 IncrButton_743848,VR Interactable,Increase,Augmenter
-PrevSettingsPageButton_745814,VR Interactable,Prev Page,Page precedente
-ApplySettingsButton_740876,VR Interactable,Apply Settings,Appliquer les parametres
-RevertSettingsButton_745510,VR Interactable,Revert Settings,Retablir les parametres
+PrevSettingsPageButton_745814,VR Interactable,Prev Page,Page précédente
+ApplySettingsButton_740876,VR Interactable,Apply Settings,Appliquer les paramètres
+RevertSettingsButton_745510,VR Interactable,Revert Settings,Retablir les paramètres
 Text_744170,UI Text,Revert,Revenir
 Text_743510,UI Text,Close,Fermer
 BindingsButton_740066,VR Interactable,Open Bindings Menu,Ouvrir le menu des liaisons
@@ -160,28 +160,28 @@ OpenWingmenButton_742898,VR Interactable,Wingman Voices,Voix d'ailier
 GameCat_692110,VR Interactable,Game,Jeu
 ControlsCat_696240,VR Interactable,Controls,Controles
 AudioCat_692816,VR Interactable,Audio,Audio
-VideoCat_695570,VR Interactable,Video,Video
+VideoCat_695570,VR Interactable,Video,Vidéo
 MiscCat_691360,VR Interactable,Miscellaneous,Divers
 Text_691290,UI Text,Misc,Divers
 Image_746964,VR Interactable,Toggle Voice,Basculer la voix
-SampleButton_741706,VR Interactable,Play Sample,Lire l'echantillon
-SettingsTitle_746874,UI Text,Input binding,Saisir l'entree
+SampleButton_741706,VR Interactable,Play Sample,Lire l'échantillon
+SettingsTitle_746874,UI Text,Input binding,Saisir l'entrée
 ActionLabel_743972,UI Text,Action,Action
 ControllerLabel_740058,UI Text,Controller,Manette
 AxisLabel_740550,UI Text,Axis,Axe
-SelectCtrlr_744404,UI Text,Select a controller,Selectionnez un controleur
+SelectCtrlr_744404,UI Text,Select a controller,Selection du controleur
 BindingsButton_745912,VR Interactable,Bind,Lier
 Text_742080,UI Text,Bind,Lier
-NextCtrlrButton_745738,VR Interactable,Next Controller,Controleur suivant
-PrevCtrlrButton_747542,VR Interactable,Previous Controller,Controleur precedent
+NextCtrlrButton_745738,VR Interactable,Next Controller,Contrôleur suivant
+PrevCtrlrButton_747542,VR Interactable,Previous Controller,Contrôleur précédent
 TestLabel_744460,UI Text,Axis Test,Essai d'axe
-ClearButton_744128,VR Interactable,Clear Binding,Reliure claire
+ClearButton_744128,VR Interactable,Clear Binding,
 Text_742294,UI Text,Clear,
 InvertButton_731022,VR Interactable,Invert Axis,Inverser l'axe
 Text_724774,UI Text,Invert,Inverser
 Text_746160,UI Text,Apply,Appliquer
-Title_744764,UI Text,Launch Editor?,Lancer l'editeure?
-Title (1)_740936,UI Text,The mission editor will run on your monitor.,L'editeur de mission s'executera sur votre moniteur.
-OkayButton_742216,VR Interactable,Launch Editor,Lancer l'editeur
+Title_744764,UI Text,Launch Editor?,Lancer l'éditeur?
+Title (1)_740936,UI Text,The mission editor will run on your monitor.,L'éditeur de mission s'exécutera sur votre écran.
+OkayButton_742216,VR Interactable,Launch Editor,Lancer l'éditeur
 BackButton_507224,VR Interactable,Back to Main Menu,Retour au menu principal
-Title (1)_740580,UI Text,The map editor will run on your monitor.,L'editeur de carte s'executera sur votre moniteur.
+Title (1)_740580,UI Text,The map editor will run on your monitor.,L'éditeur de carte s'exécutera sur votre écran.
