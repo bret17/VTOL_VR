@@ -127,10 +127,10 @@ title_953028,UI Text,"LOCK
 B
 R
 A",FERMER a CLe
-OffObj_956796,UI Text,RADAR OFF,RADAR DeSACTIVe
+OffObj_956796,UI Text,RADAR OFF,RADAR DÉSACTIVÉ
 FOVText_955746,UI Text,BORESIGHT,BORESIGHT
 Title_952256,UI Text,ARAD,ARAD
-offTxt_952304,UI Text,RWR OFF,RWR DeSACTIVe
+offTxt_952304,UI Text,RWR OFF,RWR DÉSACTIVÉ
 hudModeText_956624,UI Text,DECL,DECL
 Text_956014,UI Text,GAME MENU,MENU DU JEU
 Text_957026,UI Text,"Sit comfortably
@@ -170,7 +170,7 @@ AltModeLabel_953220,UI Text,UNITS,UNITeS
 unitOptsText_621558,UI Text,ALT WARN,ALT AVERT
 JoyModeText_952514,UI Text,JOYSTICK MODE,MODE JOYSTICK
 JoyModeText_368540,UI Text,JOY SENS,JOIE SENS
-eqNameText_621662,UI Text,UNIT OPTIONS,OPTIONS D'UNITe
+eqNameText_621662,UI Text,UNIT OPTIONS,OPTIONS DE L'UNITÉ
 AltModeLabel_614816,UI Text,Alt Units,Unites alternatives
 DistModeLabel_954954,UI Text,Dist Units,Unites de distance
 SpeedModeLabel_955738,UI Text,Speed Units,Unites de vitesse
@@ -216,7 +216,7 @@ RollSASInteractable_954040,VR Interactable,Toggle Roll Assist,Basculer l'assista
 AutoTrimLabel_953970,UI Text,AUTOTRIM,AUTOTRIM
 On_955172,UI Text,PITCH,TERRAIN
 PitchAutoTrimInteractable_952572,VR Interactable,Toggle Pitch Trim,Basculer l'ajustement de hauteur
-MissileModeText_953606,UI Text,OFF,DeSACTIVe
+MissileModeText_953606,UI Text,OFF,DÉSACTIVÉ
 GLimitInteractable_953432,VR Interactable,Toggle G-Limiter,Basculer G-Limiter
 CATOTrimInteractable_954262,VR Interactable,Catapult T/O Trim,Garniture de T/O de catapulte
 FuelPort_956728,VR Interactable,Fuel Port,Port de carburant

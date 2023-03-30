@@ -1,7 +1,7 @@
 Key,Description,en,fr
 DemoText_746066,UI Text,DEMO,DEMO
 SelectPilotButton_745718,VR Interactable,Select Existing Pilot,"Pilote existant "
-Text_742314,UI Text,Select Pilot,Selection du pilote
+Text_742314,UI Text,Select Pilot,Selection pilote
 NewPilotButton_745346,VR Interactable,Create New Pilot,Créer pilote
 Text_742072,UI Text,New Pilot,Nouveau pilote
 QuitButton_740624,VR Interactable,Quit Game,Quitter le jeu
@@ -125,7 +125,7 @@ titleText_-645888,UI Text,"New Training Mission: ",Nouvelle mission d'entraineme
 MISSION BRIEFING_744042,UI Text,MISSION BRIEFING,BRIEFING DE MISSION
 NextNoteButton_743764,VR Interactable,Next Note,Note suivante
 Text_742706,UI Text,Next,Suivant
-PrevNoteButton_745262,VR Interactable,Previous Note,Note precedente
+PrevNoteButton_745262,VR Interactable,Previous Note,Note précédente
 Text_744920,UI Text,Previous,Precedent
 FlyButton_740588,VR Interactable,Fly Mission,Mission de vol
 Text_743562,UI Text,Configure,Configurer
@@ -160,7 +160,7 @@ OpenWingmenButton_742898,VR Interactable,Wingman Voices,Voix d'ailier
 GameCat_692110,VR Interactable,Game,Jeu
 ControlsCat_696240,VR Interactable,Controls,Controles
 AudioCat_692816,VR Interactable,Audio,Audio
-VideoCat_695570,VR Interactable,Video,Vidéo
+VideoCat_695570,VR Interactable,Video,VIDÉO
 MiscCat_691360,VR Interactable,Miscellaneous,Divers
 Text_691290,UI Text,Misc,Divers
 Image_746964,VR Interactable,Toggle Voice,Basculer la voix
@@ -181,7 +181,7 @@ InvertButton_731022,VR Interactable,Invert Axis,Inverser l'axe
 Text_724774,UI Text,Invert,Inverser
 Text_746160,UI Text,Apply,Appliquer
 Title_744764,UI Text,Launch Editor?,Lancer l'éditeur?
-Title (1)_740936,UI Text,The mission editor will run on your monitor.,L'éditeur de mission s'exécutera sur votre écran.
+Title (1)_740936,UI Text,The mission editor will run on your monitor.,L'Éditeur de mission s'exÉcutera sur votre Écran.
 OkayButton_742216,VR Interactable,Launch Editor,Lancer l'éditeur
 BackButton_507224,VR Interactable,Back to Main Menu,Retour au menu principal
-Title (1)_740580,UI Text,The map editor will run on your monitor.,L'éditeur de carte s'exécutera sur votre écran.
+Title (1)_740580,UI Text,The map editor will run on your monitor.,L'Éditeur de carte s'exÉcutera sur votre Écran.

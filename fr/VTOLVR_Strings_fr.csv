@@ -19,7 +19,7 @@ s_asmTmode_3,Antiship terminal guidance mode,Popup,Surgir
 ASM-66LR_fullName,Full equip name of: ASM-66LR,ASM-66LR,
 ASM-66LR_description,Item description of: ASM-66LR,Active radar-guided surface to air missile. Equipped with first stage booster for extended range.,Missile sol-air actif guidé par radar. Équipé d'un booster de premier étage pour une autonomie étendue
 GBU-38 Bomb x3_fullName,Full equip name of: GBU-38 Bomb x3,GBU-38 Bomb x3,Bombe GBU-38 x3
-GBU-38 Bomb x3_description,Item description of: GBU-38 Bomb x3,500lb GPS guided direct attack munition. It's a Mk.82 bomb with a guidance package strapped on.,Munition d'attaque directe guidee par GPS de 500 lb.�C'est une bombe Mk.82 avec un kit de guidage attache.
+GBU-38 Bomb x3_description,Item description of: GBU-38 Bomb x3,500lb GPS guided direct attack munition. It's a Mk.82 bomb with a guidance package strapped on.,Munition d'attaque directe guidee par GPS de 500 lb. C'est une bombe Mk.82 avec un kit de guidage attache.
 eqSublabel_GPS-BOMB,HUD sub-label of an equip,GPS BOMB,BOMBE GPS
 gpsBomb_targetMode,"An option for GPS bombs' targeting mode (auto, manual, dumb)",TARGET MODE,MODE CIBLE
 gpsBomb_autoRelRate,An option for GPS bomb's automatic release rate (shortened to fit UI space).,AUTO REL RATE,TAUX DE REL AUTO
@@ -27,58 +27,58 @@ s_gbu_mode_0,Targeting mode label for GPS bomb,MANUAL,MANUEL
 s_gbu_mode_1,Targeting mode label for GPS bomb,AUTO,AUTO
 s_gbu_mode_2,Targeting mode label for GPS bomb,DUMB,STUPIDE
 interactable_button_grip,,Grip,Saisir
-interactable_button_trigger,,Trigger,Declencheur
+interactable_button_trigger,,Trigger,Déclencheur
 vehicleConfig_denyBusy,Denial message for vehicle configurator,BUSY: RELOADING,OCCUPÉ:RECHARGEMENT
-vehicleConfig_invalidReload,Denial message for vehicle configurator,Full reload will be over budget!,La recharge complete depassera le budget�!
+vehicleConfig_invalidReload,Denial message for vehicle configurator,Full reload will be over budget!,La recharge complète dépassera le budget!
 vehicleConfig_totalMass,,Total mass:,Masse totale:
-vehicleConfig_fuelKnob,,Set fuel,Definir le carburant
+vehicleConfig_fuelKnob,,Set fuel,Définir le carburant
 vehicleConfig_flightCost,,Flight cost:,Coût du vol:
 vehicleConfig_budget,,Budget:,Budget:
 vehicleConfig_countermeasures,,Countermeasures,Contre-mesures
-vehicleConfig_flareLabel,,IR Flares,Fusees infrarouges
-vehicleConfig_flareKnob,,Set flares,Definir des fusees eclairantes
+vehicleConfig_flareLabel,,IR Flares,Fusées infrarouges
+vehicleConfig_flareKnob,,Set flares,Définir des fusées éclairantes
 vehicleConfig_chaffLabel,,ECM Chaff,Paillettes ECM
-vehicleConfig_chaffKnob,,Set chaff,Definir la paille
-vehicleConfig_repairButton,,Repair,reparation
-vehicleConfig_repairButtonText,,Repair,Reparation
-vehicleConfig_repairCostLabel,,Repair cost:,Cout de reparation:
+vehicleConfig_chaffKnob,,Set chaff,Définir la paille
+vehicleConfig_repairButton,,Repair,réparation
+vehicleConfig_repairButtonText,,Repair,Réparation
+vehicleConfig_repairCostLabel,,Repair cost:,Cout de réparation:
 vehicleConfig_equipMass,,Mass:,Masse:
 vehicleConfig_hardpoint,,Hardpoint,Point dur
 vehicleConfig_none,,None,Rien
 vehicleConfig_saveLoad,,Save/load,Sauvegarder charger
 vehicleConfig_backButton,Return to previous screen,Back,Retour
 equipConfig_noEquips,A label shown in the vehicle configurator when there are no available equipment.,No equipment.,Aucun equipement.
-equipConfig_noEquipsDescription,A more descriptive label shown when there is no equipment available.,Equipment for this hardpoint is not yet available.,L'equipement pour ce point dur n'est pas encore disponible.
+equipConfig_noEquipsDescription,A more descriptive label shown when there is no equipment available.,Equipment for this hardpoint is not yet available.,L'équipement pour ce point dur n'est pas encore disponible.
 vehicleConfig_equipCost,,Cost:,Cout:
 vehicleConfig_count,,Count:,Compter:
 vehicleConfig_fuel,,FUEL,CARBURANT
-vehicleConfig_equipButton,Equip the selected item,Equip,Equiper
-vehicleConfig_detachButton,Detach the current item,Detach,Detacher
+vehicleConfig_equipButton,Equip the selected item,Equip,Équiper
+vehicleConfig_detachButton,Detach the current item,Detach,Détacher
 vehicleConfig_previous,,Previous,Suivant
 vehicleConfig_next,,Next,Suivant
 vehicleConfig_availableEquipment,,"Available
 equipment",Disponible
-vehicleConfig_scroll,,Scroll,Faire defiler
+vehicleConfig_scroll,,Scroll,Faire défiler
 vehicleConfig_symmetry,,Symmetry,Symetrie
 vehicleConfig_symmetryButton,,Toggle symmetry,Basculer la symetrie
-vehicleConfig_load,,Load,Charge
+vehicleConfig_load,,Load,Chargé
 vehicleConfig_save,,Save,Sauvegarder
-vehicleConfig_saveNew,,Save new...,Enregistrer nouveau...
-vehicleConfig_overwrite,,Overwrite,ecraser...
+vehicleConfig_saveNew,,Save new...,Enregistré nouveau...
+vehicleConfig_overwrite,,Overwrite,écraser...
 vehicleConfig_delete,,Delete,Effacer
-500L Fuel Drop Tank_fullName,Full equip name of: 500L Fuel Drop Tank,500L Fuel Drop Tank,Reservoir de carburant de 500L
-500L Fuel Drop Tank_description,Item description of: 500L Fuel Drop Tank,A 500 liter fuel tank.,Un reservoir d'essence de 500 litres.
+500L Fuel Drop Tank_fullName,Full equip name of: 500L Fuel Drop Tank,500L Fuel Drop Tank,Réservoir de carburant de 500L
+500L Fuel Drop Tank_description,Item description of: 500L Fuel Drop Tank,A 500 liter fuel tank.,Un réservoir d'essence de 500 litres.
 AIM-9E Sidewinder x2_fullName,Full equip name of: AIM-9E Sidewinder x2,AIM-9E Sidewinder x2,
 AIM-9E Sidewinder x2_description,Item description of: AIM-9E Sidewinder x2,"A rack of two AIM-9E. An older short range, rear-aspect, heat seeking air to air missile.",
 eqSublabel_IR,HUD sub-label of an equip,IR,IR
 ON,,ON,ACTIVE
-OFF,,OFF,DESACTIVE
+OFF,,OFF,DÉSACTIVÉ
 irml_seekMode,Option title for IR missiles' heat-seeking mode,SEEK MODE,MODE DE RECHERCHE
 irml_trigUncage,"Option title for IR missiles' seeker to be uncaged by the trigger (trigger uncage, shortened for UI space).",TRIG UNCAGE,TRIG UNCAGE
 s_seekerMode_0,Label for heatseeker mode,Caged,En cage
 s_seekerMode_1,Label for heatseeker mode,Uncaged,Non mis en cage
 s_seekerMode_2,Label for heatseeker mode,Vertical Scan,Balayage vertical
-s_seekerMode_3,Label for heatseeker mode,Head Track,Tete de piste
+s_seekerMode_3,Label for heatseeker mode,Head Track,Tête de piste
 s_seekerMode_4,Label for heatseeker mode,Hard Lock,Verrouillage dur
 Hydra-70 x19 Rocket Pod_fullName,Full equip name of: Hydra-70 x19 Rocket Pod,Hydra-70 x19 Rocket Pod,Capsule de fusee Hydra-70 x19
 Hydra-70 x19 Rocket Pod_description,Item description of: Hydra-70 x19 Rocket Pod,"A pod carrying a total of 19 high explosive rockets.  Can be fired in single shot mode, or rapid fire (ripple)."," or rapid fire (ripple)."
@@ -116,7 +116,7 @@ AGM-88 ARM_fullName,Full equip name of: AGM-88 ARM,AGM-88 ARM,BRAS AGM-88
 AGM-88 ARM_description,Item description of: AGM-88 ARM,Medium range anti-radiation missile.,Missile anti-rayonnement a moyenne portee.
 eqSublabel_ARM,HUD sub-label of an equip,ARM,BRAS
 AGM-65 x3_fullName,Full equip name of: AGM-65 x3,AGM-65 x3,AGA-65 x3
-AGM-65 x3_description,Item description of: AGM-65 x3,"A medium range optically guided ""fire-and-forget"" anti-tank missile.",Un missile antichar de moyenne portee a guidage optique ��tirer et oublier��.
+AGM-65 x3_description,Item description of: AGM-65 x3,"A medium range optically guided ""fire-and-forget"" anti-tank missile.",Un missile antichar de moyenne portee a guidage optique tirer et oublier.
 eqSublabel_OPTICAL-FF,HUD sub-label of an equip,OPTICAL FF,OPTIQUE FF
 AUTO,,AUTO,AUTO
 MANUAL,,MANUAL,MANUEL
@@ -128,7 +128,7 @@ GAU-22 Redeemer 25mm_fullName,Full equip name of: GAU-22 Redeemer 25mm,GAU-22 Re
 GAU-22 Redeemer 25mm_description,Item description of: GAU-22 Redeemer 25mm,"A 4-barrel 25mm rotary cannon.
 Rate of fire: 3300 RPM",Un canon rotatif de 25 mm a 4 canons.
 MK-82AIR x32_fullName,Full equip name of: MK-82AIR x32,MK-82AIR x32,MK-82AIR x32
-MK-82AIR x32_description,Item description of: MK-82AIR x32,A rack of 32 MK-82AIR high drag bombs.,Un rack de 32 bombes MK-82AIR a forte tra�nee.
+MK-82AIR x32_description,Item description of: MK-82AIR x32,A rack of 32 MK-82AIR high drag bombs.,Un rack de 32 bombes MK-82AIR a forte trainee.
 GBU-12 Laser Guided Bomb_fullName,Full equip name of: GBU-12 Laser Guided Bomb,GBU-12 Laser Guided Bomb,Bombe a guidage laser GBU-12
 GBU-12 Laser Guided Bomb_description,Item description of: GBU-12 Laser Guided Bomb,A 500lb laser guided bomb.,Une bombe a guidage laser de 500 livres.
 eqSublabel_LASER-BOMB,HUD sub-label of an equip,LASER BOMB,BOMBE LASER
@@ -137,13 +137,13 @@ s_LOAL,Lock on after launch HUD label for laser bomb,LOAL,LOAL
 s_lgbMode_0,Laser guided bomb targeting mode,LASER,LASER
 s_lgbMode_1,Laser guided bomb targeting mode,DUMB,STUPIDE
 AGM-65_fullName,Full equip name of: AGM-65,AGM-65,AGA-65
-AGM-65_description,Item description of: AGM-65,"A medium range optically guided ""fire-and-forget"" anti-tank missile.",Un missile antichar de moyenne portee a guidage optique ��tirer et oublier��.
+AGM-65_description,Item description of: AGM-65,"A medium range optically guided ""fire-and-forget"" anti-tank missile.",Un missile antichar de moyenne portee a guidage optique tirer et oublier.
 CBU-97 Bomb x1_fullName,Full equip name of: CBU-97 Bomb x1,CBU-97 Bomb x1,Bombe CBU-97 x1
 CBU-97 Bomb x1_description,Item description of: CBU-97 Bomb x1,A smart cluster bomb that fires 40 explosively shaped armor penetrators at targets.,Une bombe a fragmentation intelligente qui tire 40 penetrateurs de blindage de forme explosive sur des cibles.
 eqSublabel_CLUSTER-BOMB,HUD sub-label of an equip,CLUSTER BOMB,BOMBE A FRAGMENTATION
 s_cbuAlt,HUD when below submunition deploy altitude of cluster bomb,BELOW CBU ALT,SOUS CBU ALT
 M230 Chain Gun_fullName,Full equip name of: M230 Chain Gun,M230 Chain Gun,Pistolet a chaine M230
-M230 Chain Gun_description,Item description of: M230 Chain Gun,A single-barrel 30mm automatic cannon mounted on a gimbal. The gimbal will be locked forward above a certain airspeed.,Un canon automatique a canon unique de 30 mm monte sur un cardan.�Le cardan sera verrouille vers l'avant au-dessus d'une certaine vitesse.
+M230 Chain Gun_description,Item description of: M230 Chain Gun,A single-barrel 30mm automatic cannon mounted on a gimbal. The gimbal will be locked forward above a certain airspeed.,Un canon automatique a canon unique de 30 mm monte sur un cardan. Le cardan sera verrouille vers l'avant au-dessus d'une certaine vitesse.
 eqSublabel_CANNON-GIMBAL,HUD sub-label of an equip,CANNON GIMBAL,CANON GIMBAL
 gunTurret_locked,Label for when a gun turret is set to be locked in the forward-aiming position.,LOCKED,FERME A CLE
 gunTurret_slaved,Label for wh en a gun turret is set to be controlled by (slaved to) an external sensor.,SLAVED,ESCLAVE
@@ -159,17 +159,17 @@ eqSublabel_OPTICAL-FAF,HUD sub-label of an equip,OPTICAL FAF,FAF OPTIQUE
 tutName_Hover Tutorial,Name of a legacy tutorial objective,Hover Tutorial,Tutoriel survol
 tutDesc_Hover Tutorial,Description of a legacy tutorial,Learn to hover.,Apprenez a planer.
 tut:Hover Tutorial:Intro10,A tutorial label,Welcome to the hover tutorial.,Bienvenue dans le tutoriel de survol.
-tut:Hover Tutorial:Intro21,A tutorial label,We'll begin with the start-up sequence.,Nous allons commencer par la sequence de demarrage.
+tut:Hover Tutorial:Intro21,A tutorial label,We'll begin with the start-up sequence.,Nous allons commencer par la séquence de démarrage.
 tut:Hover Tutorial:Brake Lock2,A tutorial label,Enable Brake Lock,Activer le verrouillage des freins
 tut:Hover Tutorial:Enable battery3,A tutorial label,Enable Battery,Activer la batterie
 tut:Hover Tutorial:start up apu4,A tutorial label,Start APU,Demarrer l'APU
-tut:Hover Tutorial:wait spool apu5,A tutorial label,Let the APU spool up,Laissez l'APU s'enrouler
+tut:Hover Tutorial:wait spool apu5,A tutorial label,Let the APU spool up,Laissez l'APU tourner un peu
 tut:Hover Tutorial:StartLeftEngine6,A tutorial label,Start Left Engine,Demarrer le moteur gauche
 tut:Hover Tutorial:StartRightEngine7,A tutorial label,Start Right Engine,Demarrer le bon moteur
 tut:Hover Tutorial:Flaps8,A tutorial label,Set flaps to full,Reglez les volets au maximum
 tut:Hover Tutorial:WaitSpool9,A tutorial label,Wait for the engines to spool up.,Attendez que les moteurs demarrent.
-tut:Hover Tutorial:NoNeedAPU10,A tutorial label,The engines are now supplying power.  We can turn off the APU.,Les moteurs fournissent maintenant de l'energie. Nous pouvons desactiver l'APU.
-tut:Hover Tutorial:TurnOffAPU11,A tutorial label,Turn off APU.,Desactivez l'APU.
+tut:Hover Tutorial:NoNeedAPU10,A tutorial label,The engines are now supplying power.  We can turn off the APU.,Les moteurs fournissent maintenant de l'energie. Nous pouvons désactiver l'APU.
+tut:Hover Tutorial:TurnOffAPU11,A tutorial label,Turn off APU.,Désactivé l'APU.
 tut:Hover Tutorial:EnableHUD12,A tutorial label,Turn on the HUD,Allumez le HUD
 tut:Hover Tutorial:EnableMFD113,A tutorial label,Turn on the MFDs,Allumez les MFD
 tut:Hover Tutorial:EnableMFD214,A tutorial label,Turn on the MFDs,Allumez les MFD
@@ -301,7 +301,7 @@ MFDOption:RTB,Label of an MFD option,RTB,RTB
 MFDOption:RTB & Re-arm,Label of an MFD option,RTB & Re-arm,RTB et rearmement
 MFDOptionPage:Wingmen / Equipment,Title of an MFD option page,Wingmen / Equipment,Ailiers / equipement
 MFDOption:Radar On,Label of an MFD option,Radar On,Radar active
-MFDOption:Radar Off,Label of an MFD option,Radar Off,Radar desactive
+MFDOption:Radar Off,Label of an MFD option,Radar Off,Radar désactivé
 MFDOptionPage:Wingmen,Title of an MFD option page,Wingmen,Ailiers
 MFDOption:Combat,Label of an MFD option,Combat,Combat
 MFDOption:Flight,Label of an MFD option,Flight,Vol
@@ -450,7 +450,7 @@ AV-42C_mfd_map:B2,Label for an MFD button (short!).,ALT+,ALT+
 AV-42C_mfd_map:B2_tooltip,Tooltip for an MFD button.,Raise Target Alt,Augmenter la cible Alt
 AV-42C_mfd_map:B3,Label for an MFD button (short!).,GPS-S,GPS-S
 AV-42C_mfd_map:B3_tooltip,Tooltip for an MFD button.,Send GPS Target,Envoyer une cible GPS
-AV-42C_mfd_options:L2_tooltip,Tooltip for an MFD button.,Unit Options,Options d'unite
+AV-42C_mfd_options:L2_tooltip,Tooltip for an MFD button.,Unit Options,Options d'unité
 AV-42C_mfd_options:L3_tooltip,Tooltip for an MFD button.,Fuel Settings,Parametres de carburant
 AV-42C_mfd_options:L4_tooltip,Tooltip for an MFD button.,Altitude Warning Settings,Parametres d'avertissement d'altitude
 AV-42C_mfd_options:R3_tooltip,Tooltip for an MFD button.,Joystick Sensitivity,Sensibilite du joystick
@@ -558,7 +558,7 @@ AV-42C_mfd_netAnalytics:B1,Label for an MFD button (short!).,BACK,
 AV-42C_mfd_netAnalytics:B1_tooltip,Tooltip for an MFD button.,Back,
 rwrMode_0,RWR mode,On,Au
 rwrMode_1,RWR mode,Silent,Silencieux
-rwrMode_2,RWR mode,Off,Desactivé
+rwrMode_2,RWR mode,Off,Désactivé
 arad_DECL,ARAD declutter button label,DECL,DECL
 sCam_autoReset,S-Cam auto reset view label.,Auto-Reset,Réinitialisation automatique
 sCam_autoZoomPrefix,"S-Cam auto zoom prefix (Auto 40, etc)",Auto,Auto
@@ -597,26 +597,26 @@ AIM-9+ Sidewinder_fullName,Full equip name of: AIM-9+ Sidewinder,AIM-9+ Sidewind
 AIM-9+ Sidewinder_description,Item description of: AIM-9+ Sidewinder,Advanced short range heat seeking air to air missile.,Missile air-air perfectionne a courte portee a recherche de chaleur.
 Hydra-70 x7 Rocket Pod_fullName,Full equip name of: Hydra-70 x7 Rocket Pod,Hydra-70 x7 Rocket Pod,Capsule de fusee Hydra-70 x7
 Hydra-70 x7 Rocket Pod_description,Item description of: Hydra-70 x7 Rocket Pod,"A pod carrying a total of 7 high explosive rockets.  Can be fired in single shot mode, or rapid fire (ripple)."," or rapid fire (ripple)."
-AH-94_mfd_cam:B1,Label for an MFD button (short!).,PREV,
-AH-94_mfd_cam:B3,Label for an MFD button (short!).,NEXT,
+AH-94_mfd_cam:B1,Label for an MFD button (short!).,PREV,PRÉCÉDENT
+AH-94_mfd_cam:B3,Label for an MFD button (short!).,NEXT,SUIVANT
 AH-94_mfd_home:B1,Label for an MFD button (short!).,NAV,
-AH-94_mfd_home:B1_tooltip,Tooltip for an MFD button.,Navigation,
+AH-94_mfd_home:B1_tooltip,Tooltip for an MFD button.,Navigation,Navigation
 AH-94_mfd_home:B2,Label for an MFD button (short!).,OBJ,
-AH-94_mfd_home:B2_tooltip,Tooltip for an MFD button.,Objectives,
+AH-94_mfd_home:B2_tooltip,Tooltip for an MFD button.,Objectives,Objectifs
 AH-94_mfd_home:B3,Label for an MFD button (short!).,CAM,
-AH-94_mfd_home:B3_tooltip,Tooltip for an MFD button.,External Cameras,
+AH-94_mfd_home:B3_tooltip,Tooltip for an MFD button.,External Cameras,Caméras externes
 AH-94_mfd_home:B4,Label for an MFD button (short!).,TADS,
-AH-94_mfd_home:B4_tooltip,Tooltip for an MFD button.,Targeting,
-AH-94_mfd_home:L4,Label for an MFD button (short!).,GPS,
-AH-94_mfd_home:L4_tooltip,Tooltip for an MFD button.,GPS Targets,
+AH-94_mfd_home:B4_tooltip,Tooltip for an MFD button.,Targeting,Ciblage
+AH-94_mfd_home:L4,Label for an MFD button (short!).,GPS,GPS
+AH-94_mfd_home:L4_tooltip,Tooltip for an MFD button.,GPS Targets,Cibles GPS
 AH-94_mfd_home:T5,Label for an MFD button (short!).,S-CAM,
-AH-94_mfd_home:T5_tooltip,Tooltip for an MFD button.,Spectator Camera,
-AH-94_mfd_home:R3,Label for an MFD button (short!).,GAME,
-AH-94_mfd_home:R3_tooltip,Tooltip for an MFD button.,Game Menu,
+AH-94_mfd_home:T5_tooltip,Tooltip for an MFD button.,Spectator Camera,Caméra spectateur
+AH-94_mfd_home:R3,Label for an MFD button (short!).,GAME,Jeu
+AH-94_mfd_home:R3_tooltip,Tooltip for an MFD button.,Game Menu,Menu Jeu
 AH-94_mfd_home:R5,Label for an MFD button (short!).,LOG,
-AH-94_mfd_home:R5_tooltip,Tooltip for an MFD button.,Flight Log,
+AH-94_mfd_home:R5_tooltip,Tooltip for an MFD button.,Flight Log,Journal de vol
 AH-94_mfd_home:L2,Label for an MFD button (short!).,EQUIP,
-AH-94_mfd_home:L2_tooltip,Tooltip for an MFD button.,Mounted Equipment,
+AH-94_mfd_home:L2_tooltip,Tooltip for an MFD button.,Mounted Equipment,Équipement monté
 AH-94_mfd_home:L3,Label for an MFD button (short!).,OPTION,
 AH-94_mfd_home:L3_tooltip,Tooltip for an MFD button.,Options,
 AH-94_mfd_home:B5,Label for an MFD button (short!).,COMMS,
@@ -624,90 +624,90 @@ AH-94_mfd_home:B5_tooltip,Tooltip for an MFD button.,Communications,
 AH-94_mfd_home:T4,Label for an MFD button (short!).,RADAR,
 AH-94_mfd_home:T4_tooltip,Tooltip for an MFD button.,Radar,
 AH-94_mfd_home:R4,Label for an MFD button (short!).,DATA,
-AH-94_mfd_home:R4_tooltip,Tooltip for an MFD button.,Flight Data,
+AH-94_mfd_home:R4_tooltip,Tooltip for an MFD button.,Flight Data,Données de vol
 AH-94_mfd_home:L5,Label for an MFD button (short!).,CMS,
-AH-94_mfd_home:L5_tooltip,Tooltip for an MFD button.,Countermeasure System,
-AH-94_mfd_flightLog:R2_tooltip,Tooltip for an MFD button.,Scroll Up,
-AH-94_mfd_flightLog:R4_tooltip,Tooltip for an MFD button.,Scroll Down,
+AH-94_mfd_home:L5_tooltip,Tooltip for an MFD button.,Countermeasure System,Système de contre-mesure
+AH-94_mfd_flightLog:R2_tooltip,Tooltip for an MFD button.,Scroll Up,Défilement  haut
+AH-94_mfd_flightLog:R4_tooltip,Tooltip for an MFD button.,Scroll Down,Défilement  bas
 AH-94_mfd_flightLog:R5_tooltip,Tooltip for an MFD button.,Scroll Bottom,
-AH-94_mfd_flightLog:B3_tooltip,Tooltip for an MFD button.,Dump log to file.,
+AH-94_mfd_flightLog:B3_tooltip,Tooltip for an MFD button.,Dump log to file.,Vider le journal dans un fichier.
 AH-94_mfd_mission:B1,Label for an MFD button (short!).,WPT,
-AH-94_mfd_mission:B1_tooltip,Tooltip for an MFD button.,Set Waypoint,
-AH-94_mfd_mission:B3,Label for an MFD button (short!).,NEXT,
-AH-94_mfd_mission:B3_tooltip,Tooltip for an MFD button.,Next Objective,
-AH-94_mfd_mission:B5,Label for an MFD button (short!).,PREV,
-AH-94_mfd_mission:B5_tooltip,Tooltip for an MFD button.,Previous Objective,
-AH-94_mfd_gpsTgts:T2,Label for an MFD button (short!).,MAP,
-AH-94_mfd_gpsTgts:T2_tooltip,Tooltip for an MFD button.,Nav Map,
+AH-94_mfd_mission:B1_tooltip,Tooltip for an MFD button.,Set Waypoint,Définir un point de cheminement
+AH-94_mfd_mission:B3,Label for an MFD button (short!).,NEXT,SUIVANT
+AH-94_mfd_mission:B3_tooltip,Tooltip for an MFD button.,Next Objective,Objectif suivent
+AH-94_mfd_mission:B5,Label for an MFD button (short!).,PREV,PRÉCÉDENT
+AH-94_mfd_mission:B5_tooltip,Tooltip for an MFD button.,Previous Objective,"Objectif précédent "
+AH-94_mfd_gpsTgts:T2,Label for an MFD button (short!).,MAP,Carte
+AH-94_mfd_gpsTgts:T2_tooltip,Tooltip for an MFD button.,Nav Map,Carte de navigation
 AH-94_mfd_gpsTgts:T3,Label for an MFD button (short!).,WPT,
-AH-94_mfd_gpsTgts:T3_tooltip,Tooltip for an MFD button.,Set Waypoints,
-AH-94_mfd_gpsTgts:L2_tooltip,Tooltip for an MFD button.,Previous Group,
-AH-94_mfd_gpsTgts:L3_tooltip,Tooltip for an MFD button.,Next Group,
-AH-94_mfd_gpsTgts:B1_tooltip,Tooltip for an MFD button.,Create Group,
-AH-94_mfd_gpsTgts:B2_tooltip,Tooltip for an MFD button.,Delete Group,
-AH-94_mfd_gpsTgts:B4_tooltip,Tooltip for an MFD button.,Delete Target,
-AH-94_mfd_gpsTgts:R3_tooltip,Tooltip for an MFD button.,Next Target,
-AH-94_mfd_gpsTgts:R2_tooltip,Tooltip for an MFD button.,Previous Target,
+AH-94_mfd_gpsTgts:T3_tooltip,Tooltip for an MFD button.,Set Waypoints,Définir un point de cheminement
+AH-94_mfd_gpsTgts:L2_tooltip,Tooltip for an MFD button.,Previous Group,Groupe précédent
+AH-94_mfd_gpsTgts:L3_tooltip,Tooltip for an MFD button.,Next Group,Groupe suivant
+AH-94_mfd_gpsTgts:B1_tooltip,Tooltip for an MFD button.,Create Group,Créer un groupe
+AH-94_mfd_gpsTgts:B2_tooltip,Tooltip for an MFD button.,Delete Group,Supprimer le groupe
+AH-94_mfd_gpsTgts:B4_tooltip,Tooltip for an MFD button.,Delete Target,Supprimer la cible
+AH-94_mfd_gpsTgts:R3_tooltip,Tooltip for an MFD button.,Next Target,Cible suivante
+AH-94_mfd_gpsTgts:R2_tooltip,Tooltip for an MFD button.,Previous Target,Cible précédente
 AH-94_mfd_gpsTgts:R1_tooltip,Tooltip for an MFD button.,Toggle Path Mode,
-AH-94_mfd_gpsTgts:R4_tooltip,Tooltip for an MFD button.,Move Up,
-AH-94_mfd_gpsTgts:R5_tooltip,Tooltip for an MFD button.,MoveDown,
-AH-94_mfd_gpsTgts:B5,Label for an MFD button (short!).,SEND,
-AH-94_mfd_gpsTgts:B5_tooltip,Tooltip for an MFD button.,Send Data,
-AH-94_mfd_flyCam:B2,Label for an MFD button (short!).,START,
-AH-94_mfd_flyCam:B2_tooltip,Tooltip for an MFD button.,Start Camera,
-AH-94_mfd_flyCam:B3,Label for an MFD button (short!).,END,
-AH-94_mfd_flyCam:B3_tooltip,Tooltip for an MFD button.,End Camera,
-AH-94_mfd_flyCam:B1,Label for an MFD button (short!).,VIEW,
-AH-94_mfd_flyCam:B1_tooltip,Tooltip for an MFD button.,Toggle Preview,
+AH-94_mfd_gpsTgts:R4_tooltip,Tooltip for an MFD button.,Move Up,Déplacer vers le haut
+AH-94_mfd_gpsTgts:R5_tooltip,Tooltip for an MFD button.,MoveDown,Déplacer vers le bas
+AH-94_mfd_gpsTgts:B5,Label for an MFD button (short!).,SEND,ENVOYER
+AH-94_mfd_gpsTgts:B5_tooltip,Tooltip for an MFD button.,Send Data,Envoyer des données
+AH-94_mfd_flyCam:B2,Label for an MFD button (short!).,START,COMMENCER
+AH-94_mfd_flyCam:B2_tooltip,Tooltip for an MFD button.,Start Camera,Démarrer Caméra
+AH-94_mfd_flyCam:B3,Label for an MFD button (short!).,END,FIN
+AH-94_mfd_flyCam:B3_tooltip,Tooltip for an MFD button.,End Camera,Fin Caméra
+AH-94_mfd_flyCam:B1,Label for an MFD button (short!).,VIEW,Voir
+AH-94_mfd_flyCam:B1_tooltip,Tooltip for an MFD button.,Toggle Preview,Basculer l'aperçu
 AH-94_mfd_flyCam:R1,Label for an MFD button (short!).,RANDM,
-AH-94_mfd_flyCam:R1_tooltip,Tooltip for an MFD button.,Toggle Random,
-AH-94_mfd_flyCam:L3,Label for an MFD button (short!).,FOV:,
-AH-94_mfd_flyCam:L3_tooltip,Tooltip for an MFD button.,Toggle FOV,
+AH-94_mfd_flyCam:R1_tooltip,Tooltip for an MFD button.,Toggle Random,Basculer aléatoire
+AH-94_mfd_flyCam:L3,Label for an MFD button (short!).,FOV:,FOV
+AH-94_mfd_flyCam:L3_tooltip,Tooltip for an MFD button.,Toggle FOV,Basculer FOV
 AH-94_mfd_flyCam:L4,Label for an MFD button (short!).," ",
-AH-94_mfd_flyCam:L4_tooltip,Tooltip for an MFD button.,Toggle AutoFOV,
+AH-94_mfd_flyCam:L4_tooltip,Tooltip for an MFD button.,Toggle AutoFOV,Basculer FOV Automatique
 AH-94_mfd_flyCam:L5,Label for an MFD button (short!).," ",
-AH-94_mfd_flyCam:L5_tooltip,Tooltip for an MFD button.,Toggle Audio,
+AH-94_mfd_flyCam:L5_tooltip,Tooltip for an MFD button.,Toggle Audio,Basculer l'audio
 AH-94_mfd_flyCam:R2,Label for an MFD button (short!).,MODE,
-AH-94_mfd_flyCam:R2_tooltip,Tooltip for an MFD button.,Toggle Cam Mode,
-AH-94_mfd_flyCam:R3,Label for an MFD button (short!).,LOOK,
-AH-94_mfd_flyCam:R3_tooltip,Tooltip for an MFD button.,Toggle Look Mode,
+AH-94_mfd_flyCam:R2_tooltip,Tooltip for an MFD button.,Toggle Cam Mode,Basculer mode de caméra
+AH-94_mfd_flyCam:R3,Label for an MFD button (short!).,LOOK,REGARDER
+AH-94_mfd_flyCam:R3_tooltip,Tooltip for an MFD button.,Toggle Look Mode,Basculer le mode d'affichage
 AH-94_mfd_flyCam:R5,Label for an MFD button (short!).," ",
-AH-94_mfd_flyCam:R5_tooltip,Tooltip for an MFD button.,Toggle Auto-Reset,
+AH-94_mfd_flyCam:R5_tooltip,Tooltip for an MFD button.,Toggle Auto-Reset,Basculer la réinitialisation automatique
 AH-94_mfd_flyCam:B5,Label for an MFD button (short!).," ",
-AH-94_mfd_flyCam:B5_tooltip,Tooltip for an MFD button.,Cycle Reset Time,
+AH-94_mfd_flyCam:B5_tooltip,Tooltip for an MFD button.,Cycle Reset Time,Temps de réinitialisation du cycle
 AH-94_mfd_flyCam:T3,Label for an MFD button (short!).,SS,
-AH-94_mfd_flyCam:T3_tooltip,Tooltip for an MFD button.,4K Screenshot,
+AH-94_mfd_flyCam:T3_tooltip,Tooltip for an MFD button.,4K Screenshot,Capture d'écran 4K
 AH-94_mfd_antiRad:T5,Label for an MFD button (short!).,SOI,
-AH-94_mfd_antiRad:T5_tooltip,Tooltip for an MFD button.,Sensor of Interest,
-AH-94_mfd_antiRad:R4,Label for an MFD button (short!).,HUD,
+AH-94_mfd_antiRad:T5_tooltip,Tooltip for an MFD button.,Sensor of Interest,Capteur d'intérêt
+AH-94_mfd_antiRad:R4,Label for an MFD button (short!).,HUD,HUD
 AH-94_mfd_antiRad:R4_tooltip,Tooltip for an MFD button.,HUD Mode,
-AH-94_mfd_antiRad:R5_tooltip,Tooltip for an MFD button.,Declutter,
-AH-94_mfd_gameMenu:B2,Label for an MFD button (short!).,RESTART,
-AH-94_mfd_gameMenu:B2_tooltip,Tooltip for an MFD button.,Restart Mission,
-AH-94_mfd_gameMenu:B4,Label for an MFD button (short!).,EXIT,
-AH-94_mfd_gameMenu:B4_tooltip,Tooltip for an MFD button.,Return to Main,
-AH-94_mfd_gameMenu:B3,Label for an MFD button (short!).,EXIT,
-AH-94_mfd_gameMenu:B3_tooltip,Tooltip for an MFD button.,Return to Briefing Room,
-AH-94_mfd_gameMenu:R2,Label for an MFD button (short!).,CENTER,
-AH-94_mfd_gameMenu:R2_tooltip,Tooltip for an MFD button.,Recenter Seat,
-AH-94_mfd_gameMenu:L3,Label for an MFD button (short!).,QSAVE,
-AH-94_mfd_gameMenu:L3_tooltip,Tooltip for an MFD button.,Quick Save Menu,
-AH-94_mfd_gameMenu:R4,Label for an MFD button (short!).,PLAYERS,
-AH-94_mfd_gameMenu:R4_tooltip,Tooltip for an MFD button.,View Players,
-AH-94_mfd_gameMenu:R5,Label for an MFD button (short!).,NETWORK,
-AH-94_mfd_gameMenu:R5_tooltip,Tooltip for an MFD button.,Network Analytics,
-AH-94_mfd_quicksave:L3_tooltip,Tooltip for an MFD button.,Save,
-AH-94_mfd_quicksave:B4_tooltip,Tooltip for an MFD button.,Load,
-AH-94_mfd_quicksave:T5,Label for an MFD button (short!).,BACK,
-AH-94_mfd_quicksave:T5_tooltip,Tooltip for an MFD button.,Back,
-AH-94_mfd_mpPlayers:B1,Label for an MFD button (short!).,BACK,
-AH-94_mfd_mpPlayers:B1_tooltip,Tooltip for an MFD button.,Back,
-AH-94_mfd_mpPlayers:T5,Label for an MFD button (short!).,MANAGE,
-AH-94_mfd_mpPlayers:T5_tooltip,Tooltip for an MFD button.,Manage Players,
-AH-94_mfd_mpPlayers:R4_tooltip,Tooltip for an MFD button.,Scroll Up,
-AH-94_mfd_mpPlayers:R5_tooltip,Tooltip for an MFD button.,Scroll Down,
-AH-94_mfd_netAnalytics:B1,Label for an MFD button (short!).,BACK,
-AH-94_mfd_netAnalytics:B1_tooltip,Tooltip for an MFD button.,Back,
+AH-94_mfd_antiRad:R5_tooltip,Tooltip for an MFD button.,Declutter,Désencombrer
+AH-94_mfd_gameMenu:B2,Label for an MFD button (short!).,RESTART,REDÉMARRAGE
+AH-94_mfd_gameMenu:B2_tooltip,Tooltip for an MFD button.,Restart Mission,Redémarrer la mission
+AH-94_mfd_gameMenu:B4,Label for an MFD button (short!).,EXIT,SORTIR
+AH-94_mfd_gameMenu:B4_tooltip,Tooltip for an MFD button.,Return to Main,Retour à l'accueil
+AH-94_mfd_gameMenu:B3,Label for an MFD button (short!).,EXIT,SORTIR
+AH-94_mfd_gameMenu:B3_tooltip,Tooltip for an MFD button.,Return to Briefing Room,Retour à la salle de briefing
+AH-94_mfd_gameMenu:R2,Label for an MFD button (short!).,CENTER,CENTRE
+AH-94_mfd_gameMenu:R2_tooltip,Tooltip for an MFD button.,Recenter Seat,Recentré siège
+AH-94_mfd_gameMenu:L3,Label for an MFD button (short!).,QSAVE,Sauvegarder Rapide
+AH-94_mfd_gameMenu:L3_tooltip,Tooltip for an MFD button.,Quick Save Menu,Menu de sauvegarde rapide
+AH-94_mfd_gameMenu:R4,Label for an MFD button (short!).,PLAYERS,JOUEURS
+AH-94_mfd_gameMenu:R4_tooltip,Tooltip for an MFD button.,View Players,Voir les joueurs
+AH-94_mfd_gameMenu:R5,Label for an MFD button (short!).,NETWORK,RÉSEAU
+AH-94_mfd_gameMenu:R5_tooltip,Tooltip for an MFD button.,Network Analytics,Analyse du réseau
+AH-94_mfd_quicksave:L3_tooltip,Tooltip for an MFD button.,Save,Sauvegarder
+AH-94_mfd_quicksave:B4_tooltip,Tooltip for an MFD button.,Load,Charger
+AH-94_mfd_quicksave:T5,Label for an MFD button (short!).,BACK,RETOUR
+AH-94_mfd_quicksave:T5_tooltip,Tooltip for an MFD button.,Back,Retour
+AH-94_mfd_mpPlayers:B1,Label for an MFD button (short!).,BACK,RETOUR
+AH-94_mfd_mpPlayers:B1_tooltip,Tooltip for an MFD button.,Back,Retour
+AH-94_mfd_mpPlayers:T5,Label for an MFD button (short!).,MANAGE,Gérer
+AH-94_mfd_mpPlayers:T5_tooltip,Tooltip for an MFD button.,Manage Players,Gérer Joueurs
+AH-94_mfd_mpPlayers:R4_tooltip,Tooltip for an MFD button.,Scroll Up,Défiler vers le haut
+AH-94_mfd_mpPlayers:R5_tooltip,Tooltip for an MFD button.,Scroll Down,Défiler vers le bas
+AH-94_mfd_netAnalytics:B1,Label for an MFD button (short!).,BACK,RETOUR
+AH-94_mfd_netAnalytics:B1_tooltip,Tooltip for an MFD button.,Back,Retour
 AH-94_mfd_hardpoints:T4_tooltip,Tooltip for an MFD button.,HP Gun,
 AH-94_mfd_hardpoints:L2_tooltip,Tooltip for an MFD button.,HP 1,
 AH-94_mfd_hardpoints:L1_tooltip,Tooltip for an MFD button.,HP 2,
@@ -716,26 +716,26 @@ AH-94_mfd_hardpoints:R2_tooltip,Tooltip for an MFD button.,HP 4,
 AH-94_mfd_hardpoints:L3_tooltip,Tooltip for an MFD button.,HP 5,
 AH-94_mfd_hardpoints:R3_tooltip,Tooltip for an MFD button.,HP 6,
 AH-94_mfd_hardpoints:B2,Label for an MFD button (short!).,MODE,
-AH-94_mfd_hardpoints:B2_tooltip,Tooltip for an MFD button.,Toggle Mode,
-AH-94_mfd_hardpointInfoPage:R1,Label for an MFD button (short!).,BACK,
-AH-94_mfd_hardpointInfoPage:R1_tooltip,Tooltip for an MFD button.,Return to Equip,
-AH-94_mfd_hardpointInfoPage:B2_tooltip,Tooltip for an MFD button.,Toggle Arming,
-AH-94_mfd_hardpointInfoPage:B4_tooltip,Tooltip for an MFD button.,Toggle Jettison,
-AH-94_mfd_cmsPage:L4_tooltip,Tooltip for an MFD button.,Release Mode,
+AH-94_mfd_hardpoints:B2_tooltip,Tooltip for an MFD button.,Toggle Mode,Basculer le mode
+AH-94_mfd_hardpointInfoPage:R1,Label for an MFD button (short!).,BACK,RETOUR
+AH-94_mfd_hardpointInfoPage:R1_tooltip,Tooltip for an MFD button.,Return to Equip,Retour à équiper
+AH-94_mfd_hardpointInfoPage:B2_tooltip,Tooltip for an MFD button.,Toggle Arming,Basculer l'armement
+AH-94_mfd_hardpointInfoPage:B4_tooltip,Tooltip for an MFD button.,Toggle Jettison,Basculer le largage
+AH-94_mfd_cmsPage:L4_tooltip,Tooltip for an MFD button.,Release Mode,Mode de libération
 AH-94_mfd_cmsPage:B2,Label for an MFD button (short!).,-,
-AH-94_mfd_cmsPage:B2_tooltip,Tooltip for an MFD button.,- Release Rate,
+AH-94_mfd_cmsPage:B2_tooltip,Tooltip for an MFD button.,- Release Rate,- Taux de libération
 AH-94_mfd_cmsPage:B4,Label for an MFD button (short!).,+,
-AH-94_mfd_cmsPage:B4_tooltip,Tooltip for an MFD button.,+ Release Rate,
-AH-94_mfd_target:B3,Label for an MFD button (short!).,HEAD,
+AH-94_mfd_cmsPage:B4_tooltip,Tooltip for an MFD button.,+ Release Rate,+ Taux de libération
+AH-94_mfd_target:B3,Label for an MFD button (short!).,HEAD,DIRIGER
 AH-94_mfd_target:B3_tooltip,Tooltip for an MFD button.,Head-track Mode,
 AH-94_mfd_target:B2,Label for an MFD button (short!).,FWD,
-AH-94_mfd_target:B2_tooltip,Tooltip for an MFD button.,Forward Mode,
+AH-94_mfd_target:B2_tooltip,Tooltip for an MFD button.,Forward Mode,Mode avant
 AH-94_mfd_target:L1,Label for an MFD button (short!).,PWR,
-AH-94_mfd_target:L1_tooltip,Tooltip for an MFD button.,Toggle TGP Power,
+AH-94_mfd_target:L1_tooltip,Tooltip for an MFD button.,Toggle TGP Power,Basculer l'alimentation TGP
 AH-94_mfd_target:R1,Label for an MFD button (short!).,ZOOM+,
-AH-94_mfd_target:R1_tooltip,Tooltip for an MFD button.,Zoom In,
+AH-94_mfd_target:R1_tooltip,Tooltip for an MFD button.,Zoom In,Agrandir
 AH-94_mfd_target:R2,Label for an MFD button (short!).,ZOOM-,
-AH-94_mfd_target:R2_tooltip,Tooltip for an MFD button.,Zoom Out,
+AH-94_mfd_target:R2_tooltip,Tooltip for an MFD button.,Zoom Out,Dézoomer
 AH-94_mfd_target:R3,Label for an MFD button (short!).,GPS-S,
 AH-94_mfd_target:R3_tooltip,Tooltip for an MFD button.,GPS Send,
 AH-94_mfd_target:R4,Label for an MFD button (short!).,GPS-A,
@@ -1201,7 +1201,7 @@ F/A-26B_mfd_map:B2,Label for an MFD button (short!).,ALT+,ALT+
 F/A-26B_mfd_map:B2_tooltip,Tooltip for an MFD button.,Raise Target Alt,Augmenter la cible Alt
 F/A-26B_mfd_map:B3,Label for an MFD button (short!).,GPS-S,GPS-S
 F/A-26B_mfd_map:B3_tooltip,Tooltip for an MFD button.,Send GPS Target,Envoyer une cible GPS
-F/A-26B_mfd_options:L2_tooltip,Tooltip for an MFD button.,Unit Options,Options d'unite
+F/A-26B_mfd_options:L2_tooltip,Tooltip for an MFD button.,Unit Options,Options d'unité
 F/A-26B_mfd_options:R2_tooltip,Tooltip for an MFD button.,Toggle Joystick Mode,Basculer en mode manette
 F/A-26B_mfd_options:L3_tooltip,Tooltip for an MFD button.,Fuel Settings,Parametres de carburant
 F/A-26B_mfd_options:L4_tooltip,Tooltip for an MFD button.,Altitude Warning Settings,Parametres d'avertissement d'altitude
@@ -1328,9 +1328,9 @@ eqSublabel_OPTICAL-BOMB-FAF,HUD sub-label of an equip,OPTICAL BOMB FAF,BOMBE OPT
 tutName_Basic Flight,Name of a legacy tutorial objective,Basic Flight,Vol de base
 tutDesc_Basic Flight,Description of a legacy tutorial,Complete the tutorial.,Finissez le tutoriel.
 tut:Basic Flight:Intro10,A tutorial label,Welcome to the Basic Flight tutorial.,Bienvenue dans le didacticiel Basic Flight.
-tut:Basic Flight:Intro21,A tutorial label,We'll skip the start-up procedure now.,Nous allons sauter la procedure de demarrage maintenant.
+tut:Basic Flight:Intro21,A tutorial label,We'll skip the start-up procedure now.,Nous allons sauter la procédure de démarrage maintenant.
 tut:Basic Flight:Intro32,A tutorial label,"The main flight controls are the joystick and throttle.  You can grip them by holding the grip buttons, or toggle lock your hands to them by tapping the grip buttons."," or toggle lock your hands to them by tapping the grip buttons."
-tut:Basic Flight:StartTaxi3,A tutorial label,Let's start with taxiing.,Commen�ons par le roulage.
+tut:Basic Flight:StartTaxi3,A tutorial label,Let's start with taxiing.,Commençons par le roulage.
 tut:Basic Flight:GrabStick4,A tutorial label,Grab Joystick,Saisir le joystick
 tut:Basic Flight:GrabThrottle5,A tutorial label,Grab Throttle,Saisir l'accelerateur
 tut:Basic Flight:SteerInfo6,A tutorial label,"To steer the front wheel, you will have to twist the joystick on the vertical axis."," you will have to twist the joystick on the vertical axis."
@@ -1348,7 +1348,7 @@ tut:Basic Flight:Set flaps.17,A tutorial label,Set flaps to setting 1.,Reglez le
 tut:Basic Flight:SetAssists18,A tutorial label,Make sure all flight assists are enabled,Assurez-vous que toutes les aides au vol sont activees
 tut:Basic Flight:EnsureTilt19,A tutorial label,Check that the engines are tilted all the way forward.,Verifiez que les moteurs sont inclines completement vers l'avant.
 tut:Basic Flight:GrabThrottle220,A tutorial label,Now grab the throttle and hold the brakes...,Maintenant
-tut:Basic Flight:Unlock Brakes21,A tutorial label,...so you can disable brake lock.,... vous pouvez donc desactiver le blocage des freins.
+tut:Basic Flight:Unlock Brakes21,A tutorial label,...so you can disable brake lock.,... vous pouvez donc désactiver le blocage des freins.
 tut:Basic Flight:TurnOntoRunway22,A tutorial label,Now turn left onto runway 20,Tournez maintenant a gauche sur la piste 20
 tut:Basic Flight:BeforeTakeoff23,A tutorial label,"Now.. to take off, raise the throttle to full and steer to keep aligned with the runway."," raise the throttle to full and steer to keep aligned with the runway."
 tut:Basic Flight:WaitSpeed24,A tutorial label,Speed up to [80]! Straight down the runway!,Accelerez jusqu'a [80]�!�Tout droit sur la piste !
@@ -1401,18 +1401,18 @@ BSM-66_description,Item description of: BSM-66,Standard semi-active radar-guided
 AIM-120D Advanced Radar Missile_fullName,Full equip name of: AIM-120D Advanced Radar Missile,AIM-120D Advanced Radar Missile,
 AIM-120D Advanced Radar Missile_description,Item description of: AIM-120D Advanced Radar Missile,"Radar guided medium range air to air missile.
 ",
-AV-42C_description,Short description of playable vehicle AV-42C,"""Kestrel"" Multi-role VTOL aircraft. Tilting jet nozzles give it the ability to take off and land vertically or horizontally. Large cargo bay and multiple weapon mounts allow for both transport and attack missions.","Avion multir�le VTOL ""Kestrel"".�Les buses a jet inclinable lui permettent de decoller et d'atterrir verticalement ou horizontalement.�La grande soute et les multiples supports d'armes permettent a la fois des missions de transport et d'attaque."
-F/A-26B_description,Short description of playable vehicle F/A-26B,"""Wasp"" Carrier based air-superiority fighter that can also be configured for ground attack roles.","Chasseur de superiorite aerienne base sur un porte-avions ""Wasp"" pouvant egalement etre configure pour des r�les d'attaque au sol."
-F-45A_description,Short description of playable vehicle F-45A,"""Ghost"" Stealthy, single-engine, VTOL/STOVL capable aircraft with four internal bays. Optional external hardpoints can be used to increase carrying capacity when stealth is not needed.","""Ghost"" Stealthy, monomoteur, capable VTOL/STOVL avion avec quatre baies internes.�Des points d'ancrage externes en option peuvent etre utilises pour augmenter la capacite de charge lorsque la furtivite n'est pas necessaire."
-AH-94_description,Short description of playable vehicle AH-94,"The AH-94 ""Dragonfly"" is a twin-turboshaft attack helicopter with a tandem cockpit for two pilots.",
+AV-42C_description,Short description of playable vehicle AV-42C,"""Kestrel"" Multi-role VTOL aircraft. Tilting jet nozzles give it the ability to take off and land vertically or horizontally. Large cargo bay and multiple weapon mounts allow for both transport and attack missions.","Avion multirôle VTOL ""Kestrel"". Les buses à jet inclinable lui permettent de décoller et d'atterrir verticalement ou horizontalement. La grande soute et les multiples supports d'armes permettent à la fois des missions de transport et d'attaque."
+F/A-26B_description,Short description of playable vehicle F/A-26B,"""Wasp"" Carrier based air-superiority fighter that can also be configured for ground attack roles.","Chasseur de supériorité aérienne basé sur un porte-avions ""Wasp"" pouvant également être configuré pour des rôles d'attaque au sol."
+F-45A_description,Short description of playable vehicle F-45A,"""Ghost"" Stealthy, single-engine, VTOL/STOVL capable aircraft with four internal bays. Optional external hardpoints can be used to increase carrying capacity when stealth is not needed.","Fantôme """" furtif"
+AH-94_description,Short description of playable vehicle AH-94,"The AH-94 ""Dragonfly"" is a twin-turboshaft attack helicopter with a tandem cockpit for two pilots.","L'AH-94 ""Dragonfly"" est un hélicoptère à double turbomoteur avec un cockpit en tandem pour deux pilotes"
 campaign_av42cTheIsland_name,Name of a campaign.,The Island,L'Ile
-campaign_av42cTheIsland_description,Description of a campaign.,The Island campaign.,La campagne de l'�le.
-av42cTheIsland:01_preparations_name,Name of a mission.,Preparations,Les preparatifs
-av42cTheIsland:01_preparations_description,Description of a mission.,Help make preparations to defend the island. Transport personnel to coastal SAM site.,Aidez a faire des preparatifs pour defendre l'�le.�Transporter le personnel vers le site SAM c�tier.
+campaign_av42cTheIsland_description,Description of a campaign.,The Island campaign.,La campagne de l'ile.
+av42cTheIsland:01_preparations_name,Name of a mission.,Preparations,Les préparatifs
+av42cTheIsland:01_preparations_description,Description of a mission.,Help make preparations to defend the island. Transport personnel to coastal SAM site.,Aidez à faire des préparatifs pour défendre l'ile. Transporter le personnel vers le site SAM côtier.
 AV-42C:av42cTheIsland:01_preparations:obj_0:name,A mission objective name,Pick Up,Recuperer
-AV-42C:av42cTheIsland:01_preparations:obj_0:info,Mission objective info.,Let the soldiers into your passenger bay.,Laissez les soldats entrer dans votre compartiment passagers.
-AV-42C:av42cTheIsland:01_preparations:obj_1:name,A mission objective name,Drop Off,Deposer
-AV-42C:av42cTheIsland:01_preparations:obj_1:info,Mission objective info.,Drop the soldiers off at the east bay SAM site.,Deposez les soldats sur le site SAM de la baie est.
+AV-42C:av42cTheIsland:01_preparations:obj_0:info,Mission objective info.,Let the soldiers into your passenger bay.,Laissez les soldats entrer dans votre compartiment passager.
+AV-42C:av42cTheIsland:01_preparations:obj_1:name,A mission objective name,Drop Off,Déposer
+AV-42C:av42cTheIsland:01_preparations:obj_1:info,Mission objective info.,Drop the soldiers off at the east bay SAM site.,Déposer les soldats sur le site SAM de la baie est.
 AV-42C:av42cTheIsland:01_preparations:obj_2:name,A mission objective name,Join Fighters,Rejoignez les combattants
 AV-42C:av42cTheIsland:01_preparations:obj_2:info,Mission objective info.,Join up with the fighter escort wing.,Rejoignez l'escadre d'escorte de chasse.
 AV-42C:av42cTheIsland:01_preparations:obj_4:name,A mission objective name,Investigate,Enqueter
@@ -1768,7 +1768,7 @@ F/A-26B:fa26-opDesertCobra:mission8:obj_1:info,Mission objective info.,Follow th
 F/A-26B:fa26-opDesertCobra:mission8:obj_2:name,A mission objective name,Strike Supplies,Fournitures de greve
 F/A-26B:fa26-opDesertCobra:mission8:obj_2:info,Mission objective info.,Destroy all supply depots in the base.,Detruisez tous les dep�ts de ravitaillement dans la base.
 F/A-26B:fa26-opDesertCobra:mission8:obj_4:name,A mission objective name,Clear Defenses,Effacer les defenses
-F/A-26B:fa26-opDesertCobra:mission8:obj_4:info,Mission objective info.,Disable any remaining air defenses around the base.,Desactivez toutes les defenses aeriennes restantes autour de la base.
+F/A-26B:fa26-opDesertCobra:mission8:obj_4:info,Mission objective info.,Disable any remaining air defenses around the base.,Désactivé toutes les défenses aériennes restantes autour de la base.
 F/A-26B:fa26-opDesertCobra:mission8:obj_5:name,A mission objective name,Protect Transport,Proteger les transports
 F/A-26B:fa26-opDesertCobra:mission8:obj_5:info,Mission objective info.,Protect the transport and the team of soldiers it carries.,Protegez le transport et l'equipe de soldats qu'il transporte.
 F/A-26B:fa26-opDesertCobra:mission8:obj_6:name,A mission objective name,Take Off,Decollage
@@ -2038,7 +2038,7 @@ Threats:
 campaign_arcadeTutorial_name,Name of a campaign.,Tutorials,Tutoriels
 campaign_arcadeTutorial_description,Description of a campaign.,Basic tutorials for the AV-42C,Tutoriels de base pour l'AV-42C
 arcadeTutorial:tut_gettingStarted_name,Name of a mission.,Getting Started,Commencer
-arcadeTutorial:tut_gettingStarted_description,Description of a mission.,"Cockpit familiarization, start-up procedures."," start-up procedures."
+arcadeTutorial:tut_gettingStarted_description,Description of a mission.,"Cockpit familiarization, start-up procedures."," procédures de démarrage."
 arcadeTutorial:tut_weapons1_name,Name of a mission.,Basic Weapons,Armes de base
 arcadeTutorial:tut_weapons1_description,Description of a mission.,"Learn how to use the cannon, rockets, and targeting system."," rockets"
 arcadeTutorial:verticalFlight1_name,Name of a mission.,AP Vertical Flight,Vol vertical AP
@@ -2050,43 +2050,43 @@ arcadeTutorial_tut_gettingStarted_b0,Text from a mission briefing.,"Today we wil
 The start-up procedure is not very complicated, so let's jump in and get started.",Aujourd'hui
 arcadeTutorial_tut_weapons1_b0,Text from a mission briefing.,"The AV-42C is capable of equipping various weapons.  Today you will learn how to use the 30mm GAU-8 cannon, and the Hydra-70 unguided rockets.  You will also learn how to find and acquire targets using the TGP."," and the Hydra-70 unguided rockets.  You will also learn how to find and acquire targets using the TGP."
 arcadeTutorial_verticalFlight1_b0,Text from a mission briefing.,"Vertical flight can be tricky, but by using the hover autopilot, you can take off, hover, and land with ease."," but by using the hover autopilot"
-campaign_ah94-quickFlight_name,Name of a campaign.,AH-94 Quick Flight,
-campaign_ah94-quickFlight_description,Description of a campaign.,Quick flights and missions for the AH-94 Attack Helicopter.,
+campaign_ah94-quickFlight_name,Name of a campaign.,AH-94 Quick Flight,AH-94 Vol rapide
+campaign_ah94-quickFlight_description,Description of a campaign.,Quick flights and missions for the AH-94 Attack Helicopter.,Vols et missions rapides pour l'hélicoptère d'attaque AH-94
 ah94-quickFlight:arcticAssault_name,Name of a mission.,Arctic Assault,
 ah94-quickFlight:arcticAssault_description,Description of a mission.,Scout targets for artillery and destroy anything that remains.,
-AH-94:ah94-quickFlight:arcticAssault:obj_0:name,A mission objective name,Artillery Targets,
-AH-94:ah94-quickFlight:arcticAssault:obj_0:info,Mission objective info.,Destroy any remaining targets at the waypoint.,
-AH-94:ah94-quickFlight:arcticAssault:obj_1:name,A mission objective name,Armored Targets,
-AH-94:ah94-quickFlight:arcticAssault:obj_1:info,Mission objective info.,Destroy the armored group moving towards our troops.,
-AH-94:ah94-quickFlight:arcticAssault:obj_2:name,A mission objective name,Find Targets,
-AH-94:ah94-quickFlight:arcticAssault:obj_2:info,Mission objective info.,Pinpoint the location of targets at the waypoint.,
-AH-94:ah94-quickFlight:arcticAssault:obj_3:name,A mission objective name,Destroy Targets,
-AH-94:ah94-quickFlight:arcticAssault:obj_3:info,Mission objective info.,Destroy the targets you found. Artillery will assist.,
-AH-94:ah94-quickFlight:arcticAssault:obj_4:name,A mission objective name,Destroy MAD-4,
-AH-94:ah94-quickFlight:arcticAssault:obj_4:info,Mission objective info.,Destroy enemy air defenses to allow bombers to pass.,
+AH-94:ah94-quickFlight:arcticAssault:obj_0:name,A mission objective name,Artillery Targets,Cibles d'artillerie
+AH-94:ah94-quickFlight:arcticAssault:obj_0:info,Mission objective info.,Destroy any remaining targets at the waypoint.,Détruisez toutes les cibles restantes au point de cheminement.
+AH-94:ah94-quickFlight:arcticAssault:obj_1:name,A mission objective name,Armored Targets,Cibles blindées
+AH-94:ah94-quickFlight:arcticAssault:obj_1:info,Mission objective info.,Destroy the armored group moving towards our troops.,Détruire le groupe blindé se dirigeant vers nos troupes
+AH-94:ah94-quickFlight:arcticAssault:obj_2:name,A mission objective name,Find Targets,Trouver des cibles
+AH-94:ah94-quickFlight:arcticAssault:obj_2:info,Mission objective info.,Pinpoint the location of targets at the waypoint.,Identifiez l'emplacement des cibles au point de cheminement.
+AH-94:ah94-quickFlight:arcticAssault:obj_3:name,A mission objective name,Destroy Targets,Détruire les cibles
+AH-94:ah94-quickFlight:arcticAssault:obj_3:info,Mission objective info.,Destroy the targets you found. Artillery will assist.,Détruisez les cibles que vous avez trouvées. L'artillerie apportera son aide.
+AH-94:ah94-quickFlight:arcticAssault:obj_4:name,A mission objective name,Destroy MAD-4,Détruire MAD-4
+AH-94:ah94-quickFlight:arcticAssault:obj_4:info,Mission objective info.,Destroy enemy air defenses to allow bombers to pass.,Détruisez la défense aérienne ennemie pour permettre aux bombardiers de passer.
 AH-94:ah94-quickFlight:arcticAssault:obj_5:name,A mission objective name,RTB,
-AH-94:ah94-quickFlight:arcticAssault:obj_5:info,Mission objective info.,Return to the FARP.,
+AH-94:ah94-quickFlight:arcticAssault:obj_5:info,Mission objective info.,Return to the FARP.,Retour au FARP
 ah94-quickFlight:flightPractice_name,Name of a mission.,Flight Practice,
 ah94-quickFlight:flightPractice_description,Description of a mission.,"Practice take off, flight, and landing in various locations.",
-AH-94:ah94-quickFlight:flightPractice:obj_0:name,A mission objective name,Take Off,
-AH-94:ah94-quickFlight:flightPractice:obj_0:info,Mission objective info.,Take off to 50ft.,
-AH-94:ah94-quickFlight:flightPractice:obj_1:name,A mission objective name,Land Pad 1,
-AH-94:ah94-quickFlight:flightPractice:obj_1:info,Mission objective info.,Land on the same pad you took off from.,
-AH-94:ah94-quickFlight:flightPractice:obj_2:name,A mission objective name,Short Hop,
-AH-94:ah94-quickFlight:flightPractice:obj_2:info,Mission objective info.,Land on Pad 2,
-AH-94:ah94-quickFlight:flightPractice:obj_3:name,A mission objective name,Medium Hop,
-AH-94:ah94-quickFlight:flightPractice:obj_3:info,Mission objective info.,Slight turn to Pad 3,
-AH-94:ah94-quickFlight:flightPractice:obj_4:name,A mission objective name,Long Hop,
-AH-94:ah94-quickFlight:flightPractice:obj_4:info,Mission objective info.,Long hop to pad 4.  Small pad!,
-AH-94:ah94-quickFlight:flightPractice:obj_5:name,A mission objective name,Tight Spot,
-AH-94:ah94-quickFlight:flightPractice:obj_5:info,Mission objective info.,Land on the pad between the buildings.,
-AH-94:ah94-quickFlight:flightPractice:obj_6:name,A mission objective name,Rooftop 1,
-AH-94:ah94-quickFlight:flightPractice:obj_6:info,Mission objective info.,Land on the rooftop.,
-AH-94:ah94-quickFlight:flightPractice:obj_7:name,A mission objective name,Rooftop 2,
-AH-94:ah94-quickFlight:flightPractice:obj_7:info,Mission objective info.,Land on the rooftop 2.,
+AH-94:ah94-quickFlight:flightPractice:obj_0:name,A mission objective name,Take Off,Décoller
+AH-94:ah94-quickFlight:flightPractice:obj_0:info,Mission objective info.,Take off to 50ft.,Décoller à 500 pieds.
+AH-94:ah94-quickFlight:flightPractice:obj_1:name,A mission objective name,Land Pad 1,Plate-forme terrestre 1
+AH-94:ah94-quickFlight:flightPractice:obj_1:info,Mission objective info.,Land on the same pad you took off from.,Atterrissez sur le même pad d'où vous avez décollé.
+AH-94:ah94-quickFlight:flightPractice:obj_2:name,A mission objective name,Short Hop,Saut court
+AH-94:ah94-quickFlight:flightPractice:obj_2:info,Mission objective info.,Land on Pad 2,Plate-forme terrestre 2
+AH-94:ah94-quickFlight:flightPractice:obj_3:name,A mission objective name,Medium Hop,Saut moyen
+AH-94:ah94-quickFlight:flightPractice:obj_3:info,Mission objective info.,Slight turn to Pad 3,Léger virage vers le Pad 3
+AH-94:ah94-quickFlight:flightPractice:obj_4:name,A mission objective name,Long Hop,Saut long
+AH-94:ah94-quickFlight:flightPractice:obj_4:info,Mission objective info.,Long hop to pad 4.  Small pad!,Long saut vers le pad 4. Petit Pad !
+AH-94:ah94-quickFlight:flightPractice:obj_5:name,A mission objective name,Tight Spot,Point serré
+AH-94:ah94-quickFlight:flightPractice:obj_5:info,Mission objective info.,Land on the pad between the buildings.,Atterrir sur le pad entre les bâtiments.
+AH-94:ah94-quickFlight:flightPractice:obj_6:name,A mission objective name,Rooftop 1,Toit 1
+AH-94:ah94-quickFlight:flightPractice:obj_6:info,Mission objective info.,Land on the rooftop.,Atterrir sur le toit.
+AH-94:ah94-quickFlight:flightPractice:obj_7:name,A mission objective name,Rooftop 2,Toit 2
+AH-94:ah94-quickFlight:flightPractice:obj_7:info,Mission objective info.,Land on the rooftop 2.,Atterrir sur le toit 2.
 AH-94:ah94-quickFlight:flightPractice:obj_8:name,A mission objective name,Dock Pad,
 AH-94:ah94-quickFlight:flightPractice:obj_8:info,Mission objective info.,,
-AH-94:ah94-quickFlight:flightPractice:obj_9:name,A mission objective name,Cross Country,
+AH-94:ah94-quickFlight:flightPractice:obj_9:name,A mission objective name,Cross Country,Cross-country
 AH-94:ah94-quickFlight:flightPractice:obj_9:info,Mission objective info.,Land on the rooftop in the next city.,
 AH-94:ah94-quickFlight:flightPractice:obj_10:name,A mission objective name,Cruiser,
 AH-94:ah94-quickFlight:flightPractice:obj_10:info,Mission objective info.,Land on the cruiser deck.,
@@ -2189,7 +2189,9 @@ ah94-quickFlight_Target Practice_b0,Text from a mission briefing.,"Practice usin
 
 Targets will not shoot back so take your time to learn the equipment.
 
-Check the objectives data to find targets.",
+Check the objectives data to find targets.","Entraînez-vous à utiliser les armes de l'AH-94 sur différentes cibles.
+Les cibles ne riposteront pas, alors prenez votre temps pour apprendre l'équipement.
+Vérifiez les données des objectifs pour trouver des cibles."
 campaign_av42c_tutorials_name,Name of a campaign.,AV-42C Tutorials,AV-42C Tutoriels
 campaign_av42c_tutorials_description,Description of a campaign.,Tutorials for the AV-42C,Tutoriels pour l'AV-42C
 av42c_tutorials:tut_av42c_agm_name,Name of a mission.,Air-to-Ground Missiles,Missiles air-sol
@@ -2203,7 +2205,7 @@ AV-42C:av42c_tutorials:tut_av42c_agm:obj_2:info,Mission objective info.,,
 av42c_tutorials:tut_basicFlight_name,Name of a mission.,Basic Flight,Vol de base
 av42c_tutorials:tut_basicFlight_description,Description of a mission.,"Taxi, take off, landing."," take off"
 av42c_tutorials:tut_gettingStarted_name,Name of a mission.,Getting Started,Commencer
-av42c_tutorials:tut_gettingStarted_description,Description of a mission.,"Cockpit familiarization, start-up procedures."," start-up procedures."
+av42c_tutorials:tut_gettingStarted_description,Description of a mission.,"Cockpit familiarization, start-up procedures."," procédures de démarrage."
 av42c_tutorials:tut_weapons1_name,Name of a mission.,Basic Weapons,Armes de base
 av42c_tutorials:tut_weapons1_description,Description of a mission.,"Learn how to use the cannon, rockets, and targeting system."," rockets"
 av42c_tutorials:verticalFlight1_name,Name of a mission.,AP Vertical Flight,Vol vertical AP
@@ -2238,19 +2240,19 @@ Suppression of Enemy Air Defense (SEAD) operations neutralize or destroy these t
 fa26b_tutorials_tut_26_sead_b1,Text from a mission briefing.,"One method of performing SEAD involves destroying the radar used by the SAMs.
 
 You will learn how to use the Anti-Radar Attack Display (ARAD) in conjunction with the AGM-88 weapon to locate, target, and destroy enemy radars.",Une methode d'execution SEAD consiste a detruire le radar utilise par les SAM.
-campaign_ah94-tutorials_name,Name of a campaign.,AH-94 Tutorials,
+campaign_ah94-tutorials_name,Name of a campaign.,AH-94 Tutorials,Didacticiel AH-94
 campaign_ah94-tutorials_description,Description of a campaign.,Enter description...,
 ah94-tutorials:ah94tut_intro_name,Name of a mission.,Introduction,
 ah94-tutorials:ah94tut_intro_description,Description of a mission.,"Introduction to the vehicle, and a general overview of the cockpit.",
-AH-94:ah94-tutorials:ah94tut_intro:obj_0:name,A mission objective name,Introduction,
-AH-94:ah94-tutorials:ah94tut_intro:obj_0:info,Mission objective info.,Complete the tutorial.,
+AH-94:ah94-tutorials:ah94tut_intro:obj_0:name,A mission objective name,Introduction,Introduction
+AH-94:ah94-tutorials:ah94tut_intro:obj_0:info,Mission objective info.,Complete the tutorial.,Complète le didacticiel.
 ah94-tutorials:ah94tut_startup_name,Name of a mission.,Start Up/Shut Down,
-ah94-tutorials:ah94tut_startup_description,Description of a mission.,How to start up and shut down the AH-94.,
-AH-94:ah94-tutorials:ah94tut_startup:obj_0:name,A mission objective name,Tutorial,
-AH-94:ah94-tutorials:ah94tut_startup:obj_0:info,Mission objective info.,Complete the tutorial.,
+ah94-tutorials:ah94tut_startup_description,Description of a mission.,How to start up and shut down the AH-94.,Comment démarrer et éteindre l'AH-94
+AH-94:ah94-tutorials:ah94tut_startup:obj_0:name,A mission objective name,Tutorial,Didacticiel
+AH-94:ah94-tutorials:ah94tut_startup:obj_0:info,Mission objective info.,Complete the tutorial.,Complète le tutoriel.
 ah94-tutorials:ah94tut_wpnTads_name,Name of a mission.,TADS and Gun,
 ah94-tutorials:ah94tut_wpnTads_description,Description of a mission.,Control the TADS with the TEDAC and use it to slave the gun.,
-ah94-tutorials_ah94tut_intro_b0,Text from a mission briefing.,Learn about the AH-94 and take a quick look at each of the components in the cockpit.,
+ah94-tutorials_ah94tut_intro_b0,Text from a mission briefing.,Learn about the AH-94 and take a quick look at each of the components in the cockpit.,Découvrez l'AH-94 et jetez un coup d'œil à chacun des composants du cockpit.
 ah94-tutorials_ah94tut_startup_b0,Text from a mission briefing.,"Learn the steps to properly start up the engines, spin up the rotor, and safely turn everything off.",
 ah94-tutorials_ah94tut_wpnTads_b0,Text from a mission briefing.,"Learn about the TADS, controlling it with the TEDAC, and steering the gun turret.",
 campaign_quickMPFlights_name,Name of a campaign.,Coop/Freeflight,
@@ -2380,7 +2382,7 @@ Work together with your team to attack and defend.",
 mp_PVPScenarios_mp_pvpStrikeLowTech_b1,Text from a mission briefing.,"Team A is based in the north-western region, while Team B is in the south-eastern region.
 
 Each team has 3 outposts which are the primary targets to attack/defend.",
-campaign_ah94-mpMissions_name,Name of a campaign.,AH-94 Multicrew,
+campaign_ah94-mpMissions_name,Name of a campaign.,AH-94 Multicrew,AH-94 Multi-équipage
 campaign_ah94-mpMissions_description,Description of a campaign.,Larger scale missions designed for multicrew and multiple helicopters.,
 ah94-mpMissions:ah94_mp1_name,Name of a mission.,Urban Liberation,
 ah94-mpMissions:ah94_mp1_description,Description of a mission.,Spearhead the effort to liberate a city under enemy occupation.,
@@ -2442,26 +2444,26 @@ Move towards the harbor, delaying detection as long as possible.  The moment the
 ah94-mpMissions_ah94_mp2_coast_b3,Text from a mission briefing.,"The primary objective is to assassinate the leaders, who will be riding in 3 armored personnel carriers (APCs).",
 ah94-mpMissions_ah94_mp2_coast_b4,Text from a mission briefing.,"We are also aware that mobile artillery units, both land and sea, are ready to deploy when provoked, so we must find them and destroy them before they can fire on our ships.",
 ah94-mpMissions_ah94_mp2_coast_b5,Text from a mission briefing.,"Find and assassinate the leaders, destroy the artillery boats and trucks, then return to the carrier.",
-campaign_ah94-quickFlight_mp_name,Name of a campaign.,AH-94 Quick Flight,
-campaign_ah94-quickFlight_mp_description,Description of a campaign.,Quick flights and missions for the AH-94 Attack Helicopter.,
-ah94-quickFlight_mp:ah94_4v4pvp_name,Name of a mission.,AH-94 Deathmatch 4v4,
-ah94-quickFlight_mp:ah94_4v4pvp_description,Description of a mission.,Four AH-94s (8 pilots total) per team.,
-AH-94:ah94-quickFlight_mp:ah94_4v4pvp:obj_0:name,A mission objective name,24 Deaths Loses,
-AH-94:ah94-quickFlight_mp:ah94_4v4pvp:obj_0:info,Mission objective info.,First team to 24 deaths loses.,
-ah94-quickFlight_mp:ah94_mpFreeFlight_name,Name of a mission.,AH-94 Free Flight,
+campaign_ah94-quickFlight_mp_name,Name of a campaign.,AH-94 Quick Flight,"AH-94 Vol rapide "
+campaign_ah94-quickFlight_mp_description,Description of a campaign.,Quick flights and missions for the AH-94 Attack Helicopter.,Vol rapide et missions pour l'hélicoptère d'attaque AH-94.
+ah94-quickFlight_mp:ah94_4v4pvp_name,Name of a mission.,AH-94 Deathmatch 4v4,AH-94 Match à mort  4vs4
+ah94-quickFlight_mp:ah94_4v4pvp_description,Description of a mission.,Four AH-94s (8 pilots total) per team.,"Quatre AH-94 par équipe  (8 pilotes au total) "
+AH-94:ah94-quickFlight_mp:ah94_4v4pvp:obj_0:name,A mission objective name,24 Deaths Loses,24 morts perd
+AH-94:ah94-quickFlight_mp:ah94_4v4pvp:obj_0:info,Mission objective info.,First team to 24 deaths loses.,La première équipe à 24 morts perd.
+ah94-quickFlight_mp:ah94_mpFreeFlight_name,Name of a mission.,AH-94 Free Flight,Vol libre AH-94
 ah94-quickFlight_mp:ah94_mpFreeFlight_description,Description of a mission.,"16 pilots, 8 choppers, 0 objectives.",
 ah94-quickFlight_mp:arcticAssault_name,Name of a mission.,Arctic Assault,
 ah94-quickFlight_mp:arcticAssault_description,Description of a mission.,Scout targets for artillery and destroy anything that remains.,
-AH-94:ah94-quickFlight_mp:arcticAssault:obj_0:name,A mission objective name,Artillery Targets,
-AH-94:ah94-quickFlight_mp:arcticAssault:obj_0:info,Mission objective info.,Destroy any remaining targets at the waypoint.,
-AH-94:ah94-quickFlight_mp:arcticAssault:obj_1:name,A mission objective name,Armored Targets,
-AH-94:ah94-quickFlight_mp:arcticAssault:obj_1:info,Mission objective info.,Destroy the armored group moving towards our troops.,
-AH-94:ah94-quickFlight_mp:arcticAssault:obj_2:name,A mission objective name,Find Targets,
-AH-94:ah94-quickFlight_mp:arcticAssault:obj_2:info,Mission objective info.,Pinpoint the location of targets at the waypoint.,
-AH-94:ah94-quickFlight_mp:arcticAssault:obj_3:name,A mission objective name,Destroy Targets,
-AH-94:ah94-quickFlight_mp:arcticAssault:obj_3:info,Mission objective info.,Destroy the targets you found. Artillery will assist.,
-AH-94:ah94-quickFlight_mp:arcticAssault:obj_4:name,A mission objective name,Destroy MAD-4,
-AH-94:ah94-quickFlight_mp:arcticAssault:obj_4:info,Mission objective info.,Destroy enemy air defenses to allow bombers to pass.,
+AH-94:ah94-quickFlight_mp:arcticAssault:obj_0:name,A mission objective name,Artillery Targets,Cibles d'artillerie
+AH-94:ah94-quickFlight_mp:arcticAssault:obj_0:info,Mission objective info.,Destroy any remaining targets at the waypoint.,Détruisez toutes les cibles restantes au point de cheminement.
+AH-94:ah94-quickFlight_mp:arcticAssault:obj_1:name,A mission objective name,Armored Targets,Cibles blindées
+AH-94:ah94-quickFlight_mp:arcticAssault:obj_1:info,Mission objective info.,Destroy the armored group moving towards our troops.,Détruisez le groupe blindé qui se dirige vers nos troupes.
+AH-94:ah94-quickFlight_mp:arcticAssault:obj_2:name,A mission objective name,Find Targets,Trouver des cibles
+AH-94:ah94-quickFlight_mp:arcticAssault:obj_2:info,Mission objective info.,Pinpoint the location of targets at the waypoint.,Identifiez l'emplacement des cibles au point de cheminement.
+AH-94:ah94-quickFlight_mp:arcticAssault:obj_3:name,A mission objective name,Destroy Targets,Détruire les cibles
+AH-94:ah94-quickFlight_mp:arcticAssault:obj_3:info,Mission objective info.,Destroy the targets you found. Artillery will assist.,Détruisez les cibles que vous avez trouvées. L'artillerie apportera son aide.
+AH-94:ah94-quickFlight_mp:arcticAssault:obj_4:name,A mission objective name,Destroy MAD-4,Détruire MAD-4
+AH-94:ah94-quickFlight_mp:arcticAssault:obj_4:info,Mission objective info.,Destroy enemy air defenses to allow bombers to pass.,Détruisez les défenses aériennes ennemies pour permettre aux bombardiers de passer
 AH-94:ah94-quickFlight_mp:arcticAssault:obj_5:name,A mission objective name,RTB,
 AH-94:ah94-quickFlight_mp:arcticAssault:obj_5:info,Mission objective info.,Return to the FARP.,
 ah94-quickFlight_mp:flightPractice_name,Name of a mission.,Flight Practice,
@@ -2484,46 +2486,46 @@ AH-94:ah94-quickFlight_mp:flightPractice:obj_7:name,A mission objective name,Roo
 AH-94:ah94-quickFlight_mp:flightPractice:obj_7:info,Mission objective info.,Land on the rooftop 2.,
 AH-94:ah94-quickFlight_mp:flightPractice:obj_8:name,A mission objective name,Dock Pad,
 AH-94:ah94-quickFlight_mp:flightPractice:obj_8:info,Mission objective info.,,
-AH-94:ah94-quickFlight_mp:flightPractice:obj_9:name,A mission objective name,Cross Country,
-AH-94:ah94-quickFlight_mp:flightPractice:obj_9:info,Mission objective info.,Land on the rooftop in the next city.,
-AH-94:ah94-quickFlight_mp:flightPractice:obj_10:name,A mission objective name,Cruiser,
-AH-94:ah94-quickFlight_mp:flightPractice:obj_10:info,Mission objective info.,Land on the cruiser deck.,
+AH-94:ah94-quickFlight_mp:flightPractice:obj_9:name,A mission objective name,Cross Country,Cross-country
+AH-94:ah94-quickFlight_mp:flightPractice:obj_9:info,Mission objective info.,Land on the rooftop in the next city.,Atterrir sur le toit de la prochaine ville.
+AH-94:ah94-quickFlight_mp:flightPractice:obj_10:name,A mission objective name,Cruiser,Croiseur
+AH-94:ah94-quickFlight_mp:flightPractice:obj_10:info,Mission objective info.,Land on the cruiser deck.,Atterrir sur le pont du croiseur.
 ah94-quickFlight_mp:smallArms_name,Name of a mission.,Small Arms,
 ah94-quickFlight_mp:smallArms_description,Description of a mission.,Attack lightly defended enemy encampments.,
-AH-94:ah94-quickFlight_mp:smallArms:obj_0:name,A mission objective name,Target Outpost A,
-AH-94:ah94-quickFlight_mp:smallArms:obj_0:info,Mission objective info.,Destroy all units at the waypoint.,
-AH-94:ah94-quickFlight_mp:smallArms:obj_1:name,A mission objective name,Target Outpost B,
-AH-94:ah94-quickFlight_mp:smallArms:obj_1:info,Mission objective info.,Destroy all units at the waypoint.,
-AH-94:ah94-quickFlight_mp:smallArms:obj_2:name,A mission objective name,Recon,
-AH-94:ah94-quickFlight_mp:smallArms:obj_2:info,Mission objective info.,Fly to the designated area.,
-AH-94:ah94-quickFlight_mp:smallArms:obj_3:name,A mission objective name,Find Targets,
-AH-94:ah94-quickFlight_mp:smallArms:obj_3:info,Mission objective info.,Use TADS to get an ID on targets in the area.,
-AH-94:ah94-quickFlight_mp:smallArms:obj_4:name,A mission objective name,Destroy Radar,
-AH-94:ah94-quickFlight_mp:smallArms:obj_4:info,Mission objective info.,Destroy the radar on the mountain site.,
+AH-94:ah94-quickFlight_mp:smallArms:obj_0:name,A mission objective name,Target Outpost A,Cible avant-poste A
+AH-94:ah94-quickFlight_mp:smallArms:obj_0:info,Mission objective info.,Destroy all units at the waypoint.,Détruire toutes les unités au point de cheminement.
+AH-94:ah94-quickFlight_mp:smallArms:obj_1:name,A mission objective name,Target Outpost B,Cible avant-poste B
+AH-94:ah94-quickFlight_mp:smallArms:obj_1:info,Mission objective info.,Destroy all units at the waypoint.,Détruire toutes les unités au point de cheminement.
+AH-94:ah94-quickFlight_mp:smallArms:obj_2:name,A mission objective name,Recon,Reconnaissance
+AH-94:ah94-quickFlight_mp:smallArms:obj_2:info,Mission objective info.,Fly to the designated area.,Envolez-vous vers la zone désignée.
+AH-94:ah94-quickFlight_mp:smallArms:obj_3:name,A mission objective name,Find Targets,Trouver des cibles
+AH-94:ah94-quickFlight_mp:smallArms:obj_3:info,Mission objective info.,Use TADS to get an ID on targets in the area.,Utilisez TADS pour obtenir une identification sur les cibles dans la zone.
+AH-94:ah94-quickFlight_mp:smallArms:obj_4:name,A mission objective name,Destroy Radar,Détruisez  radar
+AH-94:ah94-quickFlight_mp:smallArms:obj_4:info,Mission objective info.,Destroy the radar on the mountain site.,Détruisez le radar sur le site de la montagne.
 AH-94:ah94-quickFlight_mp:smallArms:obj_5:name,A mission objective name,RTB,
-AH-94:ah94-quickFlight_mp:smallArms:obj_5:info,Mission objective info.,Land anywhere at base.,
+AH-94:ah94-quickFlight_mp:smallArms:obj_5:info,Mission objective info.,Land anywhere at base.,Atterrir n'importe où à la base.
 ah94-quickFlight_mp:surpriseAttack_name,Name of a mission.,Surprise Attack,
 ah94-quickFlight_mp:surpriseAttack_description,Description of a mission.,Surprise the enemy with a quick and sneaky attack on their airbase.,
-AH-94:ah94-quickFlight_mp:surpriseAttack:obj_0:name,A mission objective name,Destroy Aircraft,
-AH-94:ah94-quickFlight_mp:surpriseAttack:obj_0:info,Mission objective info.,Wait for bomber to land then destroy the aircraft before they take off!,
+AH-94:ah94-quickFlight_mp:surpriseAttack:obj_0:name,A mission objective name,Destroy Aircraft,Détruire des avions
+AH-94:ah94-quickFlight_mp:surpriseAttack:obj_0:info,Mission objective info.,Wait for bomber to land then destroy the aircraft before they take off!,Attendez que le bombardier atterrisse puis détruisez l'avion avant qu'il ne décolle !
 AH-94:ah94-quickFlight_mp:surpriseAttack:obj_1:name,A mission objective name,RTB,
-AH-94:ah94-quickFlight_mp:surpriseAttack:obj_1:info,Mission objective info.,Return to the FARP.,
+AH-94:ah94-quickFlight_mp:surpriseAttack:obj_1:info,Mission objective info.,Return to the FARP.,Retournez au FARP.
 ah94-quickFlight_mp:Target Practice_name,Name of a mission.,Target Practice,
-ah94-quickFlight_mp:Target Practice_description,Description of a mission.,Practice using the AH-94's weapons on various targets.,
-AH-94:ah94-quickFlight_mp:Target Practice:obj_0:name,A mission objective name,Beach Targets,
-AH-94:ah94-quickFlight_mp:Target Practice:obj_0:info,Mission objective info.,Destroy the stationary targets at the beach.,
-AH-94:ah94-quickFlight_mp:Target Practice:obj_1:name,A mission objective name,Downtown MAD Targets,
-AH-94:ah94-quickFlight_mp:Target Practice:obj_1:info,Mission objective info.,Destroy the MAD-4 launchers stationed between the skyscrapers.,
-AH-94:ah94-quickFlight_mp:Target Practice:obj_2:name,A mission objective name,Moving Targets 1,
-AH-94:ah94-quickFlight_mp:Target Practice:obj_2:info,Mission objective info.,Destroy the column of tanks driving around the suburbs.,
-AH-94:ah94-quickFlight_mp:Target Practice:obj_3:name,A mission objective name,Moving Targets 2,
-AH-94:ah94-quickFlight_mp:Target Practice:obj_3:info,Mission objective info.,Destroy the column of tanks driving around downtown.,
-AH-94:ah94-quickFlight_mp:Target Practice:obj_4:name,A mission objective name,Oil Platform Targets,
-AH-94:ah94-quickFlight_mp:Target Practice:obj_4:info,Mission objective info.,Neutralize the soldiers occupying the oil platform.,
-AH-94:ah94-quickFlight_mp:Target Practice:obj_5:name,A mission objective name,Destroy Boats,
-AH-94:ah94-quickFlight_mp:Target Practice:obj_5:info,Mission objective info.,Destroy the boats in the channel.,
-AH-94:ah94-quickFlight_mp:Target Practice:obj_7:name,A mission objective name,Destroy Air Targets,
-AH-94:ah94-quickFlight_mp:Target Practice:obj_7:info,Mission objective info.,Destroy the air targets patrolling the channel.,
+ah94-quickFlight_mp:Target Practice_description,Description of a mission.,Practice using the AH-94's weapons on various targets.,Entraînez-vous à utiliser les armes de l'AH-94 sur différentes cibles.
+AH-94:ah94-quickFlight_mp:Target Practice:obj_0:name,A mission objective name,Beach Targets,Cibles de plage
+AH-94:ah94-quickFlight_mp:Target Practice:obj_0:info,Mission objective info.,Destroy the stationary targets at the beach.,Détruisez les cibles fixes sur la plage.
+AH-94:ah94-quickFlight_mp:Target Practice:obj_1:name,A mission objective name,Downtown MAD Targets,Cibles MAD du centre-ville
+AH-94:ah94-quickFlight_mp:Target Practice:obj_1:info,Mission objective info.,Destroy the MAD-4 launchers stationed between the skyscrapers.,Détruisez les lanceurs MAD-4 stationnés entre les gratte-ciel
+AH-94:ah94-quickFlight_mp:Target Practice:obj_2:name,A mission objective name,Moving Targets 1,Cibles mobiles 1
+AH-94:ah94-quickFlight_mp:Target Practice:obj_2:info,Mission objective info.,Destroy the column of tanks driving around the suburbs.,Détruisez la colonne de chars circulant dans les faubourgs.
+AH-94:ah94-quickFlight_mp:Target Practice:obj_3:name,A mission objective name,Moving Targets 2,Cibles mobiles 2
+AH-94:ah94-quickFlight_mp:Target Practice:obj_3:info,Mission objective info.,Destroy the column of tanks driving around downtown.,Détruisez la colonne de chars circulant dans le centre-ville.
+AH-94:ah94-quickFlight_mp:Target Practice:obj_4:name,A mission objective name,Oil Platform Targets,Cibles  plate-forme pétrolière
+AH-94:ah94-quickFlight_mp:Target Practice:obj_4:info,Mission objective info.,Neutralize the soldiers occupying the oil platform.,Neutralisez les soldats occupant la plate-forme pétrolière.
+AH-94:ah94-quickFlight_mp:Target Practice:obj_5:name,A mission objective name,Destroy Boats,Détruire des bateaux
+AH-94:ah94-quickFlight_mp:Target Practice:obj_5:info,Mission objective info.,Destroy the boats in the channel.,Détruisez les bateaux dans le chenal.
+AH-94:ah94-quickFlight_mp:Target Practice:obj_7:name,A mission objective name,Destroy Air Targets,Détruire des cibles aériennes
+AH-94:ah94-quickFlight_mp:Target Practice:obj_7:info,Mission objective info.,Destroy the air targets patrolling the channel.,Détruisez les cibles aériennes patrouillant dans le canal.
 ah94-quickFlight_mp_ah94_mpFreeFlight_b0,Text from a mission briefing.,"Free Flight
 
 - No objectives",
@@ -2590,7 +2592,9 @@ ah94-quickFlight_mp_Target Practice_b0,Text from a mission briefing.,"Practice u
 
 Targets will not shoot back so take your time to learn the equipment.
 
-Check the objectives data to find targets.",
+Check the objectives data to find targets.","Entraînez-vous à utiliser les armes de l'AH-94 sur différentes cibles.
+Les cibles ne riposteront pas, alors prenez votre temps pour apprendre l'équipement.
+Vérifiez les données des objectifs pour trouver des cibles."
 :example1_name,Name of a mission.,Dangerous Transport,Transport dangereux
 :example1_description,Description of a mission.,Example AV-42C scenario.,Exemple de scenario AV-42C.
 AV-42C::example1:obj_0:name,A mission objective name,Pick-up,Ramasser
@@ -2613,7 +2617,7 @@ F/A-26B::hmap2Test:obj_2:name,A mission objective name,RTB,RTB
 F/A-26B::hmap2Test:obj_2:info,Mission objective info.,Return to base.,Retourner a la base.
 setting_Interactable Tooltips,The name of a game option.,Interactable Tooltips,Infobulles interactives
 settingDescription_Interactable Tooltips,The description of a game option.,Show names of interactable objects when hovering over them.,Afficher les noms des objets interactifs lorsque vous les survolez.
-setting_Unit Icons,The name of a game option.,Unit Icons,Ic�nes d'unite
+setting_Unit Icons,The name of a game option.,Unit Icons,Icônes d'unité
 settingDescription_Unit Icons,The description of a game option.,Show team-colored icons on units.,Afficher les ic�nes de la couleur de l'equipe sur les unites.
 setting_Body Physics,The name of a game option.,Body Physics,Physique corporelle
 settingDescription_Body Physics,The description of a game option.,Pilot body is affected by g-forces. Nausea risk.,Le corps du pilote est affecte par les forces g.�Risque de nausees.
@@ -2629,47 +2633,47 @@ setting_Bobblehead,The name of a game option.,Bobblehead,Bobblehead
 settingDescription_Bobblehead,The description of a game option.,Show the BD bobblehead in the cockpit.,Montrez le bobblehead BD dans le cockpit.
 setting_Thumbstick Mode,The name of a game option.,Thumbstick Mode,Mode manette
 settingDescription_Thumbstick Mode,The description of a game option.,Use controller thumbstick instead of touch-pad.,Utilisez la manette du contr�leur au lieu du pave tactile.
-setting_Thumb Control Rudder,The name of a game option.,Thumb Control Rudder,Gouvernail de contr�le au pouce
+setting_Thumb Control Rudder,The name of a game option.,Thumb Control Rudder,Gouvernail de contrôle au pouce
 settingDescription_Thumb Control Rudder,The description of a game option.,Use throttle thumb control for rudder instead of joystick-twist.,Utilisez la commande au pouce des gaz pour le gouvernail au lieu du joystick-twist.
 setting_Hardware Control Rudder,The name of a game option.,Hardware Control Rudder,Gouvernail de contr�le materiel
-settingDescription_Hardware Control Rudder,The description of a game option.,Use hardware (rudder pedals) for rudder. Overrides other settings.,Utilisez du materiel (pedales de gouvernail) pour le gouvernail.�Remplace les autres parametres.
+settingDescription_Hardware Control Rudder,The description of a game option.,Use hardware (rudder pedals) for rudder. Overrides other settings.,Utilisez du matériel (pédales de gouvernail) pour le gouvernail. Remplace les autres paramètres.
 setting_Toggle Grip,The name of a game option.,Toggle Grip,Basculer la poignee
-settingDescription_Toggle Grip,The description of a game option.,Allow toggling throttle/joystick grip by tapping grip button. Holding grip button still allows releasing after letting go.,Permettez de basculer la poignee des gaz/joystick en appuyant sur le bouton de la poignee.�Maintenir le bouton de prehension permet toujours de rel�cher apres avoir rel�che.
-setting_Flight Control Haptics,The name of a game option.,Flight Control Haptics,
-settingDescription_Flight Control Haptics,The description of a game option.,Set the intensity of joystick/throttle haptic feedback.,
+settingDescription_Toggle Grip,The description of a game option.,Allow toggling throttle/joystick grip by tapping grip button. Holding grip button still allows releasing after letting go.,Permettez de basculer la poignée des gaz/joystick en appuyant sur le bouton de la poignée. Maintenir le bouton de préhension permet toujours de relâcher après avoir relâché.
+setting_Flight Control Haptics,The name of a game option.,Flight Control Haptics," Commandes de vol Haptique"
+settingDescription_Flight Control Haptics,The description of a game option.,Set the intensity of joystick/throttle haptic feedback.," Réglez l'intensité du retour haptique du joystick/des gaz."
 setting_Hide FPV Helmet,The name of a game option.,Hide FPV Helmet,Masquer le casque FPV
-settingDescription_Hide FPV Helmet,The description of a game option.,Don't show the pilot helmet from first person view.,Ne montrez pas le casque du pilote en vue a la premiere personne.
+settingDescription_Hide FPV Helmet,The description of a game option.,Don't show the pilot helmet from first person view.,Ne montrez pas le casque du pilote en vue à la première personne.
 setting_Fullscreen NVG,The name of a game option.,Fullscreen NVG,
 settingDescription_Fullscreen NVG,The description of a game option.,Apply NVG effect to full field of view.,
 setting_Multi-Display Mode,The name of a game option.,Multi-Display Mode,Mode multi-affichage
-settingDescription_Multi-Display Mode,The description of a game option.,Display spectator camera on the second display.,Affichez la camera du spectateur sur le deuxieme ecran.
+settingDescription_Multi-Display Mode,The description of a game option.,Display spectator camera on the second display.,Affichez la caméra du spectateur sur le deuxième écran.
 setting_BGM Volume,The name of a game option.,BGM Volume,Volume de musique d'ambiance
 settingDescription_BGM Volume,The description of a game option.,The volume of background music in menus and missions.,Le volume de la musique de fond dans les menus et les missions.
 setting_Voice Volume,The name of a game option.,Voice Volume,
 settingDescription_Voice Volume,The description of a game option.,The volume of incoming unfiltered voice chat.,
 setting_Skeleton Fingers,The name of a game option.,Skeleton Fingers,Doigts Squelette
-settingDescription_Skeleton Fingers,The description of a game option.,Animate hand poses using SteamVR's skeleton poses feature. Recommended for Index controllers only.,Animez des poses de mains a l'aide de la fonction de poses de squelette de SteamVR.�Recommande pour les contr�leurs Index uniquement.
+settingDescription_Skeleton Fingers,The description of a game option.,Animate hand poses using SteamVR's skeleton poses feature. Recommended for Index controllers only.,Animez des poses de mains à l'aide de la fonction de poses de squelette de SteamVR. Recommande pour les contrôleurs Index uniquement.
 setting_Test Quicksave,The name of a game option.,Test Quicksave,Tester la sauvegarde rapide
-settingDescription_Test Quicksave,The description of a game option.,Opt-in to test the quicksave/load feature. Please report issues to developer.,Inscrivez-vous pour tester la fonction de sauvegarde/chargement rapide.�Veuillez signaler les problemes au developpeur.
+settingDescription_Test Quicksave,The description of a game option.,Opt-in to test the quicksave/load feature. Please report issues to developer.,Inscrivez-vous pour tester la fonction de sauvegarde/chargement rapide. Veuillez signaler les problèmes au développeur.
 setting_Cloud Diagnostics,The name of a game option.,Cloud Diagnostics,Diagnostic Cloud
-settingDescription_Cloud Diagnostics,The description of a game option.,Opt-in to allow anonymous error reports to be automatically sent to the developer.,Choisissez d'autoriser l'envoi automatique de rapports d'erreur anonymes au developpeur.
+settingDescription_Cloud Diagnostics,The description of a game option.,Opt-in to allow anonymous error reports to be automatically sent to the developer.,Choisissez d'autoriser l'envoi automatique de rapports d'erreur anonymes au développeur.
 setting_Persistent Seat Position,The name of a game option.,Persistent Seat Position,Position de siege persistante
-settingDescription_Persistent Seat Position,The description of a game option.,Attempt to recall the seated position when starting the game.,Essayez de rappeler la position assise au debut du jeu.
+settingDescription_Persistent Seat Position,The description of a game option.,Attempt to recall the seated position when starting the game.,Essayez de rappeler la position assise au début du jeu.
 pilotSelect_totalFlightTime,Title for label showing the player's total flight time.,Total Flight Time,Temps de vol total
-pilotSelect_lastVehicle,Title for label showing the vehicle the player has most recently flown.,Last Vehicle,Dernier vehicule
+pilotSelect_lastVehicle,Title for label showing the vehicle the player has most recently flown.,Last Vehicle,Dernier véhicule
 setting_enabled,Label for an enabled option in settings UI,ON,AU
-setting_disabled,Label for a disabled option in settings UI,OFF,DeSACTIVe
+setting_disabled,Label for a disabled option in settings UI,OFF,DÉSACTIVÉ
 s_scenarios,,Scenarios,Scenarios
 s_campaigns,,Campaigns,Campagnes
 s_maps,,Maps,Plans
-err_LogSteam,Error message for workshop browser,Must be logged into Steam!,Doit etre connecte a Steam !
-err_wsConnect,Error message for workshop browser,Failed to connect to Steam Workshop!,echec de la connexion au Steam Workshop�!
-err_scenarioNotFound,Error message for workshop browser,Scenario not found!,Scenario introuvable�!
+err_LogSteam,Error message for workshop browser,Must be logged into Steam!,Doit être connecte a Steam !
+err_wsConnect,Error message for workshop browser,Failed to connect to Steam Workshop!,echec de la connexion au Steam Workshop !
+err_scenarioNotFound,Error message for workshop browser,Scenario not found!,Scénario introuvable !
 err_version,Error message for workshop browser,Incompatible game version!,Version de jeu incompatible !
 vehicleConfig_denyOverBudget,Denial message for vehicle configurator,OVER BUDGET,SURBUDGET
-vehicleConfig_repairOverBudget,Denial message for vehicle configurator,Insufficient funds to repair.,Fonds insuffisants pour reparer.
+vehicleConfig_repairOverBudget,Denial message for vehicle configurator,Insufficient funds to repair.,Fonds insuffisants pour réparer.
 briefingUI_configure,Start button in mission briefing,Configure,Configurer
-briefingUI_fly,Start button in mission briefing,Fly,Mouche
+briefingUI_fly,Start button in mission briefing,Fly,Vole
 mfd_home,MFD home page button,Home,Domicile
 env_morning,Environment setting,Morning,Matin
 env_day,Environment setting,Day,Jour
@@ -2677,22 +2681,22 @@ env_night,Environment setting,Night,Nuit
 credits_credits,Credits string,Credits,Credits
 credits_developer,Credits string,Developer,Developpeur
 credits_programming,Credits string,Programming,Programmation
-credits_modelling,Credits string,Modelling,La modelisation
+credits_modelling,Credits string,Modelling,Modélisation
 credits_music,Credits string,Music,Musique
 credits_voices,Credits string,Voices,Voix
 credits_wingmen,Credits string,Wingmen,Ailiers
-credits_groundCrew,Credits string,Ground Crew,equipe au sol
+credits_groundCrew,Credits string,Ground Crew,équipe au sol
 credits_awacs,Credits string,AWACS,AWACS
 credits_atc,Credits string,,
-credits_pvtTesting,Credits string,Private Testing Volunteers,Volontaires de tests prives
+credits_pvtTesting,Credits string,Private Testing Volunteers,Volontaires de tests privés
 credits_translation,Credits string,Translation,Traduction
 credits_thanks,Credits string,"Special Thanks
 to everyone participating in
-the public_testing branch!",Remerciement special
-mission_completed,'x completed.' end-mission entry.,completed.,complete.
+the public_testing branch!",Remerciement spécial
+mission_completed,'x completed.' end-mission entry.,completed.,compléte.
 mission_failed,'x failed.' end-mission entry.,failed.,manque.
 mission_hasReached,'{unit} has reached {waypoint}' end-mission entry for protect objective.  Must contain {0} and {1} variable indices.,{0} has reached {1}.,{0} a atteint {1}.
-mission_vehicleDestroyed,End-mission entry for when vehicle was destroyed.,Vehicle was destroyed.,Le vehicule a ete detruit.
+mission_vehicleDestroyed,End-mission entry for when vehicle was destroyed.,Vehicle was destroyed.,Le véhicule a été détruit.
 mission_ejected,End-mission entry for when pilot ejects.,Pilot has ejected.,Le pilote s'est ejecte.
 mission_killedGForces,End-mission entry for when killed by g-forces,Killed by G-Forces,Tue par les forces G
 mission_minimum,Short for 'minimum' in objective description with multiple targets.,Min:,Min�:
@@ -2755,7 +2759,7 @@ fa26b_tutorials:tut_26_sead:-1145857779,Text from a tutorial.,Out of missiles!  
 fa26b_tutorials:tut_26_sead:-2102549622,Text from a tutorial.,Out of missiles!  You didn't hit anything.  Want to try again?,Plus de missiles !�Vous n'avez rien touche.�Vous voulez reessayer�?
 fa26b_tutorials:tut_26_sead:-292426932,Text from a tutorial.,Welcome to the SEAD tutorial!,Bienvenue dans le tutoriel SEAD !
 fa26b_tutorials:tut_26_sead:47968318,Text from a tutorial.,SEAD stands for Suppression of Enemy Air Defenses,SEAD signifie Suppression des defenses aeriennes ennemies
-fa26b_tutorials:tut_26_sead:353600754,Text from a tutorial.,You will use a combination of radar detecting sensors and special weapons to disable SAM sites,Vous utiliserez une combinaison de capteurs de detection radar et d'armes speciales pour desactiver les sites SAM
+fa26b_tutorials:tut_26_sead:353600754,Text from a tutorial.,You will use a combination of radar detecting sensors and special weapons to disable SAM sites,Vous utiliserez une combinaison de capteurs de detection radar et d'armes speciales pour désactiver les sites SAM
 fa26b_tutorials:tut_26_sead:273442107,Text from a tutorial.,"When a radar is searching for aircraft, it emits a signal that can be detected by your RWR"," it emits a signal that can be detected by your RWR"
 fa26b_tutorials:tut_26_sead:-1573979731,Text from a tutorial.,"The radar type, bearing, and approximate range is shown on the RWR display, relative to your position in the center"," bearing"
 fa26b_tutorials:tut_26_sead:-641250893,Text from a tutorial.,Open the Anti-Radar Attack Display (ARAD),Ouvrez l'ecran d'attaque anti-radar (ARAD)
@@ -2773,11 +2777,11 @@ fa26b_tutorials:tut_26_sead:-1408042184,Text from a tutorial.,"When fired, it wi
 fa26b_tutorials:tut_26_sead:-686456908,Text from a tutorial.,"Once you have a target selected, all you need to do is fly toward the target, and fire once the missile is in range"," all you need to do is fly toward the target"
 fa26b_tutorials:tut_26_sead:-1438673069,Text from a tutorial.,Try taking out the SAM radars using the AGM-88,Essayez de retirer les radars SAM en utilisant l'AGM-88
 fa26b_tutorials:tut_26_sead:951869715,Text from a tutorial.,Great!  This is the end of the SEAD tutorial.,Genial!�C'est la fin du didacticiel SEAD.
-ah94-tutorials:ah94tut_intro:19422556,Text from a tutorial.,Welcome to the AH-94 Attack Helicopter,
+ah94-tutorials:ah94tut_intro:19422556,Text from a tutorial.,Welcome to the AH-94 Attack Helicopter,Bienvenue dans l'hélicoptère d'attaque AH-94
 ah94-tutorials:ah94tut_intro:-376660370,Text from a tutorial.,"Don't worry about memorizing everything now.
 We'll go into more details in later sessions.",
 ah94-tutorials:ah94tut_intro:1034937162,Text from a tutorial.,Close door,
-ah94-tutorials:ah94tut_intro:-316527414,Text from a tutorial.,The AH-94 is a twin turboshaft attack helicopter with a tandem cockpit for two crew members.,
+ah94-tutorials:ah94tut_intro:-316527414,Text from a tutorial.,The AH-94 is a twin turboshaft attack helicopter with a tandem cockpit for two crew members.,L'AH-94 est un hélicoptère d'attaque à double turbomoteur avec un cockpit en tandem pour deux membres d'équipage.
 ah94-tutorials:ah94tut_intro:1752602625,Text from a tutorial.,It has a traditional rotor configuration of a large main rotor and small tail rotor.,
 ah94-tutorials:ah94tut_intro:-1985220033,Text from a tutorial.,"The helicopter can be flown from either the rear pilot seat, or the front copilot gunner seat.",
 ah94-tutorials:ah94tut_intro:1196723661,Text from a tutorial.,You can decide how to split up responsibilities.,
@@ -2813,7 +2817,7 @@ ah94-tutorials:ah94tut_intro:2100509273,Text from a tutorial.,Switch Seat,
 ah94-tutorials:ah94tut_intro:1660567099,Text from a tutorial.,TEDAC,
 ah94-tutorials:ah94tut_intro:1874783894,Text from a tutorial.,Used to control weapons and sensors,
 ah94-tutorials:ah94tut_intro:1122558785,Text from a tutorial.,"This concludes the general overview of the AH-94 cockpit. 
-You can move on to the next session to learn about how to get this thing started",
+You can move on to the next session to learn about how to get this thing started",Ceci conclut l'aperçu général du cockpit de l'AH-94. Vous pouvez passer à la session suivante pour savoir comment démarrer cette chose
 ah94-tutorials:ah94tut_startup:1128922264,Text from a tutorial.,"Welcome back. 
 In this session, we'll go over the start up and shut down procedures.",
 ah94-tutorials:ah94tut_startup:1034936170,Text from a tutorial.,Close Door,
@@ -2855,7 +2859,7 @@ ah94-tutorials:ah94tut_startup:-1101578338,Text from a tutorial.,Power Lever OFF
 ah94-tutorials:ah94tut_startup:-2136612091,Text from a tutorial.,Engines shutting down,
 ah94-tutorials:ah94tut_startup:-1611741902,Text from a tutorial.,Rotor Brake ON,
 ah94-tutorials:ah94tut_startup:-901397587,Text from a tutorial.,Main Battery OFF,
-ah94-tutorials:ah94tut_startup:-597259220,Text from a tutorial.,And that's it!  This concludes the AH-94 start up and shutdown procedures.  See you next time.,
+ah94-tutorials:ah94tut_startup:-597259220,Text from a tutorial.,And that's it!  This concludes the AH-94 start up and shutdown procedures.  See you next time.,Et c'est tout ! Ceci conclut les procédures de démarrage et d'arrêt de l'AH-94. À la prochaine.
 ah94-tutorials:ah94tut_wpnTads:-1450007236,Text from a tutorial.,Welcome!  Today we'll learn about the TADS and how to use the gun along side it.,
 ah94-tutorials:ah94tut_wpnTads:-1348062166,Text from a tutorial.,"To make things easy, we can do this all here on the ground so you don't have to worry about flying.",
 ah94-tutorials:ah94tut_wpnTads:2100509273,Text from a tutorial.,Switch Seat,

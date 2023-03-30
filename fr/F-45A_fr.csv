@@ -102,8 +102,8 @@ txt_413182,UI Text,ALT,ALT
 HeadingAPButton_414054,VR Interactable,Heading AP,En-tete AP
 NavAPButton_411372,VR Interactable,Nav Waypoint AP,Point de cheminement de navigation AP
 txt_410280,UI Text,NAV,VNI
-APOffButton_413514,VR Interactable,AP Off,AP desactive
-txt_413324,UI Text,OFF,DESACTIVE
+APOffButton_413514,VR Interactable,AP Off,AP désactivé
+txt_413324,UI Text,OFF,DÉSACTIVÉ
 HeadingRight_415110,VR Interactable,Heading Right,Cap à droite
 HeadingLeft_411474,VR Interactable,Heading Left,Cap à gauche
 AltUp_410754,VR Interactable,Alt +,Alt +
@@ -184,11 +184,11 @@ JoyModeText_916046,VR Interactable,Joystick Mode,Mode manette
 JoyModeText_txt_-2288018,UI Text,JOYSTICK MODE,MODE JOYSTICK
 JoySensText_-6385166,VR Interactable,Joystick Sensitivity,Sensibilite du joystick
 JoySensText_txt_-2287244,UI Text,JOY SENS,JOIE SENS
-UnitsButton_2553924,VR Interactable,Unit Options,Options d'unite
+UnitsButton_2553924,VR Interactable,Unit Options,Option de l'unité
 UnitsButton_txt_-3699322,UI Text,UNITS,UNITES
 AltWarnButton_265846,VR Interactable,Altitude Warning Options,Options d'avertissement d'altitude
 AltWarnButton_txt_-3700084,UI Text,ALT WARNING,AVERTISSEMENT ALT
-eqNameText_412380,UI Text,UNIT OPTIONS,OPTIONS D'UNITE
+eqNameText_412380,UI Text,UNIT OPTIONS,OPTIONS DE L'UNITÉ
 UnitsButton_270412,VR Interactable,Altitude Units,Unites d'altitude
 AltModeLabel_txt_-2237336,UI Text,Alt Units,Unites alternatives
 DistModeLabel_913734,VR Interactable,Distance Units,Unites de distance
@@ -256,7 +256,7 @@ A","SERRURE
 B
 R
 A"
-OffObj_913268,UI Text,RADAR OFF,RADAR DESACTIVE
+OffObj_913268,UI Text,RADAR OFF,RADAR DÉSACTIVÉ
 FOVText_916096,UI Text,BORESIGHT,BORESIGHT
 txt_914320,UI Text,POWER,PUISSANCE
 Text_916224,UI Text,RADAR,RADAR
