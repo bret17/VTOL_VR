@@ -1,6 +1,6 @@
 Key,Description,en,fr
 ejectInteractable_911648,VR Interactable,Eject,Ejecter
-neckPTT_2582164,VR Interactable,Radio PTT,
+neckPTT_2582164,VR Interactable,Radio PTT,Radio Appuyer-pour-parler
 ButtonText_952188,UI Text,"Recenter
 seat","Recentrer
 siege"
@@ -19,8 +19,8 @@ save","Rapide
 sauvegarde"
 ButtonText_915630,UI Text,Load,Charge
 ButtonText_913374,UI Text,Save,Sauvegarder
-Label_280922,HUD Unit label (mach),M,
-Label_280582,HUD Unit label (g-force),G,
+Label_280922,HUD Unit label (mach),M,M
+Label_280582,HUD Unit label (g-force),G,G
 helmVisorInteractable_913784,VR Interactable,Visor,Visiere
 helmNVGInteractable_916002,VR Interactable,NVG,LVN
 PendingText_912704,UI Text,in progress...,en cours...
@@ -43,25 +43,25 @@ BottomIcon_913766,VR Interactable,To Bottom,Vers le bas
 SaveToDiskText_912244,VR Interactable,Save Flight Log,enregistrer le journal de vol
 completionTimeLabel_-10687514,UI Text,Completion Time:,Temps d'achevement:
 joyInteractable_915260,VR Interactable,Joystick,Joystick
-joyAdjustInteractable_916106,VR Interactable,Adjust Joystick,
-AdjLeftButton_916408,VR Interactable,Adjust Left,
-AdjRightButton_913538,VR Interactable,Adjust Right,
-AdjFwdButton_915546,VR Interactable,Adjust Forward,
-AdjBackButton_916410,VR Interactable,Adjust Back,
-AdjUpButton_912256,VR Interactable,Adjust Up,
-AdjDownButton_915128,VR Interactable,Adjust Down,
+joyAdjustInteractable_916106,VR Interactable,Adjust Joystick,Ajuster Joystick
+AdjLeftButton_916408,VR Interactable,Adjust Left,Ajuster à gauche
+AdjRightButton_913538,VR Interactable,Adjust Right,Ajuster à droite
+AdjFwdButton_915546,VR Interactable,Adjust Forward,Ajuster en avant
+AdjBackButton_916410,VR Interactable,Adjust Back,Ajuster en arrère
+AdjUpButton_912256,VR Interactable,Adjust Up,Monter
+AdjDownButton_915128,VR Interactable,Adjust Down,Descendre
 ToggleAdjustJoyInteractable_911908,VR Interactable,Toggle Auto Adjust,Basculer le reglage automatique
 Text_915188,VT Text,AUTO,AUTO
 releaseLabel_912934,UI Text,RELEASE,LIBERER
-loalText_299878,HUD when lock-on-after-launch AGM mode is active,LOAL,
+loalText_299878,HUD when lock-on-after-launch AGM mode is active,LOAL,LOAL
 Label_915698,UI Text,SPEED,VITESSE
 Label_916182,UI Text,HULL,COQUE
-Label_913628,UI Text,VERT,
-ASLText_915472,UI Text,ASL,
-RDRAltText_911650,UI Text,RDR,
+Label_913628,UI Text,VERT,VERT
+ASLText_915472,UI Text,ASL,ASL
+RDRAltText_911650,UI Text,RDR,RDR
 Text_912910,UI Text,[ COLLISION      WARNING ],[ AVERTISSEMENT DE COLLISION ]
 Text_915452,UI Text,[ STALL          WARNING ],[ AVERTISSEMENT DE DECROCHAGE ]
-Label_914952,UI Text,HDG,
+Label_914952,UI Text,HDG,HDG
 HudBrakeLock_912300,UI Text,[ BRAKE LOCK ],[ VERROUILLAGE DU FREIN ]
 Text_913428,UI Text,-[ CHECK GEAR ]-,-[ VERIFIER LE MATERIEL ]-
 Label_913926,UI Text,"HVR
@@ -115,7 +115,7 @@ fuelDrainLabel_916118,UI Text,FUEL DRAIN,VIDANGE DE CARBURANT
 estTimeLabel_913460,UI Text,EST TIME,HEURE EST
 estDistLabel_913976,UI Text,"EST DIST
 ",DIST EST
-twrLabel_914716,UI Text,MAX TWR,
+twrLabel_914716,UI Text,MAX TWR,PUSSANCE/POIDS MAX
 SwapButton_916316,VR Interactable,Swap Displays,Permuter les Ecrans
 Text_911674,UI Text,SWAP,PERMUTER
 MenuButton_911602,VR Interactable,Open Menu,Ouvrir le menu
@@ -297,7 +297,7 @@ NoSignalText_913810,UI Text,NO SIGNAL,PAS DE SIGNAL
 Text_915098,UI Text,AREA,ZONE
 Text_915864,UI Text,POINT,INDIQUER
 Text_915242,UI Text,IFF:FRIEND,IFF:AMI
-Text_914872,UI Text,IFF:FOE,
+Text_914872,UI Text,IFF:FOE,IFF:ENEMI
 HeadModeText_915908,UI Text,"USE HELMET VISOR/HMCS
 
 AUGMENTED VIEW ENABLED","UTILISER LA VISIERE DE CASQUE/NCSM
@@ -314,7 +314,7 @@ GPS-S Button_915296,VR Interactable,GPS Send,Envoi GPS
 GPS-A Button_915520,VR Interactable,GPS Acquire,Acquisition GPS
 txt_913352,UI Text,GPS-A,GPS-A
 ToWptButton_914462,VR Interactable,To Waypoint,Au point de cheminement
-txt_914632,UI Text,TO WPT,
+txt_914632,UI Text,TO WPT,VERS POINT NAVIGATION
 LIM Button_-7676696,VR Interactable,Toggle Limits Overlay,Basculer la superposition des limites
 txt_409782,UI Text,LIM,LIM
 MarkerButton_5516312,VR Interactable,Laser Marker,Marqueur laser
@@ -365,7 +365,7 @@ ManagePlayersButton_521164,VR Interactable,Manage Players,Gerer joueurs
 txt_526582,UI Text,MANAGE,GERER
 upArrow_527248,VR Interactable,Scroll Up,Defiler vers le haut
 downArrow_521412,VR Interactable,Scroll Down,Defiler vers le bas
-netAnalyticsTtle_-29380092,UI Text,vt net analytics,
+netAnalyticsTtle_-29380092,UI Text,vt net analytics,analyses vt net
 NetworkReturnButton_521328,VR Interactable,Return,Retour
 txt_523966,UI Text,RETURN,RETOUR
 ScaleButton_393616,VR Interactable,Zoom +,Zoomer +
@@ -411,21 +411,21 @@ raiseSeatInter_915664,VR Interactable,Raise Seat,Relever le siege
 lowerSeatInter_915488,VR Interactable,Lower Seat,Siege inferieur
 visorButtonInteractable_-7865812,VR Interactable,Toggle Visor,Basculer la visiere
 nvgButtonInteractable_-7865816,VR Interactable,Toggle NVG,Basculer NVG
-clearButton_4853888,Clear joined/left notifications,Clear,
+clearButton_4853888,Clear joined/left notifications,Clear,Nettoyer
 info_userLeft,UI Text,has left!,est parti !
 membersTitle_6548730,UI Text,Invite Friends,Inviter des amis
 ToggleMute_-118434,VR Interactable,Toggle Mute,Basculer en sourdine
-Kick_-113880,VR Interactable,Kick,
-kickText_-113882,UI Text,Kick,
-Ban_-116098,VR Interactable,Block,
-banText_-116094,UI Text,Block,
+Kick_-113880,VR Interactable,Kick,Exclure
+kickText_-113882,UI Text,Kick,Exclure
+Ban_-116098,VR Interactable,Block,Bloquer
+banText_-116094,UI Text,Block,Bloquer
 ScrollInteractable_-645206,VR Interactable,Scroll,Defilement
 ErrorOKButton_-8378960,VR Interactable,Okay,D'accord
 okText_-8378962,UI Text,Cancel,Annuler
 Deny_1950982,VR Interactable,Cancel,Annuler
 Invite_-47166,VR Interactable,Invite,Inviter
 inviteText_-47202,UI Text,Invite,Inviter
-invitedText_-48900,UI Text,Invited,
+invitedText_-48900,UI Text,Invited,Invité
 GearInteractable_911944,VR Interactable,Landing Gear,Train d'atterrissage
 WingSwitchInteractable_915584,VR Interactable,Wing Fold,Pli d'aile
 JettisonSwitchInteractable_916390,VR Interactable,Jettison Switch,Interrupteur de largage
