@@ -24,7 +24,7 @@ ButtonText_955618,UI Text,Save,Sauvegarder
 helmVisorInteractable_955814,VR Interactable,Visor,Visiere
 helmNVGInteractable_955816,VR Interactable,NVG,LVN
 PendingText_955728,UI Text,in progress...,en cours...
-CompleteText_953308,UI Text,COMPLETE,ACHEVeE
+CompleteText_953308,UI Text,COMPLETE,ACHEVÉE
 MissionText_954156,UI Text,"MISSION
 ",MISSION
 FailedText_955730,UI Text,FAILED,ECHOUE
@@ -43,7 +43,7 @@ SaveToDiskText_952718,VR Interactable,Save Flight Log,Enregistrer le journal de 
 completionTimeLabel_1297772,UI Text,Completion Time:,Le temps d'achevement:
 visorButtonInteractable_955012,VR Interactable,Toggle Visor,Basculer la visiere
 nvgButtonInteractable_954948,VR Interactable,Toggle NVG,Basculer les NVG
-HUDTintKnob_954844,VR Interactable,HUD Tint,
+HUDTintKnob_954844,VR Interactable,HUD Tint,contraste HUD
 MasterCautionInteractable_955266,VR Interactable,Clear Cautions,Precautions claires
 AltitudeModeInteractable_954586,VR Interactable,Toggle Altitude Mode,Basculer le mode d'altitude
 ClrWptButton_956888,VR Interactable,Clear Waypoint,Effacer le point de cheminement
@@ -52,39 +52,41 @@ altitudeAPButton_952938,VR Interactable,Altitude Hold,Maintien d'altitude
 speedAPButton_-3021126,VR Interactable,Airspeed Hold,Maintien de la vitesse
 offAPButton_953862,VR Interactable,All AP Off,Tous les AP désactives
 navAPButton_953656,VR Interactable,Navigation Mode,Mode navigation
-hudPowerInteractable_952146,VR Interactable,HUD Power,Puissance HUD
+hudPowerInteractable_952146,VR Interactable,HUD Power,Puissance Affichage tête haute
 hmcsPowerInteractable_952122,VR Interactable,HMCS Power,
-HUDBrightKnob_952800,VR Interactable,HUD Brightness,
-DeclutterKnob_535224,VR Interactable,HUD Declutter,
-MFDBrightnessKnob_955120,VR Interactable,MFD Brightness,
-mfdSwapButton_-23972,VR Interactable,Swap MFDs,
-leftEngineSwitchInteractable_954450,VR Interactable,Left Engine,
-coverSwitchInteractable_leftEngine_955432,VR Interactable,Switch Cover (Left Engine),
-rightEngineSwitchInteractable_954616,VR Interactable,Right Engine,
-coverSwitchInteractable_rightEngine_954968,VR Interactable,Switch Cover (Right Engine),
+HUDBrightKnob_952800,VR Interactable,HUD Brightness,Luminosité Affichage tête haute
+DeclutterKnob_535224,VR Interactable,HUD Declutter,Nettoyer Affichage tête haute
+MFDBrightnessKnob_955120,VR Interactable,MFD Brightness,Luminosité écrans
+mfdSwapButton_-23972,VR Interactable,Swap MFDs,Inverser écrans
+leftEngineSwitchInteractable_954450,VR Interactable,Left Engine,Moteur gauche
+coverSwitchInteractable_leftEngine_955432,VR Interactable,Switch Cover (Left Engine),Couvercle interrupteur (moteur gauche)
+rightEngineSwitchInteractable_954616,VR Interactable,Right Engine,Moteur droit
+coverSwitchInteractable_rightEngine_954968,VR Interactable,Switch Cover (Right Engine),Couvercle interrupteur (moteur droit)
 apuSwitchInteractable_954938,VR Interactable,Auxilliary Power,
-coverSwitchInteractable_apuSwitch_957054,VR Interactable,Switch Cover (APU),
-mainBattSwitchInteractable_956298,VR Interactable,Main Battery,
-CanopyInteractable_955182,VR Interactable,Canopy,
-GearInteractable_952278,VR Interactable,Landing Gear,
-FlapsInteractable_954972,VR Interactable,Flaps,
-HookInteractable_952960,VR Interactable,Arrestor Hook,
-CatHookInteractable_953160,VR Interactable,Launch Bar,
-MasterJettisonButtonInteractable_953496,VR Interactable,Jettison,
-coverSwitchInteractable_jettisonButton_957040,VR Interactable,Switch Cover (Jettison),
-JettisonAllInteractable_957116,VR Interactable,Jettison All,
-JettisonEmptyInteractable_953786,VR Interactable,Jettison Empty,
+coverSwitchInteractable_apuSwitch_957054,VR Interactable,Switch Cover (APU),Couvercle interrupteur (générateur auxiliaire) 
+mainBattSwitchInteractable_956298,VR Interactable,Main Battery,Batterie principale
+CanopyInteractable_955182,VR Interactable,Canopy,Canopée
+GearInteractable_952278,VR Interactable,Landing Gear,Train d’atterrissage
+FlapsInteractable_954972,VR Interactable,Flaps,Volets
+HookInteractable_952960,VR Interactable,Arrestor Hook,Crochet
+CatHookInteractable_953160,VR Interactable,Launch Bar,Catapulte
+MasterJettisonButtonInteractable_953496,VR Interactable,Jettison,Largage
+coverSwitchInteractable_jettisonButton_957040,VR Interactable,Switch Cover (Jettison),Couvercle interrupteur (Largage)
+JettisonAllInteractable_957116,VR Interactable,Jettison All,Larguer tout
+JettisonEmptyInteractable_953786,VR Interactable,Jettison Empty,Larguer vides
 ClearJettisonInteractable_955908,VR Interactable,Clear Jettison Marks,
-JettTanksInteractable_956154,VR Interactable,Jettison Ext Tanks,
-Label (1)_956422,UI Text,QUICK START,
-QuickStartInteractable_954058,VR Interactable,Quickstart Engines,
-Label (1)_954266,UI Text,QUICK FLY,
-QuickFlyButton_956882,VR Interactable,QuickFly,
-raiseSeatInter_952934,VR Interactable,Raise Seat,
-lowerSeatInter_956538,VR Interactable,Lower Seat,
+JettTanksInteractable_956154,VR Interactable,Jettison Ext Tanks,Larguer réservoirs extérieurs
+Label (1)_956422,UI Text,QUICK START,DÉMARRAGE RAPIDE
+QuickStartInteractable_954058,VR Interactable,Quickstart Engines,Démarrage rapide moteurs
+Label (1)_954266,UI Text,QUICK FLY,DÉMARRAGE EN VOL
+QuickFlyButton_956882,VR Interactable,QuickFly,Démarrage en vol
+raiseSeatInter_952934,VR Interactable,Raise Seat,Monter siège
+lowerSeatInter_956538,VR Interactable,Lower Seat,Baisser siège
 RWRText_957050,UI Text,"R
 W
-R",
+R","R
+W
+R"
 Text_956238,UI Text,VRMMFD v1.6,VRMMFD v1.6
 Text (1)_955806,UI Text,FUEL,LE CARBURANT
 Text_955420,Internal Fuel,INTERNAL,INTERNE
@@ -98,24 +100,32 @@ powButtonMMFDLeft_953178,VR Interactable,Power (MMFD Left),Puissance (MMFD Gauch
 FuelText_952778,UI Text,"F
 U
 E
-L",F
+L","C
+A
+R
+B."
 InfoText_952704,UI Text,"I
 N
 F
-O",je
+O","I
+N
+F
+O"
 powButtonMMFDRight_955652,VR Interactable,Power (MMFD Right),Puissance (MMFD Droite)
 fuelButton_955472,VR Interactable,Fuel,Le carburant
 fuelDrainButton_953542,VR Interactable,Info,Info
 Text_953094,UI Text,"VR MFCD
 1.0
 ",MFCD VR
-SaveToDiskText_953598,UI Text,Save to Disk,
-TgtsTitle_955166,UI Text,GPS TARGETS,
-GroupsTitle_954186,UI Text,GROUPS,
+SaveToDiskText_953598,UI Text,Save to Disk,Sauvegarder sur disque
+TgtsTitle_955166,UI Text,GPS TARGETS,CIBLES GPS
+GroupsTitle_954186,UI Text,GROUPS,GROUPES
 DelTgt_955584,UI Text,"DELETE
-TARGET",
+TARGET","SUPPR.
+CIBLES"
 DelGrp_956268,UI Text,"DELETE
-GROUP",EFFACER
+GROUP","SUPPR.
+GROUPE"
 NewGrp_953456,UI Text,"NEW
 GROUP",NOUVEAU
 pathLabel_955452,UI Text,PATH,CHEMIN
@@ -136,37 +146,45 @@ Text_956014,UI Text,GAME MENU,MENU DU JEU
 Text_957026,UI Text,"Sit comfortably
 and press
 [menu]
-to recenter",Asseyez-vous confortablement
+to recenter","asseyez vous bien
+et appuyez sur
+[menu]
+pour recentrer siège"
 saveText_952280,UI Text,SAVE,SAUVEGARDER
 availableLabel_956208,UI Text,"SAVES
-AVAILABLE:",eCONOMISE
+AVAILABLE:","SAUVEGARDES
+DISPO:"
 NoQsText_955496,UI Text,"QUICKSAVE
-NOT AVAILABLE",SAUVEGARDE RAPIDE
-lastSaveLabel_954396,UI Text,Last Save:,Derniere sauvegarde�:
-loadText_957016,UI Text,LOAD,CHARGE
-text_956760,UI Text,SAVED,ENREGISTRE
+NOT AVAILABLE","SAUVEGARDE RAPIDE
+NON DISPO"
+lastSaveLabel_954396,UI Text,Last Save:,Derniere sauvegarde:
+loadText_957016,UI Text,LOAD,RECHARGER
+text_956760,UI Text,SAVED,ENREGISTRÉ
 Quicksave Title_121936,UI Text,Quicksave,Sauvegarde rapide
 titleText_620198,UI Text,FLARES,FLeCHES
-titleText_618466,UI Text,CHAFF,BALLE
-eqNameText_930458,UI Text,COUNTERMEASURE SYSTEM,SYSTeME DE CONTRE-MESURE
-BingoAdjustTitle_-439040,UI Text,RELEASE RATE,TAUX DE LIBeRATION
-txt_929168,UI Text,RELEASE MODE,MODE DE LIBeRATION
+titleText_618466,UI Text,CHAFF,PAILLETTES
+eqNameText_930458,UI Text,COUNTERMEASURE SYSTEM,SYSTÈME DE CONTRE-MESURE
+BingoAdjustTitle_-439040,UI Text,RELEASE RATE,TAUX DE LIBÉRATION
+txt_929168,UI Text,RELEASE MODE,MODE DE LIBÉRATION
 NoSignalText_955176,UI Text,NO SIGNAL,PAS DE SIGNAL
 Text_952186,UI Text,AREA,SURFACE
 Text_954224,UI Text,POINT,POINT
-Text_954786,UI Text,IFF:FRIEND,IFF�: AMI
-Text_952462,UI Text,IFF:FOE,IFF�:�FOE
+Text_954786,UI Text,IFF:FRIEND,IFF: AMI
+Text_952462,UI Text,IFF:FOE,IFF:ENNEMI
 HeadModeText_956034,UI Text,"USE HELMET VISOR/HMCS
 
-AUGMENTED VIEW ENABLED",UTILISER LA VISIeRE DU CASQUE/HMCS
+AUGMENTED VIEW ENABLED",UTILISER LA VISIÈRE DU CASQUE/HMCS
 gimbalLimit_956102,UI Text,GIMBAL LIMIT,LIMITE DE CARDIAQUE
 hmdViewStatus_953932,UI Text,HMD,HMD
 eqNameText_619628,UI Text,VEHICLE OPTIONS,OPTIONS DE VeHICULE
 Text_954730,UI Text,"Sit comfortably
 and press menu
 (top button)
-to recenter",Asseyez-vous confortablement
-AltModeLabel_953220,UI Text,UNITS,UNITeS
+to recenter","Asseyez vous confortablement
+et appuyez sur MENU
+(bouton du haut)
+Pour recentrer"
+AltModeLabel_953220,UI Text,UNITS,UNITÉS
 unitOptsText_621558,UI Text,ALT WARN,ALT AVERT
 JoyModeText_952514,UI Text,JOYSTICK MODE,MODE JOYSTICK
 JoyModeText_368540,UI Text,JOY SENS,JOIE SENS

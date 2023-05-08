@@ -32,7 +32,7 @@ Rapide"
 ButtonText_857740,UI Text,Load,Charger
 ButtonText_856918,UI Text,Save,Sauvegarder
 helmVisorInteractable_857720,VR Interactable,Visor,Visière
-helmNVGInteractable_856016,VR Interactable,NVG,
+helmNVGInteractable_856016,VR Interactable,NVG,VISION NOCTURNE
 PendingText_857928,UI Text,in progress...,en cours...
 CompleteText_856172,UI Text,COMPLETE,TERMINÉE
 MissionText_855910,UI Text,"MISSION
@@ -51,22 +51,22 @@ UpIcon_857052,VR Interactable,Scroll Up,Défiler vers le Haut
 DnIcon_859440,VR Interactable,Scroll Down,Défiler vers le Bas
 BottomIcon_857190,VR Interactable,To Bottom,Vers le Bas
 SaveToDiskText_857640,VR Interactable,Save Flight Log,Enregistrer le Journal de Vol
-completionTimeLabel_-10687514,UI Text,Completion Time:,"Temps d'Exécution:"
+completionTimeLabel_-10687514,UI Text,Completion Time:,Temps d'Exécution:
 releaseLabel_859238,UI Text,RELEASE,RELÂCHER
 AirspeedLabel_857044,UI Text,SPEED,VITESSE
 Label_858112,UI Text,TILT,
 Label_856174,UI Text,HULL,COQUE
-VertVelLabel_857254,UI Text,VERT,
-ASLText_858014,UI Text,ASL,
-RDRAltText_858872,UI Text,RDR,
+VertVelLabel_857254,UI Text,VERT,VERT
+ASLText_858014,UI Text,ASL,ASL
+RDRAltText_858872,UI Text,RDR,RDR
 Text_857542,UI Text,[ COLLISION      WARNING ],[ AVERTISSEMENT  COLLISION ]
 Text_859692,UI Text,[ STALL          WARNING ],[ AVERTISSEMENT DÉCROCHAGE ]
 Label_857754,UI Text,HDG,
 HudBrakeLock_858050,UI Text,[ BRAKE LOCK],[ VERROUILLAGE FREIN ]
-Label_164444,HUD unit label (g-force),G,
-Label_168976,HUD unit label (mach),M,
+Label_164444,HUD unit label (g-force),G,G
+Label_168976,HUD unit label (mach),M,M
 Label_857238,UI Text,"HVR
-ALT",
+ALT",ALT FLOTT.
 Label_857834,UI Text,BRAKE,FREIN
 Text_859476,UI Text,-[ CHECK GEAR ]-,-[ VÉRIFIER TRAIN ]-
 Text_703132,UI Text,PULL UP!,REDRESSEZ !
@@ -91,7 +91,7 @@ leftEngineSwitchInteractable_858214,VR Interactable,Left Engine,Moteur Gauche
 coverSwitchInteractable_leftEngine_858864,VR Interactable,Switch Cover,Capuchon Interrupteur
 rightEngineSwitchInteractable_857464,VR Interactable,Right Engine,Moteur Droit
 apuSwitchInteractable_855502,VR Interactable,Auxilliary Power,Alimentation Auxiliaire
-Label (1)_857692,UI Text,AV-42,
+Label (1)_857692,UI Text,AV-42,AV-42
 GearInteractable_856386,VR Interactable,Landing Gear,Train d'Atterrissage
 FlapsInteractable_855734,VR Interactable,Flaps,Volets
 HookInteractable_858430,VR Interactable,Arrestor Hook,Crosse d'Appontage
@@ -117,7 +117,7 @@ Title_859956,UI Text,HARDPOINTS,PYLÔNES
 JettisonText_859418,UI Text,ARMED,ARMÉ
 JettisonText_857292,UI Text,JETTISON,LARGUER
 BackText_856938,UI Text,BACK,RETOUR
-Title_859674,UI Text,ARAD,
+Title_859674,UI Text,ARAD,ARAD
 offTxt_858396,UI Text,RWR OFF,ÉTEINDRE RWR
 hudModeText_855534,UI Text,DECL,RÉDUC
 Text_856460,UI Text,GAME MENU,MENU DU JEU
@@ -162,7 +162,7 @@ AUGMENTED VIEW ENABLED","UTILISER LA VISIÈRE DU CASQUE
 
 VISION AUGMENTÉE ACTIVÉE"
 gimbalLimit_858032,UI Text,GIMBAL LIMIT,LIMITE CARDAN
-hmdViewStatus_856300,UI Text,HMD,
+hmdViewStatus_856300,UI Text,HMD,HMD
 titleText_456206,UI Text,FLARES,LEURRES
 titleText_455052,UI Text,CHAFF,PAILLETTES
 eqNameText_456958,UI Text,COUNTERMEASURE SYSTEM,SYSTÈME DE CONTRE-MESURE
@@ -214,11 +214,17 @@ powButtonMMFDLeft_859524,VR Interactable,Power (MMFD Left),Puissance (MMFD Gauch
 FuelText_858474,UI Text,"F
 U
 E
-L",
+L","C
+A
+R
+B."
 InfoLabel_857034,UI Text,"I
 N
 F
-O",
+O","I
+N
+F
+O"
 powButtonMMFDRight_855584,VR Interactable,Power (MMFD Right),Allumage (MMFD Droite)
 infoButton_859450,VR Interactable,Fuel Info,Info Carburant
 fuelButton_855474,VR Interactable,Fuel,Carburant
@@ -226,7 +232,7 @@ mainBattSwitchInteractable_858600,VR Interactable,Main Battery,Batterie Principa
 fuelDumpSwitchInteractable_197570,VR Interactable,Fuel Dump Switch,Interrupteur Vidage Carburant
 RampInteractable_858370,VR Interactable,Side Doors,Portes Latérales
 BrakeLockInteractable_859740,VR Interactable,Brake Locks,Verrouillage Frein
-MicPowerInteractable_855850,VR Interactable,Microphone,
+MicPowerInteractable_855850,VR Interactable,Microphone,Micro
 CommsVolumeKnob_858450,VR Interactable,Comm Radio Volume,Volume Radiocommunication
 Text_98822,UI Text,"GAME WINDOW
 NOT IN FOCUS","FENÊTRE DU JEU
