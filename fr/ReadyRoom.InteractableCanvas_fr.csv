@@ -6,7 +6,7 @@ NewPilotButton_745346,VR Interactable,Create New Pilot,Créer un pilote
 Text_742072,UI Text,New Pilot,Nouveau pilote
 QuitButton_740624,VR Interactable,Quit Game,Quitter le jeu
 Text_742474,UI Text,QUIT,QUITTER
-SettingsButton_747456,VR Interactable,Settings,PARAMÈTRES
+SettingsButton_747456,VR Interactable,Settings,Paramètres
 Text_740102,UI Text,"Settings
  ",PARAMÈTRES
 CreditsButton_-102322,VR Interactable,Game Credits,Crédits
@@ -63,7 +63,7 @@ Text_746638,UI Text,Maps,Cartes
 Name (1)_747156,UI Text,STEAM WORKSHOP,
 Placeholder_742056,UI Text,search...,rechercher...
 ButtonSearch_745798,VR Interactable,Search,Rechercher
-SortOrderDropdown_742490,VR Interactable,Sort Dropdown,Liste déroulante du tri
+SortOrderDropdown_742490,VR Interactable,Sort Dropdown,Menu de tri
 Text_743832,UI Text,Entry Button,Bouton d'entrée
 AnyVehicleButton_741020,VR Interactable,Any Vehicle,Tout véhicule
 AV42Button_746716,VR Interactable,AV-42C,AV-42C
@@ -154,7 +154,7 @@ ApplySettingsButton_740876,VR Interactable,Apply Settings,Appliquer les paramèt
 RevertSettingsButton_745510,VR Interactable,Revert Settings,Rétablir les paramètres
 Text_744170,UI Text,Revert,Rétablir
 Text_743510,UI Text,Close,Fermer
-BindingsButton_740066,VR Interactable,Open Bindings Menu,Ouvrir le menu des liaisons
+BindingsButton_740066,VR Interactable,Open Bindings Menu,Ouvrir le menu des commandes
 Text_746038,UI Text,Bindings,Liaisons
 OpenWingmenButton_742898,VR Interactable,Wingman Voices,Voix de l'ailier
 GameCat_692110,VR Interactable,Game,Jeu
