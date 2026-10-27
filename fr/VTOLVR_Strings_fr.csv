@@ -2,7 +2,7 @@ Key,Description,en,fr
 AIM-120 Advanced Radar Missile_fullName,Full equip name of: AIM-120 Advanced Radar Missile,AIM-120 Advanced Radar Missile,Missile radar avancé AIM-120
 AIM-120 Advanced Radar Missile_description,Item description of: AIM-120 Advanced Radar Missile,"Radar guided medium range air to air missile.
  ",Missile air-air à moyenne portée à guidage radar.
-eqSublabel_RADAR-AAM,HUD sub-label of an equip,RADAR AAM,AAM radar
+eqSublabel_RADAR-AAM,HUD sub-label of an equip,RADAR AAM,AAM RADAR
 AGM-89 Anti-ship Cruise Missile x2_fullName,Full equip name of: AGM-89 Anti-ship Cruise Missile x2,AGM-89 Anti-ship Cruise Missile x2,Missile de croisière anti-navire AGM-89 x2
 AGM-89 Anti-ship Cruise Missile x2_description,Item description of: AGM-89 Anti-ship Cruise Missile x2,"Air-launched anti-ship cruise missile. Equipped with waypoint following, radar target acquisition, and a radar seeker for terminal homing.",Missile de croisière anti-navire lancé depuis l'air. Équipé de guidage par point de cheminement, d'acquisition de cible radar et d'un chercheur radar pour l'arrivée terminale.
 eqSublabel_ANTI-SHIP-CRUISE,HUD sub-label of an equip,ANTI-SHIP CRUISE,CROISIÈRE ANTI-NAVIRE
@@ -257,13 +257,13 @@ commReply_s_disarmWeapons,A text reply in the communications menu.,Please disarm
 commReply_s_unhookTailhook,A text reply in the communications menu.,Please disengage your arrestor hook.,Veuillez décrocher votre crochet d'arrêt.
 commReply_s_rearmPointOccupied,A text reply in the communications menu.,This station is occupied!,Cette station est occupée !
 commReply_s_taxiToRearm,A text reply in the communications menu.,Please taxi to a rearming station.,Veuillez vous rendre à une station de réarmement.
-commReply_s_wingmenBusy,A text reply in the communications menu.,Your wingmen are busy.,Vos ailier(s) sont occupés.
-commReply_s_someWingmenBusy,A text reply in the communications menu.,Some of your wingmen are busy.,Certains de vos ailier(s) sont occupés.
+commReply_s_wingmenBusy,A text reply in the communications menu.,Your wingmen are busy.,Vos ailiers sont occupés.
+commReply_s_someWingmenBusy,A text reply in the communications menu.,Some of your wingmen are busy.,Certains de vos ailiers sont occupés.
 commReply_s_noWingmen,A text reply in the communications menu.,You have no wingmen.,Vous n'avez pas d'ailier.
-commReply_s_wingmenOrbiting,A text reply in the communications menu.,Wingmen orbiting here.,Des ailier(s) en orbite ici.
-commReply_s_wingmenEngaging,A text reply in the communications menu.,Wingmen engaging targets at will!,Des ailier(s) engagés sur cible libre !
-commReply_s_wingmenDisengaging,A text reply in the communications menu.,Wingmen disengaging from combat!,Des ailier(s) se désengageant du combat !
-commReply_s_wingmenFormationSpread,A text reply in the communications menu.,Wingmen setting formation spread.,Les ailier(s) prennent de l'écart.
+commReply_s_wingmenOrbiting,A text reply in the communications menu.,Wingmen orbiting here.,Des ailiers en orbite ici.
+commReply_s_wingmenEngaging,A text reply in the communications menu.,Wingmen engaging targets at will!,Des ailiers engagés sur cible libre !
+commReply_s_wingmenDisengaging,A text reply in the communications menu.,Wingmen disengaging from combat!,Des ailiers se désengageant du combat !
+commReply_s_wingmenFormationSpread,A text reply in the communications menu.,Wingmen setting formation spread.,Les ailiers prennent de l'écart.
 commReply_s_wingman,A text reply in the communications menu.,Wingman,Ailier
 commReply_s_attackingTSD,A text reply in the communications menu.,attacking your TSD target!,attaque votre cible TSD !
 commReply_s_attackingRadar,A text reply in the communications menu.,attacking your radar target!,attaque votre cible radar !
@@ -274,7 +274,7 @@ commReply_s_noTarget,A text reply in the communications menu.,No target selected
 commReply_s_noAirfield,A text reply in the communications menu.,No airfield available.,Aucun aérodrome disponible.
 commReply_s_cancellingATC,A text reply in the communications menu.,Cancelling ATC request.,Annulation de la demande ATC.
 commReply_s_acknowledged,A text reply in the communications menu.,Acknowledged,Reçu
-commReply_s_wingmenRTB,A text reply in the communications menu.,Your wingmen will RTB!,Vos ailier(s) font retour à la base !
+commReply_s_wingmenRTB,A text reply in the communications menu.,Your wingmen will RTB!,Vos ailiers font retour à la base !
 commReply_s_clearedVerticalLanding,A text reply in the communications menu.,Cleared for vertical landing!,Autorisé pour l'atterrissage vertical !
 commReply_s_clearedVerticalTakeoff,A text reply in the communications menu.,Cleared for vertical take off!,Autorisé pour le décollage vertical !
 commReply_s_landingDenied,A text reply in the communications menu.,Landing denied!,Atterrissage refusé !
@@ -324,8 +324,8 @@ prev,,Prev,Précédent
 ripple_single,Label when a rapid-fire weapon is set to only fire one shot at a time.,SINGLE,SIMPLE
 wmui_ripple,Option title for selecting a rocket/missile's ripple (rapid fire) rate.,RIPPLE,SALVE
 wmui_rippleTooltip,Tooltip for button to cycle a weapon's ripple (rapid fire) rate.,Cycle Ripple Rates,Modifier la cadence de salve
-s_masterArmed,Master armed label in EQUIP MFD page,MASTER ARMED,ARMEMENT MAITRE
-s_masterDisarmed,Master disarmed label in EQUIP MFD page,MASTER DISARMED,ARMEMENT MAITRE DÉSARMÉ
+s_masterArmed,Master armed label in EQUIP MFD page,MASTER ARMED,ARMEMENT MAÎTRE
+s_masterDisarmed,Master disarmed label in EQUIP MFD page,MASTER DISARMED,ARMEMENT MAÎTRE DÉSARMÉ
 s_eq_armed,Armed label for single equip in EQUIP MFD page,ARMED,ARMÉ
 s_eq_disarmed,Disarmed label for single equip in EQUIP MFD page,DISARMED,DÉSARMÉ
 s_eq_jettison,Jettison label for single equip in EQUIP MFD page,JETTISON,LARGAGE
