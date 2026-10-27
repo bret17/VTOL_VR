@@ -1,9 +1,11 @@
 Key,Description,en,fr
 MissionText_776118,UI Text,"Align your seat with the virtual chair.
 
-Equip helmet when ready.",Alignez votre siège avec la chaise virtuelle.
-Ready_776022,UI Text,READY,PRET
-LoadingText_775290,UI Text,LOADING,CHARGEMENT EN COURS
-loading_helmet,VR Interactable,Equip when ready.,Équipez-vous lorsque vous êtes prêts.
+Equip helmet when ready.","Alignez votre siège avec la chaise virtuelle.
+
+Équipez le casque lorsque vous êtes prêt."
+Ready_776022,UI Text,READY,PRÊT
+LoadingText_775290,UI Text,LOADING,CHARGEMENT
+loading_helmet,VR Interactable,Equip when ready.,Équipez le casque lorsque vous êtes prêt.
 recenterInteractable_-28298290,VR Interactable,Re-center,Recentrer
-Text_-28298296,UI Text,Re-center Seat,Recentrer le Siège
+Text_-28298296,UI Text,Re-center Seat,Recentrer le siège
